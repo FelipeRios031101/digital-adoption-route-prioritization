@@ -82,9 +82,7 @@ The interactive dashboard is structured into two main analytical views:
 ---
 
 ## Repository Structure
-
-´´´
-text
+```text
 Proyecto_Adopcion_Digital_Portafolio/
 │
 ├── Data_raw_anon/               # Raw synthetic datasets (CSV)
