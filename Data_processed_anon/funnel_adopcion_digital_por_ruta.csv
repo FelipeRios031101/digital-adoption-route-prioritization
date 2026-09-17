@@ -1,0 +1,89 @@
+ruta_sap,etapa,orden_etapa,clientes,total_clientes_ruta,score_prioridad
+RT019,No registrados,1,19,102,47.5
+RT019,Registrados no digitales,2,66,102,47.5
+RT019,Híbridos,3,13,102,47.5
+RT019,Fully digital,4,4,102,47.5
+RT014,No registrados,1,23,103,45.34
+RT014,Registrados no digitales,2,51,103,45.34
+RT014,Híbridos,3,27,103,45.34
+RT014,Fully digital,4,2,103,45.34
+RT008,No registrados,1,29,97,44.74
+RT008,Registrados no digitales,2,47,97,44.74
+RT008,Híbridos,3,17,97,44.74
+RT008,Fully digital,4,4,97,44.74
+RT009,No registrados,1,39,95,44.47
+RT009,Registrados no digitales,2,37,95,44.47
+RT009,Híbridos,3,18,95,44.47
+RT009,Fully digital,4,1,95,44.47
+RT013,No registrados,1,12,27,44.07
+RT013,Registrados no digitales,2,11,27,44.07
+RT013,Híbridos,3,3,27,44.07
+RT013,Fully digital,4,1,27,44.07
+RT004,No registrados,1,33,114,43.51
+RT004,Registrados no digitales,2,49,114,43.51
+RT004,Híbridos,3,27,114,43.51
+RT004,Fully digital,4,5,114,43.51
+RT011,No registrados,1,55,121,43.51
+RT011,Registrados no digitales,2,50,121,43.51
+RT011,Híbridos,3,9,121,43.51
+RT011,Fully digital,4,7,121,43.51
+RT002,No registrados,1,26,102,43.28
+RT002,Registrados no digitales,2,48,102,43.28
+RT002,Híbridos,3,21,102,43.28
+RT002,Fully digital,4,7,102,43.28
+RT003,No registrados,1,29,97,43.09
+RT003,Registrados no digitales,2,39,97,43.09
+RT003,Híbridos,3,25,97,43.09
+RT003,Fully digital,4,4,97,43.09
+RT001,No registrados,1,5,16,42.81
+RT001,Registrados no digitales,2,5,16,42.81
+RT001,Híbridos,3,6,16,42.81
+RT001,Fully digital,4,0,16,42.81
+RT022,No registrados,1,11,29,42.59
+RT022,Registrados no digitales,2,10,29,42.59
+RT022,Híbridos,3,7,29,42.59
+RT022,Fully digital,4,1,29,42.59
+RT005,No registrados,1,6,37,41.49
+RT005,Registrados no digitales,2,14,37,41.49
+RT005,Híbridos,3,15,37,41.49
+RT005,Fully digital,4,2,37,41.49
+RT007,No registrados,1,18,54,41.2
+RT007,Registrados no digitales,2,21,54,41.2
+RT007,Híbridos,3,10,54,41.2
+RT007,Fully digital,4,5,54,41.2
+RT015,No registrados,1,46,106,38.77
+RT015,Registrados no digitales,2,33,106,38.77
+RT015,Híbridos,3,13,106,38.77
+RT015,Fully digital,4,14,106,38.77
+RT021,No registrados,1,29,97,37.53
+RT021,Registrados no digitales,2,33,97,37.53
+RT021,Híbridos,3,19,97,37.53
+RT021,Fully digital,4,16,97,37.53
+RT006,No registrados,1,17,99,35.4
+RT006,Registrados no digitales,2,38,99,35.4
+RT006,Híbridos,3,21,99,35.4
+RT006,Fully digital,4,23,99,35.4
+RT012,No registrados,1,7,103,35.39
+RT012,Registrados no digitales,2,37,103,35.39
+RT012,Híbridos,3,38,103,35.39
+RT012,Fully digital,4,21,103,35.39
+RT010,No registrados,1,9,50,34.3
+RT010,Registrados no digitales,2,10,50,34.3
+RT010,Híbridos,3,23,50,34.3
+RT010,Fully digital,4,8,50,34.3
+RT018,No registrados,1,23,112,32.86
+RT018,Registrados no digitales,2,26,112,32.86
+RT018,Híbridos,3,38,112,32.86
+RT018,Fully digital,4,25,112,32.86
+RT016,No registrados,1,2,79,32.72
+RT016,Registrados no digitales,2,29,79,32.72
+RT016,Híbridos,3,26,79,32.72
+RT016,Fully digital,4,22,79,32.72
+RT017,No registrados,1,17,123,23.5
+RT017,Registrados no digitales,2,30,123,23.5
+RT017,Híbridos,3,16,123,23.5
+RT017,Fully digital,4,60,123,23.5
+RT020,No registrados,1,2,25,22.4
+RT020,Registrados no digitales,2,3,25,22.4
+RT020,Híbridos,3,9,25,22.4
+RT020,Fully digital,4,11,25,22.4

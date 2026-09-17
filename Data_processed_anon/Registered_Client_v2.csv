@@ -1,0 +1,2115 @@
+ruta_anon,cliente_anon_id,nombre_anon,status_registro
+ROUTE_0001,CUST_0001,Store_0001,no registrado
+ROUTE_0002,CUST_0002,Store_0002,no registrado
+ROUTE_0003,CUST_0003,Store_0003,no registrado
+ROUTE_0004,CUST_0004,Store_0004,no registrado
+ROUTE_0005,CUST_0005,Store_0005,registrado
+ROUTE_0006,CUST_0006,Store_0006,registrado
+ROUTE_0007,CUST_0007,Store_0007,registrado
+ROUTE_0008,CUST_0008,Store_0008,no registrado
+ROUTE_0009,CUST_0009,Store_0009,no registrado
+ROUTE_0010,CUST_0010,Store_0010,registrado
+ROUTE_0011,CUST_0011,Store_0011,registrado
+ROUTE_0011,CUST_0012,Store_0012,registrado
+ROUTE_0009,CUST_0013,Store_0013,no registrado
+ROUTE_0012,CUST_0014,Store_0014,registrado
+ROUTE_0009,CUST_0015,Store_0015,registrado
+ROUTE_0004,CUST_0016,Store_0016,no registrado
+ROUTE_0009,CUST_0017,Store_0017,no registrado
+ROUTE_0002,CUST_0018,Store_0018,registrado
+ROUTE_0011,CUST_0019,Store_0019,registrado
+ROUTE_0013,CUST_0020,Store_0020,registrado
+ROUTE_0010,CUST_0021,Store_0021,no registrado
+ROUTE_0008,CUST_0022,Store_0022,registrado
+ROUTE_0012,CUST_0023,Store_0023,registrado
+ROUTE_0004,CUST_0024,Store_0024,registrado
+ROUTE_0013,CUST_0025,Store_0025,no registrado
+ROUTE_0008,CUST_0026,Store_0026,registrado
+ROUTE_0014,CUST_0027,Store_0027,registrado
+ROUTE_0001,CUST_0028,Store_0028,registrado
+ROUTE_0004,CUST_0029,Store_0029,no registrado
+ROUTE_0015,CUST_0030,Store_0030,registrado
+ROUTE_0006,CUST_0031,Store_0031,registrado
+ROUTE_0002,CUST_0032,Store_0032,registrado
+ROUTE_0011,CUST_0033,Store_0033,registrado
+ROUTE_0015,CUST_0034,Store_0034,registrado
+ROUTE_0010,CUST_0035,Store_0035,registrado
+ROUTE_0008,CUST_0036,Store_0036,no registrado
+ROUTE_0004,CUST_0037,Store_0037,no registrado
+ROUTE_0015,CUST_0038,Store_0038,registrado
+ROUTE_0016,CUST_0039,Store_0039,registrado
+ROUTE_0012,CUST_0040,Store_0040,registrado
+ROUTE_0009,CUST_0041,Store_0041,registrado
+ROUTE_0010,CUST_0042,Store_0042,registrado
+ROUTE_0017,CUST_0043,Store_0043,registrado
+ROUTE_0011,CUST_0043,Store_0043,registrado
+ROUTE_0018,CUST_0044,Store_0044,registrado
+ROUTE_0016,CUST_0045,Store_0045,registrado
+ROUTE_0007,CUST_0046,Store_0046,registrado
+ROUTE_0019,CUST_0047,Store_0047,registrado
+ROUTE_0017,CUST_0048,Store_0048,registrado
+ROUTE_0011,CUST_0048,Store_0048,registrado
+ROUTE_0014,CUST_0049,Store_0049,registrado
+ROUTE_0004,CUST_0050,Store_0050,registrado
+ROUTE_0003,CUST_0051,Store_0051,registrado
+ROUTE_0017,CUST_0052,Store_0052,registrado
+ROUTE_0014,CUST_0053,Store_0053,registrado
+ROUTE_0004,CUST_0054,Store_0054,registrado
+ROUTE_0020,CUST_0055,Store_0055,registrado
+ROUTE_0002,CUST_0056,Store_0056,no registrado
+ROUTE_0003,CUST_0057,Store_0057,registrado
+ROUTE_0009,CUST_0057,Store_0057,registrado
+ROUTE_0009,CUST_0058,Store_0058,registrado
+ROUTE_0019,CUST_0059,Store_0059,no registrado
+ROUTE_0018,CUST_0059,Store_0059,no registrado
+ROUTE_0017,CUST_0060,Store_0060,registrado
+ROUTE_0011,CUST_0060,Store_0060,registrado
+ROUTE_0008,CUST_0061,Store_0061,registrado
+ROUTE_0011,CUST_0062,Store_0062,no registrado
+ROUTE_0017,CUST_0063,Store_0063,registrado
+ROUTE_0002,CUST_0064,Store_0064,registrado
+ROUTE_0004,CUST_0065,Store_0065,registrado
+ROUTE_0008,CUST_0066,Store_0066,registrado
+ROUTE_0013,CUST_0067,Store_0067,registrado
+ROUTE_0018,CUST_0068,Store_0068,registrado
+ROUTE_0014,CUST_0069,Store_0069,no registrado
+ROUTE_0011,CUST_0070,Store_0070,no registrado
+ROUTE_0004,CUST_0071,Store_0071,no registrado
+ROUTE_0004,CUST_0072,Store_0072,registrado
+ROUTE_0009,CUST_0073,Store_0073,registrado
+ROUTE_0010,CUST_0074,Store_0074,registrado
+ROUTE_0006,CUST_0075,Store_0075,registrado
+ROUTE_0017,CUST_0076,Store_0076,no registrado
+ROUTE_0011,CUST_0076,Store_0076,no registrado
+ROUTE_0009,CUST_0077,Store_0077,registrado
+ROUTE_0003,CUST_0078,Store_0078,registrado
+ROUTE_0009,CUST_0078,Store_0078,registrado
+ROUTE_0018,CUST_0079,Store_0079,registrado
+ROUTE_0002,CUST_0080,Store_0080,no registrado
+ROUTE_0010,CUST_0081,Store_0081,registrado
+ROUTE_0009,CUST_0082,Store_0082,registrado
+ROUTE_0011,CUST_0083,Store_0083,registrado
+ROUTE_0009,CUST_0084,Store_0084,registrado
+ROUTE_0011,CUST_0085,Store_0085,registrado
+ROUTE_0011,CUST_0086,Store_0086,registrado
+ROUTE_0004,CUST_0087,Store_0087,registrado
+ROUTE_0005,CUST_0088,Store_0088,registrado
+ROUTE_0008,CUST_0089,Store_0089,registrado
+ROUTE_0016,CUST_0090,Store_0090,registrado
+ROUTE_0004,CUST_0091,Store_0091,no registrado
+ROUTE_0004,CUST_0092,Store_0092,no registrado
+ROUTE_0021,CUST_0093,Store_0093,registrado
+ROUTE_0012,CUST_0094,Store_0094,registrado
+ROUTE_0014,CUST_0095,Store_0095,registrado
+ROUTE_0009,CUST_0096,Store_0096,no registrado
+ROUTE_0005,CUST_0097,Store_0097,no registrado
+ROUTE_0009,CUST_0098,Store_0098,registrado
+ROUTE_0006,CUST_0099,Store_0099,registrado
+ROUTE_0010,CUST_0100,Store_0100,no registrado
+ROUTE_0010,CUST_0101,Store_0101,registrado
+ROUTE_0011,CUST_0102,Store_0102,registrado
+ROUTE_0011,CUST_0103,Store_0103,registrado
+ROUTE_0021,CUST_0104,Store_0104,registrado
+ROUTE_0002,CUST_0105,Store_0105,no registrado
+ROUTE_0004,CUST_0106,Store_0106,registrado
+ROUTE_0004,CUST_0107,Store_0107,no registrado
+ROUTE_0010,CUST_0108,Store_0108,registrado
+ROUTE_0010,CUST_0109,Store_0109,registrado
+ROUTE_0021,CUST_0110,Store_0110,registrado
+ROUTE_0005,CUST_0111,Store_0111,no registrado
+ROUTE_0013,CUST_0112,Store_0112,registrado
+ROUTE_0005,CUST_0113,Store_0113,no registrado
+ROUTE_0002,CUST_0114,Store_0114,registrado
+ROUTE_0009,CUST_0115,Store_0115,registrado
+ROUTE_0004,CUST_0116,Store_0116,no registrado
+ROUTE_0008,CUST_0117,Store_0117,registrado
+ROUTE_0021,CUST_0118,Store_0118,no registrado
+ROUTE_0004,CUST_0119,Store_0119,registrado
+ROUTE_0009,CUST_0120,Store_0120,registrado
+ROUTE_0002,CUST_0121,Store_0121,no registrado
+ROUTE_0011,CUST_0122,Store_0122,registrado
+ROUTE_0004,CUST_0123,Store_0123,registrado
+ROUTE_0002,CUST_0124,Store_0124,registrado
+ROUTE_0003,CUST_0125,Store_0125,registrado
+ROUTE_0009,CUST_0125,Store_0125,registrado
+ROUTE_0021,CUST_0126,Store_0126,registrado
+ROUTE_0008,CUST_0127,Store_0127,registrado
+ROUTE_0009,CUST_0128,Store_0128,registrado
+ROUTE_0021,CUST_0129,Store_0129,no registrado
+ROUTE_0006,CUST_0130,Store_0130,registrado
+ROUTE_0021,CUST_0131,Store_0131,registrado
+ROUTE_0004,CUST_0132,Store_0132,no registrado
+ROUTE_0006,CUST_0133,Store_0133,registrado
+ROUTE_0011,CUST_0134,Store_0134,registrado
+ROUTE_0010,CUST_0135,Store_0135,no registrado
+ROUTE_0003,CUST_0136,Store_0136,registrado
+ROUTE_0004,CUST_0137,Store_0137,registrado
+ROUTE_0010,CUST_0138,Store_0138,registrado
+ROUTE_0021,CUST_0139,Store_0139,registrado
+ROUTE_0011,CUST_0140,Store_0140,no registrado
+ROUTE_0010,CUST_0141,Store_0141,registrado
+ROUTE_0011,CUST_0142,Store_0142,registrado
+ROUTE_0011,CUST_0143,Store_0143,registrado
+ROUTE_0011,CUST_0144,Store_0144,registrado
+ROUTE_0004,CUST_0145,Store_0145,registrado
+ROUTE_0016,CUST_0146,Store_0146,registrado
+ROUTE_0018,CUST_0147,Store_0147,registrado
+ROUTE_0004,CUST_0148,Store_0148,no registrado
+ROUTE_0010,CUST_0149,Store_0149,registrado
+ROUTE_0012,CUST_0150,Store_0150,registrado
+ROUTE_0021,CUST_0151,Store_0151,registrado
+ROUTE_0011,CUST_0152,Store_0152,registrado
+ROUTE_0017,CUST_0153,Store_0153,no registrado
+ROUTE_0018,CUST_0154,Store_0154,registrado
+ROUTE_0009,CUST_0155,Store_0155,registrado
+ROUTE_0009,CUST_0156,Store_0156,registrado
+ROUTE_0004,CUST_0157,Store_0157,registrado
+ROUTE_0007,CUST_0158,Store_0158,registrado
+ROUTE_0004,CUST_0159,Store_0159,no registrado
+ROUTE_0016,CUST_0160,Store_0160,registrado
+ROUTE_0001,CUST_0161,Store_0161,registrado
+ROUTE_0002,CUST_0162,Store_0162,registrado
+ROUTE_0010,CUST_0163,Store_0163,no registrado
+ROUTE_0011,CUST_0164,Store_0164,registrado
+ROUTE_0005,CUST_0165,Store_0165,no registrado
+ROUTE_0012,CUST_0165,Store_0165,no registrado
+ROUTE_0012,CUST_0166,Store_0166,registrado
+ROUTE_0003,CUST_0167,Store_0167,no registrado
+ROUTE_0016,CUST_0167,Store_0167,no registrado
+ROUTE_0017,CUST_0168,Store_0168,registrado
+ROUTE_0008,CUST_0169,Store_0169,no registrado
+ROUTE_0002,CUST_0170,Store_0170,registrado
+ROUTE_0021,CUST_0171,Store_0171,no registrado
+ROUTE_0011,CUST_0172,Store_0172,registrado
+ROUTE_0002,CUST_0173,Store_0173,registrado
+ROUTE_0007,CUST_0174,Store_0174,no registrado
+ROUTE_0018,CUST_0175,Store_0175,registrado
+ROUTE_0018,CUST_0176,Store_0176,registrado
+ROUTE_0006,CUST_0177,Store_0177,no registrado
+ROUTE_0018,CUST_0178,Store_0178,registrado
+ROUTE_0008,CUST_0179,Store_0179,registrado
+ROUTE_0002,CUST_0180,Store_0180,no registrado
+ROUTE_0010,CUST_0180,Store_0180,no registrado
+ROUTE_0021,CUST_0181,Store_0181,no registrado
+ROUTE_0012,CUST_0181,Store_0181,no registrado
+ROUTE_0021,CUST_0182,Store_0182,registrado
+ROUTE_0018,CUST_0183,Store_0183,no registrado
+ROUTE_0018,CUST_0184,Store_0184,registrado
+ROUTE_0005,CUST_0185,Store_0185,registrado
+ROUTE_0014,CUST_0186,Store_0186,registrado
+ROUTE_0021,CUST_0187,Store_0187,registrado
+ROUTE_0007,CUST_0188,Store_0188,registrado
+ROUTE_0004,CUST_0189,Store_0189,registrado
+ROUTE_0005,CUST_0190,Store_0190,no registrado
+ROUTE_0019,CUST_0191,Store_0191,registrado
+ROUTE_0015,CUST_0192,Store_0192,registrado
+ROUTE_0010,CUST_0193,Store_0193,registrado
+ROUTE_0010,CUST_0194,Store_0194,no registrado
+ROUTE_0019,CUST_0195,Store_0195,registrado
+ROUTE_0015,CUST_0196,Store_0196,no registrado
+ROUTE_0021,CUST_0197,Store_0197,registrado
+ROUTE_0012,CUST_0198,Store_0198,no registrado
+ROUTE_0005,CUST_0199,Store_0199,registrado
+ROUTE_0005,CUST_0200,Store_0200,registrado
+ROUTE_0009,CUST_0201,Store_0201,registrado
+ROUTE_0006,CUST_0202,Store_0202,registrado
+ROUTE_0019,CUST_0203,Store_0203,registrado
+ROUTE_0012,CUST_0203,Store_0203,registrado
+ROUTE_0019,CUST_0204,Store_0204,registrado
+ROUTE_0002,CUST_0205,Store_0205,registrado
+ROUTE_0009,CUST_0206,Store_0206,registrado
+ROUTE_0012,CUST_0207,Store_0207,registrado
+ROUTE_0002,CUST_0208,Store_0208,registrado
+ROUTE_0021,CUST_0209,Store_0209,no registrado
+ROUTE_0001,CUST_0210,Store_0210,registrado
+ROUTE_0019,CUST_0211,Store_0211,registrado
+ROUTE_0010,CUST_0212,Store_0212,registrado
+ROUTE_0006,CUST_0213,Store_0213,no registrado
+ROUTE_0005,CUST_0214,Store_0214,registrado
+ROUTE_0009,CUST_0215,Store_0215,registrado
+ROUTE_0015,CUST_0216,Store_0216,registrado
+ROUTE_0011,CUST_0217,Store_0217,no registrado
+ROUTE_0015,CUST_0218,Store_0218,registrado
+ROUTE_0019,CUST_0219,Store_0219,registrado
+ROUTE_0021,CUST_0220,Store_0220,no registrado
+ROUTE_0002,CUST_0221,Store_0221,registrado
+ROUTE_0006,CUST_0222,Store_0222,registrado
+ROUTE_0006,CUST_0223,Store_0223,no registrado
+ROUTE_0018,CUST_0224,Store_0224,registrado
+ROUTE_0017,CUST_0225,Store_0225,no registrado
+ROUTE_0015,CUST_0226,Store_0226,no registrado
+ROUTE_0002,CUST_0227,Store_0227,no registrado
+ROUTE_0008,CUST_0228,Store_0228,no registrado
+ROUTE_0018,CUST_0229,Store_0229,registrado
+ROUTE_0017,CUST_0230,Store_0230,registrado
+ROUTE_0018,CUST_0231,Store_0231,registrado
+ROUTE_0021,CUST_0232,Store_0232,registrado
+ROUTE_0021,CUST_0233,Store_0233,registrado
+ROUTE_0021,CUST_0234,Store_0234,registrado
+ROUTE_0021,CUST_0235,Store_0235,registrado
+ROUTE_0015,CUST_0236,Store_0236,registrado
+ROUTE_0005,CUST_0237,Store_0237,registrado
+ROUTE_0019,CUST_0238,Store_0238,registrado
+ROUTE_0021,CUST_0239,Store_0239,no registrado
+ROUTE_0019,CUST_0240,Store_0240,registrado
+ROUTE_0021,CUST_0241,Store_0241,registrado
+ROUTE_0021,CUST_0242,Store_0242,registrado
+ROUTE_0014,CUST_0243,Store_0243,no registrado
+ROUTE_0019,CUST_0244,Store_0244,registrado
+ROUTE_0008,CUST_0245,Store_0245,registrado
+ROUTE_0019,CUST_0246,Store_0246,no registrado
+ROUTE_0006,CUST_0247,Store_0247,no registrado
+ROUTE_0015,CUST_0248,Store_0248,no registrado
+ROUTE_0002,CUST_0249,Store_0249,registrado
+ROUTE_0013,CUST_0250,Store_0250,registrado
+ROUTE_0019,CUST_0251,Store_0251,no registrado
+ROUTE_0012,CUST_0252,Store_0252,no registrado
+ROUTE_0015,CUST_0253,Store_0253,no registrado
+ROUTE_0021,CUST_0254,Store_0254,registrado
+ROUTE_0010,CUST_0255,Store_0255,registrado
+ROUTE_0015,CUST_0256,Store_0256,no registrado
+ROUTE_0017,CUST_0257,Store_0257,registrado
+ROUTE_0005,CUST_0258,Store_0258,registrado
+ROUTE_0019,CUST_0259,Store_0259,registrado
+ROUTE_0014,CUST_0260,Store_0260,registrado
+ROUTE_0019,CUST_0261,Store_0261,registrado
+ROUTE_0015,CUST_0262,Store_0262,registrado
+ROUTE_0011,CUST_0263,Store_0263,registrado
+ROUTE_0004,CUST_0264,Store_0264,no registrado
+ROUTE_0016,CUST_0265,Store_0265,registrado
+ROUTE_0017,CUST_0266,Store_0266,registrado
+ROUTE_0011,CUST_0267,Store_0267,registrado
+ROUTE_0003,CUST_0268,Store_0268,no registrado
+ROUTE_0015,CUST_0269,Store_0269,registrado
+ROUTE_0009,CUST_0270,Store_0270,registrado
+ROUTE_0015,CUST_0271,Store_0271,no registrado
+ROUTE_0017,CUST_0272,Store_0272,no registrado
+ROUTE_0005,CUST_0273,Store_0273,registrado
+ROUTE_0006,CUST_0274,Store_0274,registrado
+ROUTE_0014,CUST_0275,Store_0275,no registrado
+ROUTE_0006,CUST_0276,Store_0276,no registrado
+ROUTE_0001,CUST_0277,Store_0277,registrado
+ROUTE_0010,CUST_0278,Store_0278,registrado
+ROUTE_0019,CUST_0279,Store_0279,registrado
+ROUTE_0012,CUST_0280,Store_0280,registrado
+ROUTE_0017,CUST_0281,Store_0281,no registrado
+ROUTE_0012,CUST_0282,Store_0282,registrado
+ROUTE_0018,CUST_0283,Store_0283,registrado
+ROUTE_0018,CUST_0284,Store_0284,registrado
+ROUTE_0017,CUST_0285,Store_0285,registrado
+ROUTE_0021,CUST_0286,Store_0286,registrado
+ROUTE_0015,CUST_0287,Store_0287,no registrado
+ROUTE_0002,CUST_0288,Store_0288,no registrado
+ROUTE_0011,CUST_0289,Store_0289,registrado
+ROUTE_0010,CUST_0290,Store_0290,registrado
+ROUTE_0018,CUST_0291,Store_0291,registrado
+ROUTE_0010,CUST_0292,Store_0292,registrado
+ROUTE_0018,CUST_0293,Store_0293,registrado
+ROUTE_0019,CUST_0294,Store_0294,registrado
+ROUTE_0003,CUST_0295,Store_0295,registrado
+ROUTE_0019,CUST_0296,Store_0296,registrado
+ROUTE_0012,CUST_0297,Store_0297,registrado
+ROUTE_0012,CUST_0298,Store_0298,no registrado
+ROUTE_0019,CUST_0299,Store_0299,registrado
+ROUTE_0018,CUST_0299,Store_0299,registrado
+ROUTE_0007,CUST_0300,Store_0300,registrado
+ROUTE_0016,CUST_0301,Store_0301,registrado
+ROUTE_0008,CUST_0302,Store_0302,registrado
+ROUTE_0018,CUST_0303,Store_0303,registrado
+ROUTE_0015,CUST_0304,Store_0304,no registrado
+ROUTE_0006,CUST_0305,Store_0305,registrado
+ROUTE_0004,CUST_0306,Store_0306,registrado
+ROUTE_0019,CUST_0307,Store_0307,no registrado
+ROUTE_0015,CUST_0308,Store_0308,registrado
+ROUTE_0014,CUST_0309,Store_0309,no registrado
+ROUTE_0006,CUST_0310,Store_0310,registrado
+ROUTE_0019,CUST_0311,Store_0311,registrado
+ROUTE_0006,CUST_0312,Store_0312,no registrado
+ROUTE_0010,CUST_0313,Store_0313,registrado
+ROUTE_0021,CUST_0314,Store_0314,registrado
+ROUTE_0002,CUST_0315,Store_0315,registrado
+ROUTE_0012,CUST_0316,Store_0316,registrado
+ROUTE_0006,CUST_0317,Store_0317,no registrado
+ROUTE_0022,CUST_0318,Store_0318,no registrado
+ROUTE_0019,CUST_0319,Store_0319,registrado
+ROUTE_0015,CUST_0320,Store_0320,registrado
+ROUTE_0010,CUST_0321,Store_0321,registrado
+ROUTE_0014,CUST_0322,Store_0322,no registrado
+ROUTE_0014,CUST_0323,Store_0323,no registrado
+ROUTE_0013,CUST_0324,Store_0324,no registrado
+ROUTE_0014,CUST_0325,Store_0325,registrado
+ROUTE_0017,CUST_0326,Store_0326,registrado
+ROUTE_0019,CUST_0327,Store_0327,registrado
+ROUTE_0011,CUST_0328,Store_0328,registrado
+ROUTE_0003,CUST_0329,Store_0329,registrado
+ROUTE_0002,CUST_0330,Store_0330,registrado
+ROUTE_0002,CUST_0331,Store_0331,registrado
+ROUTE_0019,CUST_0332,Store_0332,registrado
+ROUTE_0019,CUST_0333,Store_0333,registrado
+ROUTE_0007,CUST_0334,Store_0334,registrado
+ROUTE_0013,CUST_0335,Store_0335,registrado
+ROUTE_0013,CUST_0336,Store_0336,registrado
+ROUTE_0018,CUST_0337,Store_0337,registrado
+ROUTE_0014,CUST_0338,Store_0338,registrado
+ROUTE_0005,CUST_0339,Store_0339,registrado
+ROUTE_0014,CUST_0340,Store_0340,registrado
+ROUTE_0018,CUST_0341,Store_0341,registrado
+ROUTE_0003,CUST_0342,Store_0342,registrado
+ROUTE_0008,CUST_0343,Store_0343,registrado
+ROUTE_0019,CUST_0344,Store_0344,registrado
+ROUTE_0012,CUST_0345,Store_0345,no registrado
+ROUTE_0012,CUST_0346,Store_0346,registrado
+ROUTE_0021,CUST_0347,Store_0347,registrado
+ROUTE_0005,CUST_0348,Store_0348,registrado
+ROUTE_0019,CUST_0349,Store_0349,no registrado
+ROUTE_0018,CUST_0350,Store_0350,registrado
+ROUTE_0021,CUST_0351,Store_0351,no registrado
+ROUTE_0021,CUST_0352,Store_0352,registrado
+ROUTE_0021,CUST_0353,Store_0353,registrado
+ROUTE_0019,CUST_0354,Store_0354,registrado
+ROUTE_0012,CUST_0354,Store_0354,registrado
+ROUTE_0001,CUST_0355,Store_0355,registrado
+ROUTE_0003,CUST_0356,Store_0356,registrado
+ROUTE_0014,CUST_0357,Store_0357,registrado
+ROUTE_0005,CUST_0358,Store_0358,registrado
+ROUTE_0006,CUST_0359,Store_0359,registrado
+ROUTE_0010,CUST_0360,Store_0360,no registrado
+ROUTE_0002,CUST_0361,Store_0361,registrado
+ROUTE_0013,CUST_0362,Store_0362,registrado
+ROUTE_0012,CUST_0363,Store_0363,registrado
+ROUTE_0011,CUST_0364,Store_0364,registrado
+ROUTE_0011,CUST_0365,Store_0365,registrado
+ROUTE_0019,CUST_0366,Store_0366,registrado
+ROUTE_0002,CUST_0367,Store_0367,registrado
+ROUTE_0012,CUST_0368,Store_0368,registrado
+ROUTE_0015,CUST_0369,Store_0369,registrado
+ROUTE_0015,CUST_0370,Store_0370,registrado
+ROUTE_0012,CUST_0371,Store_0371,registrado
+ROUTE_0021,CUST_0372,Store_0372,registrado
+ROUTE_0005,CUST_0373,Store_0373,registrado
+ROUTE_0010,CUST_0374,Store_0374,registrado
+ROUTE_0002,CUST_0375,Store_0375,registrado
+ROUTE_0015,CUST_0376,Store_0376,registrado
+ROUTE_0019,CUST_0377,Store_0377,registrado
+ROUTE_0005,CUST_0378,Store_0378,registrado
+ROUTE_0005,CUST_0379,Store_0379,registrado
+ROUTE_0015,CUST_0380,Store_0380,registrado
+ROUTE_0008,CUST_0381,Store_0381,registrado
+ROUTE_0003,CUST_0382,Store_0382,no registrado
+ROUTE_0002,CUST_0383,Store_0383,registrado
+ROUTE_0003,CUST_0384,Store_0384,no registrado
+ROUTE_0021,CUST_0385,Store_0385,registrado
+ROUTE_0002,CUST_0386,Store_0386,registrado
+ROUTE_0004,CUST_0387,Store_0387,registrado
+ROUTE_0004,CUST_0388,Store_0388,no registrado
+ROUTE_0019,CUST_0389,Store_0389,registrado
+ROUTE_0012,CUST_0390,Store_0390,registrado
+ROUTE_0012,CUST_0391,Store_0391,registrado
+ROUTE_0008,CUST_0392,Store_0392,registrado
+ROUTE_0003,CUST_0393,Store_0393,registrado
+ROUTE_0003,CUST_0394,Store_0394,registrado
+ROUTE_0021,CUST_0395,Store_0395,registrado
+ROUTE_0012,CUST_0396,Store_0396,registrado
+ROUTE_0017,CUST_0397,Store_0397,registrado
+ROUTE_0006,CUST_0398,Store_0398,registrado
+ROUTE_0014,CUST_0399,Store_0399,registrado
+ROUTE_0019,CUST_0400,Store_0400,no registrado
+ROUTE_0019,CUST_0401,Store_0401,registrado
+ROUTE_0008,CUST_0402,Store_0402,registrado
+ROUTE_0003,CUST_0403,Store_0403,no registrado
+ROUTE_0003,CUST_0404,Store_0404,registrado
+ROUTE_0006,CUST_0405,Store_0405,registrado
+ROUTE_0011,CUST_0406,Store_0406,registrado
+ROUTE_0012,CUST_0401,Store_0401,registrado
+ROUTE_0015,CUST_0407,Store_0407,registrado
+ROUTE_0014,CUST_0408,Store_0408,no registrado
+ROUTE_0006,CUST_0409,Store_0409,registrado
+ROUTE_0010,CUST_0410,Store_0410,no registrado
+ROUTE_0010,CUST_0411,Store_0411,registrado
+ROUTE_0019,CUST_0412,Store_0412,no registrado
+ROUTE_0015,CUST_0413,Store_0413,no registrado
+ROUTE_0003,CUST_0414,Store_0414,registrado
+ROUTE_0005,CUST_0415,Store_0415,registrado
+ROUTE_0006,CUST_0416,Store_0416,registrado
+ROUTE_0017,CUST_0417,Store_0417,no registrado
+ROUTE_0015,CUST_0418,Store_0418,registrado
+ROUTE_0017,CUST_0419,Store_0419,no registrado
+ROUTE_0003,CUST_0420,Store_0420,registrado
+ROUTE_0014,CUST_0421,Store_0421,registrado
+ROUTE_0006,CUST_0422,Store_0422,registrado
+ROUTE_0019,CUST_0423,Store_0423,registrado
+ROUTE_0019,CUST_0424,Store_0424,registrado
+ROUTE_0021,CUST_0425,Store_0425,registrado
+ROUTE_0001,CUST_0426,Store_0426,registrado
+ROUTE_0001,CUST_0427,Store_0427,no registrado
+ROUTE_0001,CUST_0428,Store_0428,registrado
+ROUTE_0012,CUST_0429,Store_0429,registrado
+ROUTE_0001,CUST_0430,Store_0430,registrado
+ROUTE_0017,CUST_0431,Store_0431,no registrado
+ROUTE_0011,CUST_0431,Store_0431,no registrado
+ROUTE_0004,CUST_0432,Store_0432,registrado
+ROUTE_0012,CUST_0433,Store_0433,registrado
+ROUTE_0006,CUST_0434,Store_0434,no registrado
+ROUTE_0002,CUST_0435,Store_0435,registrado
+ROUTE_0005,CUST_0436,Store_0436,no registrado
+ROUTE_0019,CUST_0437,Store_0437,registrado
+ROUTE_0015,CUST_0438,Store_0438,no registrado
+ROUTE_0013,CUST_0439,Store_0439,registrado
+ROUTE_0003,CUST_0440,Store_0440,no registrado
+ROUTE_0002,CUST_0441,Store_0441,registrado
+ROUTE_0003,CUST_0442,Store_0442,no registrado
+ROUTE_0003,CUST_0443,Store_0443,no registrado
+ROUTE_0008,CUST_0444,Store_0444,no registrado
+ROUTE_0016,CUST_0445,Store_0445,registrado
+ROUTE_0006,CUST_0446,Store_0446,no registrado
+ROUTE_0019,CUST_0447,Store_0447,registrado
+ROUTE_0002,CUST_0448,Store_0448,no registrado
+ROUTE_0012,CUST_0449,Store_0449,registrado
+ROUTE_0002,CUST_0450,Store_0450,no registrado
+ROUTE_0006,CUST_0451,Store_0451,no registrado
+ROUTE_0012,CUST_0452,Store_0452,registrado
+ROUTE_0014,CUST_0453,Store_0453,registrado
+ROUTE_0009,CUST_0454,Store_0454,registrado
+ROUTE_0018,CUST_0455,Store_0455,registrado
+ROUTE_0021,CUST_0456,Store_0456,registrado
+ROUTE_0005,CUST_0457,Store_0457,no registrado
+ROUTE_0009,CUST_0458,Store_0458,registrado
+ROUTE_0012,CUST_0459,Store_0459,registrado
+ROUTE_0019,CUST_0460,Store_0460,no registrado
+ROUTE_0019,CUST_0461,Store_0461,registrado
+ROUTE_0019,CUST_0462,Store_0462,registrado
+ROUTE_0019,CUST_0463,Store_0463,registrado
+ROUTE_0010,CUST_0464,Store_0464,registrado
+ROUTE_0012,CUST_0465,Store_0465,registrado
+ROUTE_0012,CUST_0466,Store_0466,registrado
+ROUTE_0019,CUST_0467,Store_0467,registrado
+ROUTE_0018,CUST_0467,Store_0467,registrado
+ROUTE_0015,CUST_0468,Store_0468,registrado
+ROUTE_0019,CUST_0469,Store_0469,registrado
+ROUTE_0003,CUST_0470,Store_0470,registrado
+ROUTE_0018,CUST_0471,Store_0471,registrado
+ROUTE_0002,CUST_0472,Store_0472,registrado
+ROUTE_0002,CUST_0473,Store_0473,registrado
+ROUTE_0012,CUST_0474,Store_0474,registrado
+ROUTE_0012,CUST_0475,Store_0475,registrado
+ROUTE_0002,CUST_0476,Store_0476,no registrado
+ROUTE_0003,CUST_0477,Store_0477,registrado
+ROUTE_0021,CUST_0478,Store_0478,registrado
+ROUTE_0005,CUST_0479,Store_0479,no registrado
+ROUTE_0005,CUST_0480,Store_0480,no registrado
+ROUTE_0014,CUST_0481,Store_0481,registrado
+ROUTE_0002,CUST_0482,Store_0482,registrado
+ROUTE_0019,CUST_0483,Store_0483,registrado
+ROUTE_0019,CUST_0484,Store_0484,registrado
+ROUTE_0019,CUST_0485,Store_0485,registrado
+ROUTE_0019,CUST_0486,Store_0486,registrado
+ROUTE_0008,CUST_0487,Store_0487,registrado
+ROUTE_0003,CUST_0488,Store_0488,registrado
+ROUTE_0006,CUST_0489,Store_0489,registrado
+ROUTE_0011,CUST_0490,Store_0490,registrado
+ROUTE_0018,CUST_0483,Store_0483,registrado
+ROUTE_0012,CUST_0491,Store_0491,registrado
+ROUTE_0015,CUST_0492,Store_0492,registrado
+ROUTE_0004,CUST_0493,Store_0493,no registrado
+ROUTE_0019,CUST_0494,Store_0494,no registrado
+ROUTE_0006,CUST_0495,Store_0495,no registrado
+ROUTE_0016,CUST_0496,Store_0496,registrado
+ROUTE_0009,CUST_0497,Store_0497,registrado
+ROUTE_0004,CUST_0498,Store_0498,registrado
+ROUTE_0003,CUST_0499,Store_0499,no registrado
+ROUTE_0006,CUST_0500,Store_0500,no registrado
+ROUTE_0009,CUST_0499,Store_0499,no registrado
+ROUTE_0005,CUST_0501,Store_0501,registrado
+ROUTE_0010,CUST_0502,Store_0502,registrado
+ROUTE_0019,CUST_0503,Store_0503,no registrado
+ROUTE_0016,CUST_0504,Store_0504,registrado
+ROUTE_0015,CUST_0505,Store_0505,registrado
+ROUTE_0018,CUST_0506,Store_0506,registrado
+ROUTE_0002,CUST_0507,Store_0507,no registrado
+ROUTE_0018,CUST_0508,Store_0508,registrado
+ROUTE_0019,CUST_0509,Store_0509,registrado
+ROUTE_0012,CUST_0510,Store_0510,registrado
+ROUTE_0008,CUST_0511,Store_0511,registrado
+ROUTE_0011,CUST_0512,Store_0512,registrado
+ROUTE_0005,CUST_0513,Store_0513,no registrado
+ROUTE_0017,CUST_0514,Store_0514,no registrado
+ROUTE_0010,CUST_0515,Store_0515,registrado
+ROUTE_0012,CUST_0513,Store_0513,no registrado
+ROUTE_0014,CUST_0516,Store_0516,no registrado
+ROUTE_0009,CUST_0517,Store_0517,no registrado
+ROUTE_0011,CUST_0518,Store_0518,registrado
+ROUTE_0008,CUST_0519,Store_0519,registrado
+ROUTE_0019,CUST_0520,Store_0520,no registrado
+ROUTE_0012,CUST_0521,Store_0521,registrado
+ROUTE_0021,CUST_0522,Store_0522,registrado
+ROUTE_0015,CUST_0523,Store_0523,no registrado
+ROUTE_0008,CUST_0524,Store_0524,registrado
+ROUTE_0012,CUST_0525,Store_0525,registrado
+ROUTE_0019,CUST_0526,Store_0526,registrado
+ROUTE_0019,CUST_0527,Store_0527,registrado
+ROUTE_0003,CUST_0528,Store_0528,registrado
+ROUTE_0012,CUST_0529,Store_0529,registrado
+ROUTE_0002,CUST_0530,Store_0530,registrado
+ROUTE_0021,CUST_0531,Store_0531,registrado
+ROUTE_0019,CUST_0532,Store_0532,registrado
+ROUTE_0011,CUST_0533,Store_0533,registrado
+ROUTE_0012,CUST_0532,Store_0532,registrado
+ROUTE_0019,CUST_0534,Store_0534,registrado
+ROUTE_0014,CUST_0535,Store_0535,registrado
+ROUTE_0021,CUST_0536,Store_0536,no registrado
+ROUTE_0010,CUST_0537,Store_0537,no registrado
+ROUTE_0015,CUST_0538,Store_0538,no registrado
+ROUTE_0010,CUST_0539,Store_0539,registrado
+ROUTE_0012,CUST_0540,Store_0540,no registrado
+ROUTE_0008,CUST_0541,Store_0541,no registrado
+ROUTE_0002,CUST_0542,Store_0542,registrado
+ROUTE_0018,CUST_0543,Store_0543,registrado
+ROUTE_0018,CUST_0544,Store_0544,registrado
+ROUTE_0005,CUST_0545,Store_0545,registrado
+ROUTE_0013,CUST_0546,Store_0546,registrado
+ROUTE_0008,CUST_0547,Store_0547,no registrado
+ROUTE_0022,CUST_0548,Store_0548,registrado
+ROUTE_0021,CUST_0549,Store_0549,registrado
+ROUTE_0019,CUST_0550,Store_0550,registrado
+ROUTE_0015,CUST_0551,Store_0551,registrado
+ROUTE_0003,CUST_0552,Store_0552,no registrado
+ROUTE_0012,CUST_0553,Store_0553,registrado
+ROUTE_0017,CUST_0554,Store_0554,no registrado
+ROUTE_0021,CUST_0555,Store_0555,registrado
+ROUTE_0017,CUST_0556,Store_0556,registrado
+ROUTE_0004,CUST_0557,Store_0557,no registrado
+ROUTE_0015,CUST_0558,Store_0558,no registrado
+ROUTE_0019,CUST_0559,Store_0559,registrado
+ROUTE_0006,CUST_0560,Store_0560,registrado
+ROUTE_0019,CUST_0561,Store_0561,no registrado
+ROUTE_0015,CUST_0562,Store_0562,registrado
+ROUTE_0010,CUST_0563,Store_0563,no registrado
+ROUTE_0015,CUST_0564,Store_0564,registrado
+ROUTE_0019,CUST_0565,Store_0565,registrado
+ROUTE_0003,CUST_0566,Store_0566,registrado
+ROUTE_0019,CUST_0567,Store_0567,registrado
+ROUTE_0019,CUST_0568,Store_0568,registrado
+ROUTE_0005,CUST_0569,Store_0569,registrado
+ROUTE_0011,CUST_0570,Store_0570,registrado
+ROUTE_0015,CUST_0571,Store_0571,registrado
+ROUTE_0005,CUST_0572,Store_0572,no registrado
+ROUTE_0010,CUST_0573,Store_0573,registrado
+ROUTE_0012,CUST_0574,Store_0574,registrado
+ROUTE_0012,CUST_0575,Store_0575,registrado
+ROUTE_0002,CUST_0576,Store_0576,registrado
+ROUTE_0002,CUST_0577,Store_0577,registrado
+ROUTE_0006,CUST_0578,Store_0578,no registrado
+ROUTE_0006,CUST_0579,Store_0579,registrado
+ROUTE_0004,CUST_0580,Store_0580,no registrado
+ROUTE_0010,CUST_0581,Store_0581,registrado
+ROUTE_0015,CUST_0582,Store_0582,registrado
+ROUTE_0017,CUST_0583,Store_0583,registrado
+ROUTE_0011,CUST_0583,Store_0583,registrado
+ROUTE_0002,CUST_0584,Store_0584,registrado
+ROUTE_0012,CUST_0585,Store_0585,registrado
+ROUTE_0019,CUST_0586,Store_0586,registrado
+ROUTE_0014,CUST_0587,Store_0587,registrado
+ROUTE_0014,CUST_0588,Store_0588,no registrado
+ROUTE_0013,CUST_0589,Store_0589,registrado
+ROUTE_0004,CUST_0590,Store_0590,no registrado
+ROUTE_0003,CUST_0591,Store_0591,registrado
+ROUTE_0005,CUST_0592,Store_0592,registrado
+ROUTE_0003,CUST_0593,Store_0593,no registrado
+ROUTE_0018,CUST_0594,Store_0594,registrado
+ROUTE_0005,CUST_0595,Store_0595,no registrado
+ROUTE_0006,CUST_0596,Store_0596,registrado
+ROUTE_0015,CUST_0597,Store_0597,registrado
+ROUTE_0021,CUST_0598,Store_0598,registrado
+ROUTE_0019,CUST_0599,Store_0599,registrado
+ROUTE_0019,CUST_0600,Store_0600,registrado
+ROUTE_0021,CUST_0601,Store_0601,no registrado
+ROUTE_0002,CUST_0602,Store_0602,registrado
+ROUTE_0014,CUST_0603,Store_0603,registrado
+ROUTE_0002,CUST_0604,Store_0604,no registrado
+ROUTE_0003,CUST_0605,Store_0605,registrado
+ROUTE_0006,CUST_0606,Store_0606,registrado
+ROUTE_0010,CUST_0607,Store_0607,no registrado
+ROUTE_0021,CUST_0608,Store_0608,registrado
+ROUTE_0004,CUST_0609,Store_0609,registrado
+ROUTE_0006,CUST_0610,Store_0610,no registrado
+ROUTE_0011,CUST_0611,Store_0611,registrado
+ROUTE_0009,CUST_0612,Store_0612,registrado
+ROUTE_0021,CUST_0613,Store_0613,registrado
+ROUTE_0015,CUST_0614,Store_0614,registrado
+ROUTE_0019,CUST_0615,Store_0615,registrado
+ROUTE_0020,CUST_0616,Store_0616,registrado
+ROUTE_0011,CUST_0617,Store_0617,registrado
+ROUTE_0011,CUST_0618,Store_0618,registrado
+ROUTE_0004,CUST_0619,Store_0619,no registrado
+ROUTE_0017,CUST_0620,Store_0620,no registrado
+ROUTE_0011,CUST_0620,Store_0620,no registrado
+ROUTE_0012,CUST_0621,Store_0621,no registrado
+ROUTE_0021,CUST_0622,Store_0622,registrado
+ROUTE_0016,CUST_0623,Store_0623,registrado
+ROUTE_0004,CUST_0624,Store_0624,registrado
+ROUTE_0015,CUST_0625,Store_0625,registrado
+ROUTE_0003,CUST_0626,Store_0626,registrado
+ROUTE_0006,CUST_0627,Store_0627,registrado
+ROUTE_0004,CUST_0628,Store_0628,registrado
+ROUTE_0019,CUST_0629,Store_0629,registrado
+ROUTE_0003,CUST_0630,Store_0630,registrado
+ROUTE_0012,CUST_0631,Store_0631,registrado
+ROUTE_0012,CUST_0632,Store_0632,no registrado
+ROUTE_0021,CUST_0633,Store_0633,registrado
+ROUTE_0019,CUST_0634,Store_0634,registrado
+ROUTE_0017,CUST_0635,Store_0635,no registrado
+ROUTE_0001,CUST_0636,Store_0636,no registrado
+ROUTE_0011,CUST_0637,Store_0637,registrado
+ROUTE_0012,CUST_0638,Store_0638,registrado
+ROUTE_0014,CUST_0639,Store_0639,no registrado
+ROUTE_0016,CUST_0640,Store_0640,registrado
+ROUTE_0014,CUST_0641,Store_0641,registrado
+ROUTE_0012,CUST_0642,Store_0642,no registrado
+ROUTE_0012,CUST_0643,Store_0643,no registrado
+ROUTE_0018,CUST_0644,Store_0644,registrado
+ROUTE_0004,CUST_0645,Store_0645,no registrado
+ROUTE_0010,CUST_0646,Store_0646,no registrado
+ROUTE_0005,CUST_0647,Store_0647,registrado
+ROUTE_0015,CUST_0648,Store_0648,registrado
+ROUTE_0016,CUST_0649,Store_0649,registrado
+ROUTE_0021,CUST_0650,Store_0650,registrado
+ROUTE_0014,CUST_0651,Store_0651,registrado
+ROUTE_0017,CUST_0652,Store_0652,registrado
+ROUTE_0004,CUST_0653,Store_0653,registrado
+ROUTE_0003,CUST_0654,Store_0654,registrado
+ROUTE_0018,CUST_0655,Store_0655,no registrado
+ROUTE_0018,CUST_0656,Store_0656,registrado
+ROUTE_0007,CUST_0657,Store_0657,registrado
+ROUTE_0003,CUST_0658,Store_0658,no registrado
+ROUTE_0018,CUST_0659,Store_0659,registrado
+ROUTE_0012,CUST_0660,Store_0660,registrado
+ROUTE_0014,CUST_0661,Store_0661,registrado
+ROUTE_0019,CUST_0662,Store_0662,registrado
+ROUTE_0012,CUST_0662,Store_0662,registrado
+ROUTE_0015,CUST_0663,Store_0663,no registrado
+ROUTE_0002,CUST_0664,Store_0664,no registrado
+ROUTE_0008,CUST_0665,Store_0665,no registrado
+ROUTE_0015,CUST_0666,Store_0666,registrado
+ROUTE_0008,CUST_0667,Store_0667,registrado
+ROUTE_0006,CUST_0668,Store_0668,registrado
+ROUTE_0010,CUST_0669,Store_0669,registrado
+ROUTE_0015,CUST_0670,Store_0670,registrado
+ROUTE_0010,CUST_0671,Store_0671,no registrado
+ROUTE_0015,CUST_0672,Store_0672,registrado
+ROUTE_0016,CUST_0673,Store_0673,registrado
+ROUTE_0001,CUST_0674,Store_0674,no registrado
+ROUTE_0012,CUST_0675,Store_0675,registrado
+ROUTE_0018,CUST_0676,Store_0676,registrado
+ROUTE_0019,CUST_0677,Store_0677,no registrado
+ROUTE_0013,CUST_0678,Store_0678,no registrado
+ROUTE_0016,CUST_0679,Store_0679,registrado
+ROUTE_0021,CUST_0680,Store_0680,registrado
+ROUTE_0011,CUST_0681,Store_0681,registrado
+ROUTE_0005,CUST_0682,Store_0682,registrado
+ROUTE_0006,CUST_0683,Store_0683,registrado
+ROUTE_0008,CUST_0684,Store_0684,registrado
+ROUTE_0006,CUST_0685,Store_0685,no registrado
+ROUTE_0018,CUST_0686,Store_0686,registrado
+ROUTE_0010,CUST_0687,Store_0687,registrado
+ROUTE_0003,CUST_0688,Store_0688,registrado
+ROUTE_0002,CUST_0689,Store_0689,no registrado
+ROUTE_0002,CUST_0690,Store_0690,registrado
+ROUTE_0018,CUST_0691,Store_0691,registrado
+ROUTE_0010,CUST_0692,Store_0692,registrado
+ROUTE_0005,CUST_0693,Store_0693,registrado
+ROUTE_0019,CUST_0694,Store_0694,registrado
+ROUTE_0015,CUST_0695,Store_0695,registrado
+ROUTE_0012,CUST_0696,Store_0696,registrado
+ROUTE_0006,CUST_0697,Store_0697,registrado
+ROUTE_0016,CUST_0698,Store_0698,no registrado
+ROUTE_0001,CUST_0699,Store_0699,registrado
+ROUTE_0010,CUST_0700,Store_0700,no registrado
+ROUTE_0005,CUST_0701,Store_0701,registrado
+ROUTE_0012,CUST_0701,Store_0701,registrado
+ROUTE_0005,CUST_0702,Store_0702,no registrado
+ROUTE_0004,CUST_0703,Store_0703,registrado
+ROUTE_0005,CUST_0704,Store_0704,registrado
+ROUTE_0015,CUST_0705,Store_0705,registrado
+ROUTE_0002,CUST_0706,Store_0706,no registrado
+ROUTE_0018,CUST_0707,Store_0707,registrado
+ROUTE_0015,CUST_0708,Store_0708,registrado
+ROUTE_0006,CUST_0709,Store_0709,registrado
+ROUTE_0021,CUST_0710,Store_0710,registrado
+ROUTE_0005,CUST_0711,Store_0711,registrado
+ROUTE_0006,CUST_0712,Store_0712,no registrado
+ROUTE_0019,CUST_0713,Store_0713,registrado
+ROUTE_0012,CUST_0714,Store_0714,registrado
+ROUTE_0002,CUST_0715,Store_0715,no registrado
+ROUTE_0002,CUST_0716,Store_0716,registrado
+ROUTE_0009,CUST_0717,Store_0717,registrado
+ROUTE_0014,CUST_0718,Store_0718,registrado
+ROUTE_0014,CUST_0719,Store_0719,registrado
+ROUTE_0014,CUST_0720,Store_0720,registrado
+ROUTE_0011,CUST_0721,Store_0721,registrado
+ROUTE_0006,CUST_0722,Store_0722,no registrado
+ROUTE_0015,CUST_0723,Store_0723,registrado
+ROUTE_0012,CUST_0724,Store_0724,registrado
+ROUTE_0010,CUST_0725,Store_0725,registrado
+ROUTE_0009,CUST_0726,Store_0726,registrado
+ROUTE_0012,CUST_0727,Store_0727,registrado
+ROUTE_0005,CUST_0728,Store_0728,registrado
+ROUTE_0018,CUST_0729,Store_0729,no registrado
+ROUTE_0021,CUST_0730,Store_0730,registrado
+ROUTE_0006,CUST_0731,Store_0731,no registrado
+ROUTE_0018,CUST_0732,Store_0732,registrado
+ROUTE_0005,CUST_0733,Store_0733,registrado
+ROUTE_0016,CUST_0734,Store_0734,registrado
+ROUTE_0014,CUST_0735,Store_0735,registrado
+ROUTE_0010,CUST_0736,Store_0736,registrado
+ROUTE_0016,CUST_0737,Store_0737,registrado
+ROUTE_0022,CUST_0738,Store_0738,registrado
+ROUTE_0002,CUST_0739,Store_0739,registrado
+ROUTE_0019,CUST_0740,Store_0740,registrado
+ROUTE_0012,CUST_0740,Store_0740,registrado
+ROUTE_0010,CUST_0741,Store_0741,registrado
+ROUTE_0002,CUST_0742,Store_0742,registrado
+ROUTE_0019,CUST_0743,Store_0743,no registrado
+ROUTE_0013,CUST_0744,Store_0744,registrado
+ROUTE_0012,CUST_0745,Store_0745,registrado
+ROUTE_0005,CUST_0746,Store_0746,registrado
+ROUTE_0016,CUST_0747,Store_0747,no registrado
+ROUTE_0010,CUST_0748,Store_0748,registrado
+ROUTE_0021,CUST_0749,Store_0749,registrado
+ROUTE_0019,CUST_0750,Store_0750,registrado
+ROUTE_0017,CUST_0751,Store_0751,no registrado
+ROUTE_0005,CUST_0752,Store_0752,registrado
+ROUTE_0005,CUST_0753,Store_0753,registrado
+ROUTE_0019,CUST_0754,Store_0754,registrado
+ROUTE_0019,CUST_0755,Store_0755,registrado
+ROUTE_0005,CUST_0756,Store_0756,no registrado
+ROUTE_0003,CUST_0757,Store_0757,no registrado
+ROUTE_0014,CUST_0758,Store_0758,no registrado
+ROUTE_0021,CUST_0759,Store_0759,registrado
+ROUTE_0003,CUST_0760,Store_0760,registrado
+ROUTE_0015,CUST_0761,Store_0761,no registrado
+ROUTE_0021,CUST_0762,Store_0762,registrado
+ROUTE_0017,CUST_0763,Store_0763,registrado
+ROUTE_0002,CUST_0764,Store_0764,registrado
+ROUTE_0021,CUST_0765,Store_0765,no registrado
+ROUTE_0014,CUST_0766,Store_0766,registrado
+ROUTE_0012,CUST_0767,Store_0767,no registrado
+ROUTE_0021,CUST_0768,Store_0768,registrado
+ROUTE_0006,CUST_0769,Store_0769,registrado
+ROUTE_0004,CUST_0770,Store_0770,registrado
+ROUTE_0002,CUST_0771,Store_0771,registrado
+ROUTE_0004,CUST_0772,Store_0772,registrado
+ROUTE_0012,CUST_0773,Store_0773,no registrado
+ROUTE_0010,CUST_0774,Store_0774,registrado
+ROUTE_0008,CUST_0775,Store_0775,no registrado
+ROUTE_0012,CUST_0776,Store_0776,registrado
+ROUTE_0003,CUST_0777,Store_0777,no registrado
+ROUTE_0005,CUST_0778,Store_0778,no registrado
+ROUTE_0005,CUST_0779,Store_0779,registrado
+ROUTE_0005,CUST_0780,Store_0780,registrado
+ROUTE_0013,CUST_0781,Store_0781,no registrado
+ROUTE_0012,CUST_0782,Store_0782,registrado
+ROUTE_0003,CUST_0783,Store_0783,registrado
+ROUTE_0003,CUST_0784,Store_0784,no registrado
+ROUTE_0001,CUST_0785,Store_0785,no registrado
+ROUTE_0017,CUST_0786,Store_0786,no registrado
+ROUTE_0017,CUST_0787,Store_0787,registrado
+ROUTE_0019,CUST_0788,Store_0788,registrado
+ROUTE_0012,CUST_0788,Store_0788,registrado
+ROUTE_0018,CUST_0789,Store_0789,registrado
+ROUTE_0019,CUST_0790,Store_0790,no registrado
+ROUTE_0012,CUST_0790,Store_0790,no registrado
+ROUTE_0018,CUST_0791,Store_0791,registrado
+ROUTE_0006,CUST_0792,Store_0792,no registrado
+ROUTE_0017,CUST_0793,Store_0793,no registrado
+ROUTE_0015,CUST_0794,Store_0794,registrado
+ROUTE_0018,CUST_0795,Store_0795,registrado
+ROUTE_0016,CUST_0796,Store_0796,registrado
+ROUTE_0010,CUST_0797,Store_0797,no registrado
+ROUTE_0014,CUST_0798,Store_0798,registrado
+ROUTE_0019,CUST_0799,Store_0799,no registrado
+ROUTE_0017,CUST_0800,Store_0800,no registrado
+ROUTE_0016,CUST_0801,Store_0801,registrado
+ROUTE_0001,CUST_0801,Store_0801,registrado
+ROUTE_0005,CUST_0802,Store_0802,no registrado
+ROUTE_0003,CUST_0803,Store_0803,registrado
+ROUTE_0022,CUST_0804,Store_0804,no registrado
+ROUTE_0010,CUST_0805,Store_0805,registrado
+ROUTE_0005,CUST_0806,Store_0806,registrado
+ROUTE_0005,CUST_0807,Store_0807,no registrado
+ROUTE_0012,CUST_0807,Store_0807,no registrado
+ROUTE_0008,CUST_0808,Store_0808,no registrado
+ROUTE_0018,CUST_0809,Store_0809,registrado
+ROUTE_0006,CUST_0810,Store_0810,registrado
+ROUTE_0009,CUST_0811,Store_0811,registrado
+ROUTE_0005,CUST_0812,Store_0812,registrado
+ROUTE_0014,CUST_0813,Store_0813,no registrado
+ROUTE_0017,CUST_0814,Store_0814,registrado
+ROUTE_0011,CUST_0814,Store_0814,registrado
+ROUTE_0002,CUST_0815,Store_0815,registrado
+ROUTE_0010,CUST_0815,Store_0815,registrado
+ROUTE_0002,CUST_0816,Store_0816,registrado
+ROUTE_0003,CUST_0817,Store_0817,registrado
+ROUTE_0009,CUST_0818,Store_0818,registrado
+ROUTE_0005,CUST_0819,Store_0819,no registrado
+ROUTE_0012,CUST_0820,Store_0820,no registrado
+ROUTE_0013,CUST_0821,Store_0821,no registrado
+ROUTE_0021,CUST_0822,Store_0822,registrado
+ROUTE_0017,CUST_0823,Store_0823,registrado
+ROUTE_0010,CUST_0824,Store_0824,registrado
+ROUTE_0006,CUST_0825,Store_0825,registrado
+ROUTE_0009,CUST_0826,Store_0826,registrado
+ROUTE_0002,CUST_0827,Store_0827,registrado
+ROUTE_0013,CUST_0828,Store_0828,registrado
+ROUTE_0018,CUST_0829,Store_0829,registrado
+ROUTE_0017,CUST_0830,Store_0830,no registrado
+ROUTE_0011,CUST_0831,Store_0831,registrado
+ROUTE_0011,CUST_0832,Store_0832,registrado
+ROUTE_0004,CUST_0833,Store_0833,registrado
+ROUTE_0010,CUST_0834,Store_0834,registrado
+ROUTE_0005,CUST_0835,Store_0835,registrado
+ROUTE_0012,CUST_0835,Store_0835,registrado
+ROUTE_0011,CUST_0836,Store_0836,registrado
+ROUTE_0018,CUST_0837,Store_0837,registrado
+ROUTE_0011,CUST_0838,Store_0838,registrado
+ROUTE_0011,CUST_0839,Store_0839,registrado
+ROUTE_0019,CUST_0840,Store_0840,no registrado
+ROUTE_0003,CUST_0841,Store_0841,registrado
+ROUTE_0005,CUST_0842,Store_0842,registrado
+ROUTE_0007,CUST_0843,Store_0843,no registrado
+ROUTE_0022,CUST_0844,Store_0844,registrado
+ROUTE_0001,CUST_0844,Store_0844,registrado
+ROUTE_0005,CUST_0845,Store_0845,registrado
+ROUTE_0007,CUST_0846,Store_0846,registrado
+ROUTE_0014,CUST_0847,Store_0847,registrado
+ROUTE_0005,CUST_0848,Store_0848,no registrado
+ROUTE_0011,CUST_0849,Store_0849,registrado
+ROUTE_0017,CUST_0850,Store_0850,registrado
+ROUTE_0022,CUST_0851,Store_0851,no registrado
+ROUTE_0002,CUST_0852,Store_0852,no registrado
+ROUTE_0015,CUST_0853,Store_0853,no registrado
+ROUTE_0009,CUST_0854,Store_0854,registrado
+ROUTE_0004,CUST_0855,Store_0855,no registrado
+ROUTE_0009,CUST_0856,Store_0856,registrado
+ROUTE_0011,CUST_0857,Store_0857,registrado
+ROUTE_0017,CUST_0858,Store_0858,registrado
+ROUTE_0007,CUST_0859,Store_0859,no registrado
+ROUTE_0018,CUST_0860,Store_0860,registrado
+ROUTE_0018,CUST_0861,Store_0861,no registrado
+ROUTE_0008,CUST_0862,Store_0862,registrado
+ROUTE_0004,CUST_0863,Store_0863,registrado
+ROUTE_0014,CUST_0864,Store_0864,registrado
+ROUTE_0014,CUST_0865,Store_0865,no registrado
+ROUTE_0013,CUST_0866,Store_0866,registrado
+ROUTE_0017,CUST_0867,Store_0867,no registrado
+ROUTE_0017,CUST_0868,Store_0868,registrado
+ROUTE_0004,CUST_0869,Store_0869,registrado
+ROUTE_0007,CUST_0870,Store_0870,no registrado
+ROUTE_0018,CUST_0871,Store_0871,no registrado
+ROUTE_0017,CUST_0872,Store_0872,no registrado
+ROUTE_0016,CUST_0873,Store_0873,registrado
+ROUTE_0003,CUST_0874,Store_0874,registrado
+ROUTE_0016,CUST_0875,Store_0875,no registrado
+ROUTE_0007,CUST_0876,Store_0876,no registrado
+ROUTE_0006,CUST_0877,Store_0877,no registrado
+ROUTE_0002,CUST_0878,Store_0878,no registrado
+ROUTE_0002,CUST_0879,Store_0879,registrado
+ROUTE_0012,CUST_0880,Store_0880,no registrado
+ROUTE_0002,CUST_0881,Store_0881,no registrado
+ROUTE_0005,CUST_0882,Store_0882,registrado
+ROUTE_0015,CUST_0883,Store_0883,registrado
+ROUTE_0010,CUST_0884,Store_0884,no registrado
+ROUTE_0003,CUST_0885,Store_0885,no registrado
+ROUTE_0009,CUST_0886,Store_0886,registrado
+ROUTE_0009,CUST_0887,Store_0887,registrado
+ROUTE_0009,CUST_0888,Store_0888,registrado
+ROUTE_0003,CUST_0889,Store_0889,no registrado
+ROUTE_0001,CUST_0889,Store_0889,no registrado
+ROUTE_0005,CUST_0890,Store_0890,registrado
+ROUTE_0003,CUST_0891,Store_0891,no registrado
+ROUTE_0009,CUST_0892,Store_0892,no registrado
+ROUTE_0010,CUST_0893,Store_0893,no registrado
+ROUTE_0014,CUST_0894,Store_0894,no registrado
+ROUTE_0003,CUST_0895,Store_0895,registrado
+ROUTE_0011,CUST_0896,Store_0896,registrado
+ROUTE_0017,CUST_0897,Store_0897,registrado
+ROUTE_0016,CUST_0898,Store_0898,no registrado
+ROUTE_0010,CUST_0899,Store_0899,registrado
+ROUTE_0017,CUST_0900,Store_0900,no registrado
+ROUTE_0011,CUST_0900,Store_0900,no registrado
+ROUTE_0004,CUST_0901,Store_0901,registrado
+ROUTE_0017,CUST_0902,Store_0902,no registrado
+ROUTE_0009,CUST_0903,Store_0903,registrado
+ROUTE_0003,CUST_0904,Store_0904,registrado
+ROUTE_0017,CUST_0905,Store_0905,registrado
+ROUTE_0013,CUST_0906,Store_0906,no registrado
+ROUTE_0011,CUST_0907,Store_0907,registrado
+ROUTE_0021,CUST_0908,Store_0908,registrado
+ROUTE_0021,CUST_0909,Store_0909,registrado
+ROUTE_0015,CUST_0910,Store_0910,registrado
+ROUTE_0012,CUST_0911,Store_0911,registrado
+ROUTE_0004,CUST_0912,Store_0912,registrado
+ROUTE_0011,CUST_0913,Store_0913,registrado
+ROUTE_0003,CUST_0914,Store_0914,registrado
+ROUTE_0015,CUST_0915,Store_0915,no registrado
+ROUTE_0003,CUST_0916,Store_0916,no registrado
+ROUTE_0005,CUST_0917,Store_0917,registrado
+ROUTE_0001,CUST_0918,Store_0918,no registrado
+ROUTE_0011,CUST_0919,Store_0919,registrado
+ROUTE_0010,CUST_0920,Store_0920,no registrado
+ROUTE_0003,CUST_0921,Store_0921,no registrado
+ROUTE_0010,CUST_0922,Store_0922,no registrado
+ROUTE_0012,CUST_0923,Store_0923,no registrado
+ROUTE_0002,CUST_0924,Store_0924,no registrado
+ROUTE_0004,CUST_0925,Store_0925,registrado
+ROUTE_0021,CUST_0926,Store_0926,no registrado
+ROUTE_0010,CUST_0927,Store_0927,registrado
+ROUTE_0003,CUST_0928,Store_0928,no registrado
+ROUTE_0019,CUST_0929,Store_0929,no registrado
+ROUTE_0010,CUST_0930,Store_0930,registrado
+ROUTE_0017,CUST_0931,Store_0931,no registrado
+ROUTE_0016,CUST_0932,Store_0932,registrado
+ROUTE_0007,CUST_0933,Store_0933,no registrado
+ROUTE_0005,CUST_0934,Store_0934,registrado
+ROUTE_0005,CUST_0935,Store_0935,registrado
+ROUTE_0010,CUST_0936,Store_0936,registrado
+ROUTE_0015,CUST_0937,Store_0937,registrado
+ROUTE_0015,CUST_0938,Store_0938,no registrado
+ROUTE_0017,CUST_0939,Store_0939,no registrado
+ROUTE_0008,CUST_0940,Store_0940,no registrado
+ROUTE_0010,CUST_0941,Store_0941,registrado
+ROUTE_0009,CUST_0942,Store_0942,no registrado
+ROUTE_0011,CUST_0943,Store_0943,registrado
+ROUTE_0014,CUST_0944,Store_0944,registrado
+ROUTE_0017,CUST_0945,Store_0945,registrado
+ROUTE_0011,CUST_0946,Store_0946,registrado
+ROUTE_0017,CUST_0947,Store_0947,no registrado
+ROUTE_0017,CUST_0948,Store_0948,registrado
+ROUTE_0017,CUST_0949,Store_0949,registrado
+ROUTE_0004,CUST_0950,Store_0950,registrado
+ROUTE_0017,CUST_0951,Store_0951,registrado
+ROUTE_0006,CUST_0952,Store_0952,registrado
+ROUTE_0017,CUST_0953,Store_0953,registrado
+ROUTE_0010,CUST_0954,Store_0954,registrado
+ROUTE_0013,CUST_0955,Store_0955,registrado
+ROUTE_0006,CUST_0956,Store_0956,registrado
+ROUTE_0009,CUST_0957,Store_0957,no registrado
+ROUTE_0022,CUST_0958,Store_0958,no registrado
+ROUTE_0019,CUST_0959,Store_0959,registrado
+ROUTE_0003,CUST_0960,Store_0960,no registrado
+ROUTE_0015,CUST_0961,Store_0961,registrado
+ROUTE_0002,CUST_0962,Store_0962,registrado
+ROUTE_0009,CUST_0963,Store_0963,no registrado
+ROUTE_0003,CUST_0964,Store_0964,no registrado
+ROUTE_0022,CUST_0965,Store_0965,registrado
+ROUTE_0010,CUST_0966,Store_0966,no registrado
+ROUTE_0022,CUST_0967,Store_0967,no registrado
+ROUTE_0002,CUST_0968,Store_0968,registrado
+ROUTE_0008,CUST_0969,Store_0969,no registrado
+ROUTE_0008,CUST_0970,Store_0970,registrado
+ROUTE_0001,CUST_0971,Store_0971,registrado
+ROUTE_0014,CUST_0972,Store_0972,registrado
+ROUTE_0011,CUST_0973,Store_0973,registrado
+ROUTE_0007,CUST_0974,Store_0974,no registrado
+ROUTE_0003,CUST_0975,Store_0975,no registrado
+ROUTE_0004,CUST_0975,Store_0975,no registrado
+ROUTE_0015,CUST_0976,Store_0976,registrado
+ROUTE_0021,CUST_0977,Store_0977,no registrado
+ROUTE_0021,CUST_0978,Store_0978,registrado
+ROUTE_0010,CUST_0979,Store_0979,registrado
+ROUTE_0002,CUST_0980,Store_0980,no registrado
+ROUTE_0014,CUST_0981,Store_0981,no registrado
+ROUTE_0003,CUST_0982,Store_0982,no registrado
+ROUTE_0005,CUST_0983,Store_0983,registrado
+ROUTE_0008,CUST_0984,Store_0984,no registrado
+ROUTE_0004,CUST_0985,Store_0985,no registrado
+ROUTE_0012,CUST_0986,Store_0986,registrado
+ROUTE_0006,CUST_0987,Store_0987,no registrado
+ROUTE_0008,CUST_0988,Store_0988,registrado
+ROUTE_0010,CUST_0988,Store_0988,registrado
+ROUTE_0014,CUST_0989,Store_0989,no registrado
+ROUTE_0021,CUST_0990,Store_0990,registrado
+ROUTE_0015,CUST_0991,Store_0991,no registrado
+ROUTE_0006,CUST_0992,Store_0992,no registrado
+ROUTE_0006,CUST_0993,Store_0993,no registrado
+ROUTE_0018,CUST_0994,Store_0994,registrado
+ROUTE_0009,CUST_0995,Store_0995,registrado
+ROUTE_0019,CUST_0996,Store_0996,registrado
+ROUTE_0015,CUST_0997,Store_0997,no registrado
+ROUTE_0017,CUST_0998,Store_0998,registrado
+ROUTE_0011,CUST_0998,Store_0998,registrado
+ROUTE_0006,CUST_0999,Store_0999,no registrado
+ROUTE_0018,CUST_1000,Store_1000,registrado
+ROUTE_0004,CUST_1001,Store_1001,no registrado
+ROUTE_0003,CUST_1002,Store_1002,no registrado
+ROUTE_0004,CUST_1003,Store_1003,no registrado
+ROUTE_0012,CUST_1004,Store_1004,no registrado
+ROUTE_0012,CUST_1005,Store_1005,no registrado
+ROUTE_0017,CUST_1006,Store_1006,registrado
+ROUTE_0019,CUST_1007,Store_1007,registrado
+ROUTE_0011,CUST_1008,Store_1008,no registrado
+ROUTE_0010,CUST_1009,Store_1009,registrado
+ROUTE_0021,CUST_1010,Store_1010,registrado
+ROUTE_0003,CUST_1011,Store_1011,no registrado
+ROUTE_0005,CUST_1012,Store_1012,no registrado
+ROUTE_0009,CUST_1013,Store_1013,no registrado
+ROUTE_0006,CUST_1014,Store_1014,no registrado
+ROUTE_0010,CUST_1015,Store_1015,registrado
+ROUTE_0005,CUST_1016,Store_1016,no registrado
+ROUTE_0011,CUST_1017,Store_1017,registrado
+ROUTE_0006,CUST_1018,Store_1018,registrado
+ROUTE_0010,CUST_1019,Store_1019,registrado
+ROUTE_0014,CUST_1020,Store_1020,no registrado
+ROUTE_0022,CUST_1021,Store_1021,no registrado
+ROUTE_0001,CUST_1021,Store_1021,no registrado
+ROUTE_0011,CUST_1022,Store_1022,registrado
+ROUTE_0016,CUST_1023,Store_1023,no registrado
+ROUTE_0006,CUST_1024,Store_1024,no registrado
+ROUTE_0005,CUST_1025,Store_1025,no registrado
+ROUTE_0005,CUST_1026,Store_1026,no registrado
+ROUTE_0009,CUST_1027,Store_1027,registrado
+ROUTE_0011,CUST_1028,Store_1028,registrado
+ROUTE_0019,CUST_1029,Store_1029,no registrado
+ROUTE_0012,CUST_1030,Store_1030,no registrado
+ROUTE_0018,CUST_1031,Store_1031,registrado
+ROUTE_0005,CUST_1032,Store_1032,no registrado
+ROUTE_0004,CUST_1033,Store_1033,no registrado
+ROUTE_0005,CUST_1034,Store_1034,no registrado
+ROUTE_0011,CUST_1035,Store_1035,registrado
+ROUTE_0010,CUST_1036,Store_1036,registrado
+ROUTE_0017,CUST_1037,Store_1037,no registrado
+ROUTE_0004,CUST_1038,Store_1038,no registrado
+ROUTE_0004,CUST_1039,Store_1039,no registrado
+ROUTE_0005,CUST_1040,Store_1040,no registrado
+ROUTE_0002,CUST_1041,Store_1041,no registrado
+ROUTE_0012,CUST_1040,Store_1040,no registrado
+ROUTE_0005,CUST_1042,Store_1042,no registrado
+ROUTE_0005,CUST_1043,Store_1043,registrado
+ROUTE_0015,CUST_1044,Store_1044,registrado
+ROUTE_0002,CUST_1045,Store_1045,no registrado
+ROUTE_0005,CUST_1046,Store_1046,registrado
+ROUTE_0002,CUST_1047,Store_1047,no registrado
+ROUTE_0017,CUST_1048,Store_1048,no registrado
+ROUTE_0005,CUST_1049,Store_1049,registrado
+ROUTE_0011,CUST_1050,Store_1050,registrado
+ROUTE_0015,CUST_1051,Store_1051,no registrado
+ROUTE_0014,CUST_1052,Store_1052,registrado
+ROUTE_0009,CUST_1053,Store_1053,registrado
+ROUTE_0017,CUST_1054,Store_1054,no registrado
+ROUTE_0002,CUST_1055,Store_1055,registrado
+ROUTE_0018,CUST_1056,Store_1056,registrado
+ROUTE_0016,CUST_1057,Store_1057,registrado
+ROUTE_0017,CUST_1058,Store_1058,no registrado
+ROUTE_0011,CUST_1058,Store_1058,no registrado
+ROUTE_0016,CUST_1059,Store_1059,registrado
+ROUTE_0003,CUST_1060,Store_1060,registrado
+ROUTE_0007,CUST_1061,Store_1061,registrado
+ROUTE_0012,CUST_1062,Store_1062,registrado
+ROUTE_0006,CUST_1063,Store_1063,registrado
+ROUTE_0022,CUST_1064,Store_1064,no registrado
+ROUTE_0019,CUST_1065,Store_1065,no registrado
+ROUTE_0017,CUST_1066,Store_1066,registrado
+ROUTE_0011,CUST_1067,Store_1067,no registrado
+ROUTE_0005,CUST_1068,Store_1068,registrado
+ROUTE_0005,CUST_1069,Store_1069,registrado
+ROUTE_0009,CUST_1070,Store_1070,registrado
+ROUTE_0001,CUST_1071,Store_1071,registrado
+ROUTE_0017,CUST_1072,Store_1072,registrado
+ROUTE_0002,CUST_1073,Store_1073,registrado
+ROUTE_0005,CUST_1074,Store_1074,no registrado
+ROUTE_0008,CUST_1075,Store_1075,registrado
+ROUTE_0021,CUST_1076,Store_1076,registrado
+ROUTE_0019,CUST_1077,Store_1077,registrado
+ROUTE_0018,CUST_1077,Store_1077,registrado
+ROUTE_0012,CUST_1078,Store_1078,registrado
+ROUTE_0010,CUST_1079,Store_1079,registrado
+ROUTE_0005,CUST_1080,Store_1080,registrado
+ROUTE_0003,CUST_1081,Store_1081,registrado
+ROUTE_0017,CUST_1082,Store_1082,no registrado
+ROUTE_0009,CUST_1083,Store_1083,no registrado
+ROUTE_0013,CUST_1084,Store_1084,no registrado
+ROUTE_0016,CUST_1085,Store_1085,registrado
+ROUTE_0013,CUST_1086,Store_1086,registrado
+ROUTE_0013,CUST_1087,Store_1087,registrado
+ROUTE_0013,CUST_1088,Store_1088,registrado
+ROUTE_0013,CUST_1089,Store_1089,no registrado
+ROUTE_0014,CUST_1090,Store_1090,no registrado
+ROUTE_0022,CUST_1091,Store_1091,no registrado
+ROUTE_0009,CUST_1092,Store_1092,no registrado
+ROUTE_0011,CUST_1093,Store_1093,registrado
+ROUTE_0009,CUST_1094,Store_1094,registrado
+ROUTE_0001,CUST_1095,Store_1095,registrado
+ROUTE_0003,CUST_1096,Store_1096,registrado
+ROUTE_0011,CUST_1097,Store_1097,registrado
+ROUTE_0003,CUST_1098,Store_1098,no registrado
+ROUTE_0011,CUST_1099,Store_1099,no registrado
+ROUTE_0013,CUST_1100,Store_1100,registrado
+ROUTE_0013,CUST_1101,Store_1101,registrado
+ROUTE_0015,CUST_1102,Store_1102,registrado
+ROUTE_0010,CUST_1103,Store_1103,registrado
+ROUTE_0004,CUST_1104,Store_1104,registrado
+ROUTE_0022,CUST_1105,Store_1105,no registrado
+ROUTE_0011,CUST_1106,Store_1106,registrado
+ROUTE_0009,CUST_1107,Store_1107,registrado
+ROUTE_0004,CUST_1108,Store_1108,no registrado
+ROUTE_0004,CUST_1109,Store_1109,no registrado
+ROUTE_0010,CUST_1110,Store_1110,registrado
+ROUTE_0002,CUST_1111,Store_1111,no registrado
+ROUTE_0011,CUST_1112,Store_1112,registrado
+ROUTE_0017,CUST_1113,Store_1113,no registrado
+ROUTE_0011,CUST_1114,Store_1114,registrado
+ROUTE_0009,CUST_1115,Store_1115,no registrado
+ROUTE_0010,CUST_1116,Store_1116,registrado
+ROUTE_0011,CUST_1117,Store_1117,registrado
+ROUTE_0014,CUST_1118,Store_1118,no registrado
+ROUTE_0003,CUST_1119,Store_1119,registrado
+ROUTE_0003,CUST_1120,Store_1120,registrado
+ROUTE_0010,CUST_1121,Store_1121,registrado
+ROUTE_0005,CUST_1122,Store_1122,registrado
+ROUTE_0017,CUST_1123,Store_1123,registrado
+ROUTE_0019,CUST_1124,Store_1124,registrado
+ROUTE_0005,CUST_1125,Store_1125,registrado
+ROUTE_0011,CUST_1126,Store_1126,no registrado
+ROUTE_0011,CUST_1127,Store_1127,registrado
+ROUTE_0018,CUST_1128,Store_1128,registrado
+ROUTE_0003,CUST_1129,Store_1129,no registrado
+ROUTE_0019,CUST_1130,Store_1130,registrado
+ROUTE_0004,CUST_1131,Store_1131,no registrado
+ROUTE_0011,CUST_1132,Store_1132,no registrado
+ROUTE_0012,CUST_1133,Store_1133,registrado
+ROUTE_0004,CUST_1134,Store_1134,no registrado
+ROUTE_0010,CUST_1135,Store_1135,registrado
+ROUTE_0006,CUST_1136,Store_1136,no registrado
+ROUTE_0011,CUST_1137,Store_1137,registrado
+ROUTE_0021,CUST_1138,Store_1138,registrado
+ROUTE_0003,CUST_1139,Store_1139,no registrado
+ROUTE_0011,CUST_1140,Store_1140,registrado
+ROUTE_0005,CUST_1141,Store_1141,registrado
+ROUTE_0017,CUST_1142,Store_1142,no registrado
+ROUTE_0009,CUST_1143,Store_1143,registrado
+ROUTE_0021,CUST_1144,Store_1144,no registrado
+ROUTE_0022,CUST_1145,Store_1145,registrado
+ROUTE_0014,CUST_1146,Store_1146,registrado
+ROUTE_0012,CUST_1147,Store_1147,registrado
+ROUTE_0009,CUST_1148,Store_1148,registrado
+ROUTE_0018,CUST_1149,Store_1149,no registrado
+ROUTE_0018,CUST_1150,Store_1150,registrado
+ROUTE_0018,CUST_1151,Store_1151,no registrado
+ROUTE_0018,CUST_1152,Store_1152,registrado
+ROUTE_0018,CUST_1153,Store_1153,registrado
+ROUTE_0018,CUST_1154,Store_1154,registrado
+ROUTE_0011,CUST_1155,Store_1155,no registrado
+ROUTE_0008,CUST_1156,Store_1156,registrado
+ROUTE_0006,CUST_1157,Store_1157,no registrado
+ROUTE_0002,CUST_1158,Store_1158,no registrado
+ROUTE_0008,CUST_1159,Store_1159,no registrado
+ROUTE_0010,CUST_1160,Store_1160,registrado
+ROUTE_0006,CUST_1161,Store_1161,registrado
+ROUTE_0010,CUST_1162,Store_1162,registrado
+ROUTE_0020,CUST_1163,Store_1163,no registrado
+ROUTE_0014,CUST_1164,Store_1164,no registrado
+ROUTE_0018,CUST_1165,Store_1165,registrado
+ROUTE_0011,CUST_1166,Store_1166,registrado
+ROUTE_0006,CUST_1167,Store_1167,no registrado
+ROUTE_0014,CUST_1168,Store_1168,registrado
+ROUTE_0002,CUST_1169,Store_1169,no registrado
+ROUTE_0004,CUST_1170,Store_1170,no registrado
+ROUTE_0002,CUST_1171,Store_1171,registrado
+ROUTE_0011,CUST_1172,Store_1172,registrado
+ROUTE_0004,CUST_1173,Store_1173,no registrado
+ROUTE_0017,CUST_1174,Store_1174,registrado
+ROUTE_0002,CUST_1175,Store_1175,registrado
+ROUTE_0006,CUST_1176,Store_1176,registrado
+ROUTE_0003,CUST_1177,Store_1177,no registrado
+ROUTE_0010,CUST_1178,Store_1178,registrado
+ROUTE_0004,CUST_1179,Store_1179,no registrado
+ROUTE_0005,CUST_1180,Store_1180,registrado
+ROUTE_0016,CUST_1181,Store_1181,registrado
+ROUTE_0002,CUST_1182,Store_1182,no registrado
+ROUTE_0009,CUST_1183,Store_1183,registrado
+ROUTE_0002,CUST_1184,Store_1184,registrado
+ROUTE_0018,CUST_1185,Store_1185,registrado
+ROUTE_0005,CUST_1186,Store_1186,registrado
+ROUTE_0021,CUST_1187,Store_1187,registrado
+ROUTE_0021,CUST_1188,Store_1188,no registrado
+ROUTE_0014,CUST_1189,Store_1189,registrado
+ROUTE_0018,CUST_1190,Store_1190,registrado
+ROUTE_0011,CUST_1191,Store_1191,registrado
+ROUTE_0006,CUST_1192,Store_1192,registrado
+ROUTE_0014,CUST_1193,Store_1193,registrado
+ROUTE_0009,CUST_1194,Store_1194,no registrado
+ROUTE_0005,CUST_1195,Store_1195,registrado
+ROUTE_0006,CUST_1196,Store_1196,registrado
+ROUTE_0011,CUST_1197,Store_1197,registrado
+ROUTE_0006,CUST_1198,Store_1198,no registrado
+ROUTE_0005,CUST_1199,Store_1199,registrado
+ROUTE_0002,CUST_1200,Store_1200,registrado
+ROUTE_0014,CUST_1201,Store_1201,registrado
+ROUTE_0021,CUST_1202,Store_1202,registrado
+ROUTE_0015,CUST_1203,Store_1203,registrado
+ROUTE_0021,CUST_1204,Store_1204,no registrado
+ROUTE_0017,CUST_1205,Store_1205,registrado
+ROUTE_0004,CUST_1206,Store_1206,registrado
+ROUTE_0011,CUST_1207,Store_1207,registrado
+ROUTE_0010,CUST_1208,Store_1208,registrado
+ROUTE_0014,CUST_1209,Store_1209,no registrado
+ROUTE_0016,CUST_1210,Store_1210,registrado
+ROUTE_0003,CUST_1211,Store_1211,registrado
+ROUTE_0010,CUST_1212,Store_1212,registrado
+ROUTE_0008,CUST_1213,Store_1213,registrado
+ROUTE_0017,CUST_1214,Store_1214,no registrado
+ROUTE_0015,CUST_1215,Store_1215,registrado
+ROUTE_0003,CUST_1216,Store_1216,no registrado
+ROUTE_0016,CUST_1216,Store_1216,no registrado
+ROUTE_0017,CUST_1217,Store_1217,registrado
+ROUTE_0009,CUST_1218,Store_1218,registrado
+ROUTE_0017,CUST_1219,Store_1219,no registrado
+ROUTE_0010,CUST_1220,Store_1220,registrado
+ROUTE_0011,CUST_1221,Store_1221,registrado
+ROUTE_0022,CUST_1222,Store_1222,no registrado
+ROUTE_0005,CUST_1223,Store_1223,no registrado
+ROUTE_0006,CUST_1224,Store_1224,registrado
+ROUTE_0021,CUST_1225,Store_1225,registrado
+ROUTE_0003,CUST_1226,Store_1226,no registrado
+ROUTE_0005,CUST_1227,Store_1227,registrado
+ROUTE_0008,CUST_1228,Store_1228,registrado
+ROUTE_0021,CUST_1229,Store_1229,registrado
+ROUTE_0014,CUST_1230,Store_1230,registrado
+ROUTE_0022,CUST_1231,Store_1231,no registrado
+ROUTE_0003,CUST_1232,Store_1232,registrado
+ROUTE_0006,CUST_1233,Store_1233,no registrado
+ROUTE_0015,CUST_1234,Store_1234,no registrado
+ROUTE_0018,CUST_1235,Store_1235,registrado
+ROUTE_0022,CUST_1236,Store_1236,no registrado
+ROUTE_0022,CUST_1237,Store_1237,no registrado
+ROUTE_0015,CUST_1238,Store_1238,no registrado
+ROUTE_0022,CUST_1239,Store_1239,registrado
+ROUTE_0009,CUST_1240,Store_1240,no registrado
+ROUTE_0019,CUST_1241,Store_1241,registrado
+ROUTE_0006,CUST_1242,Store_1242,no registrado
+ROUTE_0011,CUST_1243,Store_1243,registrado
+ROUTE_0018,CUST_1244,Store_1244,registrado
+ROUTE_0009,CUST_1245,Store_1245,no registrado
+ROUTE_0008,CUST_1246,Store_1246,registrado
+ROUTE_0006,CUST_1247,Store_1247,registrado
+ROUTE_0016,CUST_1248,Store_1248,registrado
+ROUTE_0021,CUST_1249,Store_1249,registrado
+ROUTE_0014,CUST_1250,Store_1250,registrado
+ROUTE_0010,CUST_1251,Store_1251,no registrado
+ROUTE_0006,CUST_1252,Store_1252,no registrado
+ROUTE_0009,CUST_1253,Store_1253,registrado
+ROUTE_0004,CUST_1254,Store_1254,no registrado
+ROUTE_0016,CUST_1255,Store_1255,registrado
+ROUTE_0015,CUST_1256,Store_1256,no registrado
+ROUTE_0005,CUST_1257,Store_1257,registrado
+ROUTE_0019,CUST_1258,Store_1258,registrado
+ROUTE_0018,CUST_1258,Store_1258,registrado
+ROUTE_0016,CUST_1259,Store_1259,no registrado
+ROUTE_0012,CUST_1260,Store_1260,no registrado
+ROUTE_0018,CUST_1261,Store_1261,no registrado
+ROUTE_0009,CUST_1262,Store_1262,no registrado
+ROUTE_0009,CUST_1263,Store_1263,no registrado
+ROUTE_0002,CUST_1264,Store_1264,registrado
+ROUTE_0006,CUST_1265,Store_1265,registrado
+ROUTE_0020,CUST_1266,Store_1266,no registrado
+ROUTE_0009,CUST_1267,Store_1267,registrado
+ROUTE_0011,CUST_1268,Store_1268,registrado
+ROUTE_0003,CUST_1269,Store_1269,registrado
+ROUTE_0006,CUST_1270,Store_1270,no registrado
+ROUTE_0003,CUST_1271,Store_1271,no registrado
+ROUTE_0003,CUST_1272,Store_1272,registrado
+ROUTE_0006,CUST_1273,Store_1273,registrado
+ROUTE_0010,CUST_1274,Store_1274,registrado
+ROUTE_0006,CUST_1275,Store_1275,registrado
+ROUTE_0002,CUST_1276,Store_1276,registrado
+ROUTE_0014,CUST_1277,Store_1277,registrado
+ROUTE_0017,CUST_1278,Store_1278,registrado
+ROUTE_0010,CUST_1279,Store_1279,registrado
+ROUTE_0010,CUST_1280,Store_1280,registrado
+ROUTE_0017,CUST_1281,Store_1281,no registrado
+ROUTE_0018,CUST_1282,Store_1282,registrado
+ROUTE_0010,CUST_1283,Store_1283,registrado
+ROUTE_0017,CUST_1284,Store_1284,registrado
+ROUTE_0013,CUST_1285,Store_1285,registrado
+ROUTE_0009,CUST_1286,Store_1286,registrado
+ROUTE_0003,CUST_1287,Store_1287,registrado
+ROUTE_0003,CUST_1288,Store_1288,no registrado
+ROUTE_0009,CUST_1289,Store_1289,no registrado
+ROUTE_0009,CUST_1290,Store_1290,registrado
+ROUTE_0011,CUST_1291,Store_1291,registrado
+ROUTE_0005,CUST_1292,Store_1292,no registrado
+ROUTE_0018,CUST_1293,Store_1293,no registrado
+ROUTE_0004,CUST_1294,Store_1294,no registrado
+ROUTE_0011,CUST_1295,Store_1295,registrado
+ROUTE_0010,CUST_1296,Store_1296,no registrado
+ROUTE_0001,CUST_1297,Store_1297,registrado
+ROUTE_0021,CUST_1298,Store_1298,registrado
+ROUTE_0003,CUST_1299,Store_1299,no registrado
+ROUTE_0003,CUST_1300,Store_1300,registrado
+ROUTE_0015,CUST_1301,Store_1301,registrado
+ROUTE_0021,CUST_1302,Store_1302,registrado
+ROUTE_0002,CUST_1303,Store_1303,registrado
+ROUTE_0002,CUST_1304,Store_1304,no registrado
+ROUTE_0021,CUST_1305,Store_1305,registrado
+ROUTE_0010,CUST_1304,Store_1304,no registrado
+ROUTE_0003,CUST_1306,Store_1306,no registrado
+ROUTE_0003,CUST_1307,Store_1307,registrado
+ROUTE_0003,CUST_1308,Store_1308,no registrado
+ROUTE_0015,CUST_1309,Store_1309,no registrado
+ROUTE_0003,CUST_1310,Store_1310,registrado
+ROUTE_0005,CUST_1311,Store_1311,registrado
+ROUTE_0010,CUST_1312,Store_1312,registrado
+ROUTE_0012,CUST_1313,Store_1313,registrado
+ROUTE_0003,CUST_1314,Store_1314,no registrado
+ROUTE_0009,CUST_1315,Store_1315,no registrado
+ROUTE_0010,CUST_1316,Store_1316,no registrado
+ROUTE_0005,CUST_1317,Store_1317,registrado
+ROUTE_0013,CUST_1318,Store_1318,registrado
+ROUTE_0014,CUST_1319,Store_1319,no registrado
+ROUTE_0003,CUST_1320,Store_1320,registrado
+ROUTE_0011,CUST_1321,Store_1321,registrado
+ROUTE_0014,CUST_1322,Store_1322,registrado
+ROUTE_0008,CUST_1323,Store_1323,no registrado
+ROUTE_0002,CUST_1324,Store_1324,registrado
+ROUTE_0017,CUST_1325,Store_1325,no registrado
+ROUTE_0003,CUST_1326,Store_1326,registrado
+ROUTE_0007,CUST_1327,Store_1327,no registrado
+ROUTE_0002,CUST_1328,Store_1328,registrado
+ROUTE_0009,CUST_1329,Store_1329,registrado
+ROUTE_0013,CUST_1330,Store_1330,registrado
+ROUTE_0012,CUST_1331,Store_1331,no registrado
+ROUTE_0009,CUST_1332,Store_1332,no registrado
+ROUTE_0008,CUST_1333,Store_1333,no registrado
+ROUTE_0011,CUST_1334,Store_1334,registrado
+ROUTE_0005,CUST_1335,Store_1335,no registrado
+ROUTE_0002,CUST_1336,Store_1336,no registrado
+ROUTE_0010,CUST_1337,Store_1337,no registrado
+ROUTE_0017,CUST_1338,Store_1338,registrado
+ROUTE_0018,CUST_1339,Store_1339,registrado
+ROUTE_0010,CUST_1340,Store_1340,no registrado
+ROUTE_0021,CUST_1341,Store_1341,no registrado
+ROUTE_0022,CUST_1342,Store_1342,no registrado
+ROUTE_0017,CUST_1343,Store_1343,no registrado
+ROUTE_0003,CUST_1344,Store_1344,no registrado
+ROUTE_0003,CUST_1345,Store_1345,registrado
+ROUTE_0021,CUST_1346,Store_1346,registrado
+ROUTE_0003,CUST_1347,Store_1347,no registrado
+ROUTE_0010,CUST_1348,Store_1348,no registrado
+ROUTE_0016,CUST_1349,Store_1349,no registrado
+ROUTE_0003,CUST_1350,Store_1350,no registrado
+ROUTE_0017,CUST_1351,Store_1351,registrado
+ROUTE_0018,CUST_1352,Store_1352,registrado
+ROUTE_0011,CUST_1353,Store_1353,registrado
+ROUTE_0021,CUST_1354,Store_1354,no registrado
+ROUTE_0004,CUST_1355,Store_1355,no registrado
+ROUTE_0010,CUST_1356,Store_1356,no registrado
+ROUTE_0010,CUST_1357,Store_1357,registrado
+ROUTE_0002,CUST_1358,Store_1358,registrado
+ROUTE_0019,CUST_1359,Store_1359,registrado
+ROUTE_0012,CUST_1359,Store_1359,registrado
+ROUTE_0017,CUST_1360,Store_1360,registrado
+ROUTE_0017,CUST_1361,Store_1361,no registrado
+ROUTE_0017,CUST_1362,Store_1362,registrado
+ROUTE_0005,CUST_1363,Store_1363,no registrado
+ROUTE_0009,CUST_1364,Store_1364,no registrado
+ROUTE_0022,CUST_1365,Store_1365,registrado
+ROUTE_0004,CUST_1366,Store_1366,no registrado
+ROUTE_0013,CUST_1367,Store_1367,registrado
+ROUTE_0005,CUST_1368,Store_1368,registrado
+ROUTE_0011,CUST_1369,Store_1369,registrado
+ROUTE_0005,CUST_1370,Store_1370,no registrado
+ROUTE_0015,CUST_1371,Store_1371,no registrado
+ROUTE_0009,CUST_1372,Store_1372,registrado
+ROUTE_0010,CUST_1373,Store_1373,registrado
+ROUTE_0015,CUST_1374,Store_1374,no registrado
+ROUTE_0011,CUST_1375,Store_1375,registrado
+ROUTE_0010,CUST_1376,Store_1376,no registrado
+ROUTE_0009,CUST_1377,Store_1377,registrado
+ROUTE_0009,CUST_1378,Store_1378,no registrado
+ROUTE_0006,CUST_1379,Store_1379,no registrado
+ROUTE_0003,CUST_1380,Store_1380,no registrado
+ROUTE_0017,CUST_1381,Store_1381,no registrado
+ROUTE_0022,CUST_1382,Store_1382,no registrado
+ROUTE_0017,CUST_1383,Store_1383,no registrado
+ROUTE_0010,CUST_1384,Store_1384,registrado
+ROUTE_0009,CUST_1385,Store_1385,registrado
+ROUTE_0017,CUST_1386,Store_1386,no registrado
+ROUTE_0011,CUST_1386,Store_1386,no registrado
+ROUTE_0021,CUST_1387,Store_1387,no registrado
+ROUTE_0020,CUST_1388,Store_1388,no registrado
+ROUTE_0008,CUST_1389,Store_1389,no registrado
+ROUTE_0001,CUST_1390,Store_1390,no registrado
+ROUTE_0001,CUST_1391,Store_1391,no registrado
+ROUTE_0004,CUST_1392,Store_1392,no registrado
+ROUTE_0003,CUST_1393,Store_1393,registrado
+ROUTE_0002,CUST_1394,Store_1394,registrado
+ROUTE_0020,CUST_1395,Store_1395,registrado
+ROUTE_0007,CUST_1396,Store_1396,registrado
+ROUTE_0015,CUST_1397,Store_1397,registrado
+ROUTE_0018,CUST_1398,Store_1398,registrado
+ROUTE_0021,CUST_1399,Store_1399,registrado
+ROUTE_0018,CUST_1400,Store_1400,registrado
+ROUTE_0004,CUST_1401,Store_1401,registrado
+ROUTE_0017,CUST_1402,Store_1402,registrado
+ROUTE_0008,CUST_1403,Store_1403,registrado
+ROUTE_0008,CUST_1404,Store_1404,no registrado
+ROUTE_0008,CUST_1405,Store_1405,no registrado
+ROUTE_0016,CUST_1406,Store_1406,registrado
+ROUTE_0004,CUST_1407,Store_1407,registrado
+ROUTE_0016,CUST_1408,Store_1408,registrado
+ROUTE_0009,CUST_1409,Store_1409,registrado
+ROUTE_0021,CUST_1410,Store_1410,registrado
+ROUTE_0003,CUST_1411,Store_1411,registrado
+ROUTE_0004,CUST_1412,Store_1412,registrado
+ROUTE_0018,CUST_1413,Store_1413,registrado
+ROUTE_0018,CUST_1414,Store_1414,no registrado
+ROUTE_0008,CUST_1415,Store_1415,no registrado
+ROUTE_0008,CUST_1416,Store_1416,registrado
+ROUTE_0018,CUST_1417,Store_1417,no registrado
+ROUTE_0012,CUST_1418,Store_1418,registrado
+ROUTE_0013,CUST_1419,Store_1419,registrado
+ROUTE_0017,CUST_1420,Store_1420,no registrado
+ROUTE_0021,CUST_1421,Store_1421,registrado
+ROUTE_0006,CUST_1422,Store_1422,no registrado
+ROUTE_0002,CUST_1423,Store_1423,registrado
+ROUTE_0017,CUST_1424,Store_1424,no registrado
+ROUTE_0015,CUST_1425,Store_1425,registrado
+ROUTE_0019,CUST_1426,Store_1426,no registrado
+ROUTE_0017,CUST_1427,Store_1427,no registrado
+ROUTE_0012,CUST_1428,Store_1428,no registrado
+ROUTE_0018,CUST_1429,Store_1429,no registrado
+ROUTE_0001,CUST_1430,Store_1430,no registrado
+ROUTE_0008,CUST_1431,Store_1431,no registrado
+ROUTE_0008,CUST_1432,Store_1432,no registrado
+ROUTE_0006,CUST_1433,Store_1433,no registrado
+ROUTE_0019,CUST_1434,Store_1434,registrado
+ROUTE_0012,CUST_1434,Store_1434,registrado
+ROUTE_0015,CUST_1435,Store_1435,registrado
+ROUTE_0001,CUST_1436,Store_1436,registrado
+ROUTE_0008,CUST_1437,Store_1437,registrado
+ROUTE_0006,CUST_1438,Store_1438,registrado
+ROUTE_0017,CUST_1439,Store_1439,registrado
+ROUTE_0017,CUST_1440,Store_1440,no registrado
+ROUTE_0006,CUST_1441,Store_1441,registrado
+ROUTE_0011,CUST_1442,Store_1442,registrado
+ROUTE_0011,CUST_1443,Store_1443,registrado
+ROUTE_0014,CUST_1444,Store_1444,registrado
+ROUTE_0015,CUST_1445,Store_1445,registrado
+ROUTE_0005,CUST_1446,Store_1446,registrado
+ROUTE_0002,CUST_1447,Store_1447,registrado
+ROUTE_0011,CUST_1448,Store_1448,registrado
+ROUTE_0013,CUST_1449,Store_1449,registrado
+ROUTE_0007,CUST_1450,Store_1450,registrado
+ROUTE_0015,CUST_1451,Store_1451,no registrado
+ROUTE_0002,CUST_1452,Store_1452,registrado
+ROUTE_0021,CUST_1453,Store_1453,no registrado
+ROUTE_0007,CUST_1454,Store_1454,no registrado
+ROUTE_0007,CUST_1455,Store_1455,registrado
+ROUTE_0020,CUST_1456,Store_1456,registrado
+ROUTE_0002,CUST_1457,Store_1457,no registrado
+ROUTE_0007,CUST_1458,Store_1458,no registrado
+ROUTE_0011,CUST_1459,Store_1459,registrado
+ROUTE_0001,CUST_1460,Store_1460,registrado
+ROUTE_0015,CUST_1461,Store_1461,registrado
+ROUTE_0011,CUST_1462,Store_1462,registrado
+ROUTE_0004,CUST_1463,Store_1463,no registrado
+ROUTE_0015,CUST_1464,Store_1464,no registrado
+ROUTE_0008,CUST_1465,Store_1465,registrado
+ROUTE_0010,CUST_1465,Store_1465,registrado
+ROUTE_0011,CUST_1466,Store_1466,registrado
+ROUTE_0003,CUST_1467,Store_1467,registrado
+ROUTE_0021,CUST_1468,Store_1468,registrado
+ROUTE_0011,CUST_1469,Store_1469,registrado
+ROUTE_0020,CUST_1470,Store_1470,registrado
+ROUTE_0020,CUST_1471,Store_1471,no registrado
+ROUTE_0011,CUST_1472,Store_1472,registrado
+ROUTE_0021,CUST_1473,Store_1473,registrado
+ROUTE_0001,CUST_1474,Store_1474,registrado
+ROUTE_0020,CUST_1475,Store_1475,no registrado
+ROUTE_0012,CUST_1476,Store_1476,registrado
+ROUTE_0016,CUST_1477,Store_1477,registrado
+ROUTE_0020,CUST_1478,Store_1478,registrado
+ROUTE_0004,CUST_1479,Store_1479,registrado
+ROUTE_0015,CUST_1480,Store_1480,registrado
+ROUTE_0018,CUST_1481,Store_1481,registrado
+ROUTE_0019,CUST_1482,Store_1482,registrado
+ROUTE_0011,CUST_1483,Store_1483,registrado
+ROUTE_0010,CUST_1484,Store_1484,registrado
+ROUTE_0002,CUST_1485,Store_1485,registrado
+ROUTE_0001,CUST_1486,Store_1486,registrado
+ROUTE_0005,CUST_1487,Store_1487,registrado
+ROUTE_0009,CUST_1488,Store_1488,no registrado
+ROUTE_0022,CUST_1489,Store_1489,registrado
+ROUTE_0020,CUST_1490,Store_1490,registrado
+ROUTE_0008,CUST_1491,Store_1491,no registrado
+ROUTE_0008,CUST_1492,Store_1492,registrado
+ROUTE_0015,CUST_1493,Store_1493,no registrado
+ROUTE_0022,CUST_1494,Store_1494,registrado
+ROUTE_0003,CUST_1495,Store_1495,registrado
+ROUTE_0018,CUST_1496,Store_1496,registrado
+ROUTE_0009,CUST_1497,Store_1497,registrado
+ROUTE_0016,CUST_1498,Store_1498,no registrado
+ROUTE_0012,CUST_1499,Store_1499,registrado
+ROUTE_0012,CUST_1500,Store_1500,registrado
+ROUTE_0010,CUST_1501,Store_1501,registrado
+ROUTE_0018,CUST_1502,Store_1502,registrado
+ROUTE_0004,CUST_1503,Store_1503,registrado
+ROUTE_0004,CUST_1504,Store_1504,registrado
+ROUTE_0014,CUST_1505,Store_1505,registrado
+ROUTE_0008,CUST_1506,Store_1506,no registrado
+ROUTE_0018,CUST_1507,Store_1507,registrado
+ROUTE_0004,CUST_1508,Store_1508,registrado
+ROUTE_0017,CUST_1509,Store_1509,no registrado
+ROUTE_0013,CUST_1510,Store_1510,registrado
+ROUTE_0017,CUST_1511,Store_1511,registrado
+ROUTE_0006,CUST_1512,Store_1512,no registrado
+ROUTE_0009,CUST_1513,Store_1513,registrado
+ROUTE_0014,CUST_1514,Store_1514,registrado
+ROUTE_0005,CUST_1515,Store_1515,registrado
+ROUTE_0014,CUST_1516,Store_1516,registrado
+ROUTE_0009,CUST_1517,Store_1517,no registrado
+ROUTE_0011,CUST_1518,Store_1518,registrado
+ROUTE_0018,CUST_1519,Store_1519,registrado
+ROUTE_0022,CUST_1520,Store_1520,registrado
+ROUTE_0017,CUST_1521,Store_1521,no registrado
+ROUTE_0014,CUST_1522,Store_1522,no registrado
+ROUTE_0004,CUST_1523,Store_1523,no registrado
+ROUTE_0012,CUST_1524,Store_1524,registrado
+ROUTE_0009,CUST_1525,Store_1525,registrado
+ROUTE_0004,CUST_1526,Store_1526,registrado
+ROUTE_0021,CUST_1527,Store_1527,no registrado
+ROUTE_0014,CUST_1528,Store_1528,registrado
+ROUTE_0010,CUST_1529,Store_1529,registrado
+ROUTE_0005,CUST_1530,Store_1530,registrado
+ROUTE_0010,CUST_1531,Store_1531,registrado
+ROUTE_0012,CUST_1532,Store_1532,no registrado
+ROUTE_0009,CUST_1533,Store_1533,registrado
+ROUTE_0016,CUST_1534,Store_1534,registrado
+ROUTE_0003,CUST_1535,Store_1535,no registrado
+ROUTE_0014,CUST_1536,Store_1536,registrado
+ROUTE_0014,CUST_1537,Store_1537,registrado
+ROUTE_0004,CUST_1538,Store_1538,registrado
+ROUTE_0003,CUST_1539,Store_1539,no registrado
+ROUTE_0001,CUST_1539,Store_1539,no registrado
+ROUTE_0012,CUST_1540,Store_1540,registrado
+ROUTE_0010,CUST_1541,Store_1541,no registrado
+ROUTE_0009,CUST_1542,Store_1542,registrado
+ROUTE_0016,CUST_1543,Store_1543,no registrado
+ROUTE_0014,CUST_1544,Store_1544,registrado
+ROUTE_0008,CUST_1545,Store_1545,registrado
+ROUTE_0001,CUST_1546,Store_1546,registrado
+ROUTE_0017,CUST_1547,Store_1547,registrado
+ROUTE_0010,CUST_1548,Store_1548,registrado
+ROUTE_0021,CUST_1549,Store_1549,no registrado
+ROUTE_0012,CUST_1550,Store_1550,registrado
+ROUTE_0005,CUST_1551,Store_1551,no registrado
+ROUTE_0003,CUST_1552,Store_1552,no registrado
+ROUTE_0004,CUST_1553,Store_1553,registrado
+ROUTE_0008,CUST_1554,Store_1554,registrado
+ROUTE_0006,CUST_1555,Store_1555,registrado
+ROUTE_0005,CUST_1556,Store_1556,no registrado
+ROUTE_0010,CUST_1557,Store_1557,registrado
+ROUTE_0014,CUST_1558,Store_1558,no registrado
+ROUTE_0010,CUST_1559,Store_1559,registrado
+ROUTE_0008,CUST_1560,Store_1560,no registrado
+ROUTE_0009,CUST_1561,Store_1561,registrado
+ROUTE_0010,CUST_1562,Store_1562,registrado
+ROUTE_0015,CUST_1563,Store_1563,registrado
+ROUTE_0014,CUST_1564,Store_1564,registrado
+ROUTE_0017,CUST_1565,Store_1565,registrado
+ROUTE_0004,CUST_1566,Store_1566,registrado
+ROUTE_0002,CUST_1567,Store_1567,registrado
+ROUTE_0019,CUST_1568,Store_1568,registrado
+ROUTE_0006,CUST_1569,Store_1569,no registrado
+ROUTE_0016,CUST_1570,Store_1570,no registrado
+ROUTE_0019,CUST_1571,Store_1571,registrado
+ROUTE_0003,CUST_1572,Store_1572,registrado
+ROUTE_0002,CUST_1573,Store_1573,registrado
+ROUTE_0005,CUST_1574,Store_1574,registrado
+ROUTE_0016,CUST_1575,Store_1575,registrado
+ROUTE_0021,CUST_1576,Store_1576,registrado
+ROUTE_0010,CUST_1577,Store_1577,registrado
+ROUTE_0012,CUST_1578,Store_1578,registrado
+ROUTE_0003,CUST_1579,Store_1579,registrado
+ROUTE_0019,CUST_1580,Store_1580,no registrado
+ROUTE_0003,CUST_1581,Store_1581,registrado
+ROUTE_0019,CUST_1582,Store_1582,no registrado
+ROUTE_0003,CUST_1583,Store_1583,registrado
+ROUTE_0005,CUST_1584,Store_1584,registrado
+ROUTE_0002,CUST_1585,Store_1585,no registrado
+ROUTE_0002,CUST_1586,Store_1586,registrado
+ROUTE_0015,CUST_1587,Store_1587,no registrado
+ROUTE_0005,CUST_1588,Store_1588,registrado
+ROUTE_0009,CUST_1589,Store_1589,no registrado
+ROUTE_0017,CUST_1590,Store_1590,registrado
+ROUTE_0021,CUST_1591,Store_1591,no registrado
+ROUTE_0014,CUST_1592,Store_1592,no registrado
+ROUTE_0012,CUST_1593,Store_1593,registrado
+ROUTE_0016,CUST_1594,Store_1594,no registrado
+ROUTE_0017,CUST_1595,Store_1595,registrado
+ROUTE_0013,CUST_1596,Store_1596,registrado
+ROUTE_0003,CUST_1597,Store_1597,no registrado
+ROUTE_0009,CUST_1598,Store_1598,registrado
+ROUTE_0004,CUST_1599,Store_1599,registrado
+ROUTE_0012,CUST_1600,Store_1600,registrado
+ROUTE_0004,CUST_1601,Store_1601,registrado
+ROUTE_0017,CUST_1602,Store_1602,no registrado
+ROUTE_0009,CUST_1603,Store_1603,registrado
+ROUTE_0002,CUST_1604,Store_1604,no registrado
+ROUTE_0015,CUST_1605,Store_1605,registrado
+ROUTE_0009,CUST_1606,Store_1606,registrado
+ROUTE_0016,CUST_1607,Store_1607,registrado
+ROUTE_0017,CUST_1608,Store_1608,registrado
+ROUTE_0011,CUST_1608,Store_1608,registrado
+ROUTE_0002,CUST_1609,Store_1609,registrado
+ROUTE_0017,CUST_1610,Store_1610,registrado
+ROUTE_0010,CUST_1611,Store_1611,registrado
+ROUTE_0014,CUST_1612,Store_1612,registrado
+ROUTE_0014,CUST_1613,Store_1613,registrado
+ROUTE_0009,CUST_1614,Store_1614,registrado
+ROUTE_0001,CUST_1615,Store_1615,registrado
+ROUTE_0015,CUST_1616,Store_1616,registrado
+ROUTE_0002,CUST_1617,Store_1617,registrado
+ROUTE_0018,CUST_1618,Store_1618,registrado
+ROUTE_0011,CUST_1619,Store_1619,registrado
+ROUTE_0010,CUST_1620,Store_1620,registrado
+ROUTE_0015,CUST_1621,Store_1621,registrado
+ROUTE_0018,CUST_1622,Store_1622,registrado
+ROUTE_0005,CUST_1623,Store_1623,registrado
+ROUTE_0014,CUST_1624,Store_1624,registrado
+ROUTE_0002,CUST_1625,Store_1625,no registrado
+ROUTE_0006,CUST_1626,Store_1626,registrado
+ROUTE_0017,CUST_1627,Store_1627,registrado
+ROUTE_0002,CUST_1628,Store_1628,no registrado
+ROUTE_0008,CUST_1629,Store_1629,no registrado
+ROUTE_0014,CUST_1630,Store_1630,registrado
+ROUTE_0019,CUST_1631,Store_1631,registrado
+ROUTE_0017,CUST_1632,Store_1632,registrado
+ROUTE_0009,CUST_1633,Store_1633,registrado
+ROUTE_0022,CUST_1634,Store_1634,no registrado
+ROUTE_0003,CUST_1635,Store_1635,registrado
+ROUTE_0015,CUST_1636,Store_1636,registrado
+ROUTE_0002,CUST_1637,Store_1637,registrado
+ROUTE_0005,CUST_1638,Store_1638,no registrado
+ROUTE_0008,CUST_1639,Store_1639,registrado
+ROUTE_0009,CUST_1640,Store_1640,registrado
+ROUTE_0005,CUST_1641,Store_1641,no registrado
+ROUTE_0005,CUST_1642,Store_1642,registrado
+ROUTE_0008,CUST_1643,Store_1643,registrado
+ROUTE_0001,CUST_1644,Store_1644,registrado
+ROUTE_0002,CUST_1645,Store_1645,no registrado
+ROUTE_0014,CUST_1646,Store_1646,registrado
+ROUTE_0014,CUST_1647,Store_1647,registrado
+ROUTE_0009,CUST_1648,Store_1648,registrado
+ROUTE_0012,CUST_1649,Store_1649,registrado
+ROUTE_0010,CUST_1650,Store_1650,no registrado
+ROUTE_0014,CUST_1651,Store_1651,registrado
+ROUTE_0003,CUST_1652,Store_1652,registrado
+ROUTE_0014,CUST_1653,Store_1653,no registrado
+ROUTE_0014,CUST_1654,Store_1654,no registrado
+ROUTE_0015,CUST_1655,Store_1655,no registrado
+ROUTE_0009,CUST_1656,Store_1656,registrado
+ROUTE_0001,CUST_1657,Store_1657,registrado
+ROUTE_0002,CUST_1658,Store_1658,registrado
+ROUTE_0004,CUST_1659,Store_1659,registrado
+ROUTE_0014,CUST_1660,Store_1660,registrado
+ROUTE_0006,CUST_1661,Store_1661,registrado
+ROUTE_0019,CUST_1662,Store_1662,registrado
+ROUTE_0018,CUST_1662,Store_1662,registrado
+ROUTE_0009,CUST_1663,Store_1663,registrado
+ROUTE_0007,CUST_1664,Store_1664,registrado
+ROUTE_0017,CUST_1665,Store_1665,no registrado
+ROUTE_0004,CUST_1666,Store_1666,registrado
+ROUTE_0012,CUST_1667,Store_1667,no registrado
+ROUTE_0016,CUST_1668,Store_1668,registrado
+ROUTE_0014,CUST_1669,Store_1669,registrado
+ROUTE_0010,CUST_1670,Store_1670,registrado
+ROUTE_0021,CUST_1671,Store_1671,no registrado
+ROUTE_0021,CUST_1672,Store_1672,registrado
+ROUTE_0002,CUST_1673,Store_1673,registrado
+ROUTE_0015,CUST_1674,Store_1674,registrado
+ROUTE_0017,CUST_1675,Store_1675,registrado
+ROUTE_0017,CUST_1676,Store_1676,no registrado
+ROUTE_0011,CUST_1677,Store_1677,registrado
+ROUTE_0017,CUST_1678,Store_1678,no registrado
+ROUTE_0004,CUST_1679,Store_1679,registrado
+ROUTE_0014,CUST_1680,Store_1680,registrado
+ROUTE_0010,CUST_1681,Store_1681,registrado
+ROUTE_0017,CUST_1682,Store_1682,no registrado
+ROUTE_0014,CUST_1683,Store_1683,registrado
+ROUTE_0015,CUST_1684,Store_1684,registrado
+ROUTE_0006,CUST_1685,Store_1685,registrado
+ROUTE_0010,CUST_1686,Store_1686,no registrado
+ROUTE_0008,CUST_1687,Store_1687,no registrado
+ROUTE_0017,CUST_1688,Store_1688,no registrado
+ROUTE_0017,CUST_1689,Store_1689,no registrado
+ROUTE_0019,CUST_1690,Store_1690,registrado
+ROUTE_0012,CUST_1690,Store_1690,registrado
+ROUTE_0002,CUST_1691,Store_1691,no registrado
+ROUTE_0017,CUST_1692,Store_1692,no registrado
+ROUTE_0006,CUST_1693,Store_1693,registrado
+ROUTE_0010,CUST_1694,Store_1694,registrado
+ROUTE_0012,CUST_1695,Store_1695,registrado
+ROUTE_0002,CUST_1696,Store_1696,registrado
+ROUTE_0021,CUST_1697,Store_1697,no registrado
+ROUTE_0021,CUST_1698,Store_1698,registrado
+ROUTE_0015,CUST_1699,Store_1699,registrado
+ROUTE_0003,CUST_1700,Store_1700,registrado
+ROUTE_0006,CUST_1701,Store_1701,registrado
+ROUTE_0012,CUST_1702,Store_1702,registrado
+ROUTE_0014,CUST_1703,Store_1703,registrado
+ROUTE_0006,CUST_1704,Store_1704,no registrado
+ROUTE_0002,CUST_1705,Store_1705,registrado
+ROUTE_0016,CUST_1706,Store_1706,registrado
+ROUTE_0017,CUST_1707,Store_1707,no registrado
+ROUTE_0006,CUST_1708,Store_1708,registrado
+ROUTE_0004,CUST_1709,Store_1709,no registrado
+ROUTE_0005,CUST_1710,Store_1710,no registrado
+ROUTE_0008,CUST_1711,Store_1711,no registrado
+ROUTE_0012,CUST_1712,Store_1712,registrado
+ROUTE_0014,CUST_1713,Store_1713,no registrado
+ROUTE_0014,CUST_1714,Store_1714,registrado
+ROUTE_0012,CUST_1715,Store_1715,registrado
+ROUTE_0008,CUST_1716,Store_1716,no registrado
+ROUTE_0006,CUST_1717,Store_1717,registrado
+ROUTE_0014,CUST_1718,Store_1718,no registrado
+ROUTE_0006,CUST_1719,Store_1719,registrado
+ROUTE_0005,CUST_1720,Store_1720,registrado
+ROUTE_0021,CUST_1721,Store_1721,registrado
+ROUTE_0014,CUST_1722,Store_1722,registrado
+ROUTE_0003,CUST_1723,Store_1723,registrado
+ROUTE_0017,CUST_1724,Store_1724,no registrado
+ROUTE_0015,CUST_1725,Store_1725,no registrado
+ROUTE_0018,CUST_1726,Store_1726,registrado
+ROUTE_0009,CUST_1727,Store_1727,registrado
+ROUTE_0021,CUST_1728,Store_1728,no registrado
+ROUTE_0013,CUST_1729,Store_1729,no registrado
+ROUTE_0021,CUST_1730,Store_1730,no registrado
+ROUTE_0018,CUST_1731,Store_1731,no registrado
+ROUTE_0021,CUST_1732,Store_1732,no registrado
+ROUTE_0018,CUST_1733,Store_1733,registrado
+ROUTE_0022,CUST_1734,Store_1734,no registrado
+ROUTE_0022,CUST_1735,Store_1735,no registrado
+ROUTE_0015,CUST_1736,Store_1736,no registrado
+ROUTE_0004,CUST_1737,Store_1737,no registrado
+ROUTE_0021,CUST_1738,Store_1738,no registrado
+ROUTE_0003,CUST_1739,Store_1739,no registrado
+ROUTE_0015,CUST_1740,Store_1740,no registrado
+ROUTE_0001,CUST_1741,Store_1741,no registrado
+ROUTE_0006,CUST_1742,Store_1742,no registrado
+ROUTE_0008,CUST_1743,Store_1743,no registrado
+ROUTE_0017,CUST_1744,Store_1744,no registrado
+ROUTE_0010,CUST_1745,Store_1745,no registrado
+ROUTE_0012,CUST_1746,Store_1746,no registrado
+ROUTE_0005,CUST_1747,Store_1747,no registrado
+ROUTE_0013,CUST_1748,Store_1748,no registrado
+ROUTE_0017,CUST_1749,Store_1749,no registrado
+ROUTE_0010,CUST_1750,Store_1750,registrado
+ROUTE_0006,CUST_1751,Store_1751,registrado
+ROUTE_0010,CUST_1752,Store_1752,registrado
+ROUTE_0004,CUST_1753,Store_1753,registrado
+ROUTE_0004,CUST_1754,Store_1754,registrado
+ROUTE_0004,CUST_1755,Store_1755,registrado
+ROUTE_0012,CUST_1756,Store_1756,registrado
+ROUTE_0006,CUST_1757,Store_1757,registrado
+ROUTE_0014,CUST_1758,Store_1758,registrado
+ROUTE_0019,CUST_1759,Store_1759,registrado
+ROUTE_0019,CUST_1760,Store_1760,registrado
+ROUTE_0010,CUST_1761,Store_1761,registrado
+ROUTE_0010,CUST_1762,Store_1762,registrado
+ROUTE_0015,CUST_1763,Store_1763,registrado
+ROUTE_0017,CUST_1764,Store_1764,registrado
+ROUTE_0022,CUST_1765,Store_1765,no registrado
+ROUTE_0018,CUST_1766,Store_1766,no registrado
+ROUTE_0009,CUST_1767,Store_1767,registrado
+ROUTE_0002,CUST_1768,Store_1768,no registrado
+ROUTE_0004,CUST_1769,Store_1769,registrado
+ROUTE_0014,CUST_1770,Store_1770,registrado
+ROUTE_0017,CUST_1771,Store_1771,no registrado
+ROUTE_0012,CUST_1772,Store_1772,registrado
+ROUTE_0010,CUST_1773,Store_1773,registrado
+ROUTE_0015,CUST_1774,Store_1774,no registrado
+ROUTE_0002,CUST_1775,Store_1775,registrado
+ROUTE_0018,CUST_1776,Store_1776,registrado
+ROUTE_0006,CUST_1777,Store_1777,no registrado
+ROUTE_0003,CUST_1778,Store_1778,no registrado
+ROUTE_0019,CUST_1779,Store_1779,registrado
+ROUTE_0012,CUST_1779,Store_1779,registrado
+ROUTE_0007,CUST_1780,Store_1780,registrado
+ROUTE_0011,CUST_1781,Store_1781,registrado
+ROUTE_0017,CUST_1782,Store_1782,registrado
+ROUTE_0008,CUST_1783,Store_1783,no registrado
+ROUTE_0015,CUST_1784,Store_1784,registrado
+ROUTE_0011,CUST_1785,Store_1785,registrado
+ROUTE_0003,CUST_1786,Store_1786,registrado
+ROUTE_0022,CUST_1787,Store_1787,no registrado
+ROUTE_0016,CUST_1788,Store_1788,registrado
+ROUTE_0003,CUST_1789,Store_1789,no registrado
+ROUTE_0010,CUST_1790,Store_1790,no registrado
+ROUTE_0017,CUST_1791,Store_1791,no registrado
+ROUTE_0005,CUST_1792,Store_1792,no registrado
+ROUTE_0016,CUST_1793,Store_1793,no registrado
+ROUTE_0010,CUST_1794,Store_1794,registrado
+ROUTE_0004,CUST_1795,Store_1795,registrado
+ROUTE_0021,CUST_1796,Store_1796,registrado
+ROUTE_0018,CUST_1797,Store_1797,registrado
+ROUTE_0020,CUST_1798,Store_1798,registrado
+ROUTE_0007,CUST_1799,Store_1799,no registrado
+ROUTE_0017,CUST_1800,Store_1800,no registrado
+ROUTE_0012,CUST_1801,Store_1801,no registrado
+ROUTE_0015,CUST_1802,Store_1802,registrado
+ROUTE_0014,CUST_1803,Store_1803,no registrado
+ROUTE_0008,CUST_1804,Store_1804,registrado
+ROUTE_0008,CUST_1805,Store_1805,no registrado
+ROUTE_0004,CUST_1806,Store_1806,no registrado
+ROUTE_0021,CUST_1807,Store_1807,no registrado
+ROUTE_0009,CUST_1808,Store_1808,registrado
+ROUTE_0011,CUST_1809,Store_1809,no registrado
+ROUTE_0017,CUST_1810,Store_1810,registrado
+ROUTE_0002,CUST_1811,Store_1811,no registrado
+ROUTE_0010,CUST_1812,Store_1812,registrado
+ROUTE_0002,CUST_1813,Store_1813,no registrado
+ROUTE_0010,CUST_1814,Store_1814,registrado
+ROUTE_0012,CUST_1815,Store_1815,registrado
+ROUTE_0022,CUST_1816,Store_1816,no registrado
+ROUTE_0017,CUST_1817,Store_1817,registrado
+ROUTE_0002,CUST_1818,Store_1818,registrado
+ROUTE_0005,CUST_1819,Store_1819,registrado
+ROUTE_0002,CUST_1820,Store_1820,no registrado
+ROUTE_0017,CUST_1821,Store_1821,no registrado
+ROUTE_0002,CUST_1822,Store_1822,registrado
+ROUTE_0005,CUST_1823,Store_1823,registrado
+ROUTE_0002,CUST_1824,Store_1824,registrado
+ROUTE_0011,CUST_1825,Store_1825,registrado
+ROUTE_0010,CUST_1826,Store_1826,no registrado
+ROUTE_0002,CUST_1827,Store_1827,registrado
+ROUTE_0003,CUST_1828,Store_1828,registrado
+ROUTE_0021,CUST_1829,Store_1829,no registrado
+ROUTE_0018,CUST_1830,Store_1830,registrado
+ROUTE_0019,CUST_1831,Store_1831,registrado
+ROUTE_0007,CUST_1832,Store_1832,no registrado
+ROUTE_0005,CUST_1833,Store_1833,registrado
+ROUTE_0019,CUST_1834,Store_1834,registrado
+ROUTE_0010,CUST_1835,Store_1835,registrado
+ROUTE_0010,CUST_1836,Store_1836,registrado
+ROUTE_0010,CUST_1837,Store_1837,registrado
+ROUTE_0010,CUST_1838,Store_1838,registrado
+ROUTE_0021,CUST_1839,Store_1839,registrado
+ROUTE_0018,CUST_1840,Store_1840,registrado
+ROUTE_0004,CUST_1841,Store_1841,no registrado
+ROUTE_0017,CUST_1842,Store_1842,registrado
+ROUTE_0018,CUST_1843,Store_1843,no registrado
+ROUTE_0017,CUST_1844,Store_1844,registrado
+ROUTE_0015,CUST_1845,Store_1845,registrado
+ROUTE_0017,CUST_1846,Store_1846,registrado
+ROUTE_0004,CUST_1847,Store_1847,registrado
+ROUTE_0017,CUST_1848,Store_1848,no registrado
+ROUTE_0004,CUST_1849,Store_1849,no registrado
+ROUTE_0017,CUST_1850,Store_1850,registrado
+ROUTE_0021,CUST_1851,Store_1851,registrado
+ROUTE_0009,CUST_1852,Store_1852,registrado
+ROUTE_0009,CUST_1853,Store_1853,registrado
+ROUTE_0004,CUST_1854,Store_1854,registrado
+ROUTE_0012,CUST_1855,Store_1855,registrado
+ROUTE_0017,CUST_1856,Store_1856,no registrado
+ROUTE_0002,CUST_1857,Store_1857,no registrado
+ROUTE_0008,CUST_1858,Store_1858,registrado
+ROUTE_0011,CUST_1859,Store_1859,no registrado
+ROUTE_0010,CUST_1860,Store_1860,registrado
+ROUTE_0018,CUST_1861,Store_1861,registrado
+ROUTE_0003,CUST_1862,Store_1862,no registrado
+ROUTE_0019,CUST_1863,Store_1863,no registrado
+ROUTE_0002,CUST_1864,Store_1864,registrado
+ROUTE_0006,CUST_1865,Store_1865,no registrado
+ROUTE_0009,CUST_1866,Store_1866,registrado
+ROUTE_0018,CUST_1867,Store_1867,registrado
+ROUTE_0019,CUST_1868,Store_1868,registrado
+ROUTE_0006,CUST_1869,Store_1869,registrado
+ROUTE_0002,CUST_1870,Store_1870,no registrado
+ROUTE_0009,CUST_1871,Store_1871,registrado
+ROUTE_0008,CUST_1872,Store_1872,registrado
+ROUTE_0021,CUST_1873,Store_1873,registrado
+ROUTE_0004,CUST_1874,Store_1874,registrado
+ROUTE_0009,CUST_1875,Store_1875,registrado
+ROUTE_0008,CUST_1876,Store_1876,no registrado
+ROUTE_0017,CUST_1877,Store_1877,registrado
+ROUTE_0012,CUST_1878,Store_1878,registrado
+ROUTE_0022,CUST_1879,Store_1879,no registrado
+ROUTE_0005,CUST_1880,Store_1880,registrado
+ROUTE_0008,CUST_1881,Store_1881,no registrado
+ROUTE_0013,CUST_1882,Store_1882,registrado
+ROUTE_0013,CUST_1883,Store_1883,registrado
+ROUTE_0008,CUST_1884,Store_1884,no registrado
+ROUTE_0008,CUST_1883,Store_1883,registrado
+ROUTE_0021,CUST_1885,Store_1885,registrado
+ROUTE_0017,CUST_1886,Store_1886,no registrado
+ROUTE_0014,CUST_1887,Store_1887,no registrado
+ROUTE_0010,CUST_1888,Store_1888,registrado
+ROUTE_0022,CUST_1889,Store_1889,registrado
+ROUTE_0021,CUST_1890,Store_1890,no registrado
+ROUTE_0001,CUST_1891,Store_1891,no registrado
+ROUTE_0002,CUST_1892,Store_1892,no registrado
+ROUTE_0016,CUST_1893,Store_1893,no registrado
+ROUTE_0022,CUST_1894,Store_1894,no registrado
+ROUTE_0016,CUST_1895,Store_1895,no registrado
+ROUTE_0002,CUST_1896,Store_1896,no registrado
+ROUTE_0016,CUST_1897,Store_1897,no registrado
+ROUTE_0008,CUST_1898,Store_1898,registrado
+ROUTE_0002,CUST_1899,Store_1899,no registrado
+ROUTE_0018,CUST_1900,Store_1900,no registrado
+ROUTE_0002,CUST_1901,Store_1901,registrado
+ROUTE_0015,CUST_1902,Store_1902,registrado
+ROUTE_0013,CUST_1903,Store_1903,no registrado
+ROUTE_0013,CUST_1904,Store_1904,no registrado
+ROUTE_0002,CUST_1905,Store_1905,registrado
+ROUTE_0014,CUST_1906,Store_1906,registrado
+ROUTE_0019,CUST_1907,Store_1907,registrado
+ROUTE_0016,CUST_1908,Store_1908,registrado
+ROUTE_0011,CUST_1909,Store_1909,registrado
+ROUTE_0015,CUST_1910,Store_1910,registrado
+ROUTE_0006,CUST_1911,Store_1911,registrado
+ROUTE_0022,CUST_1912,Store_1912,registrado
+ROUTE_0022,CUST_1913,Store_1913,registrado
+ROUTE_0013,CUST_1914,Store_1914,registrado
+ROUTE_0022,CUST_1915,Store_1915,registrado
+ROUTE_0002,CUST_1916,Store_1916,registrado
+ROUTE_0010,CUST_1917,Store_1917,registrado
+ROUTE_0016,CUST_1918,Store_1918,registrado
+ROUTE_0006,CUST_1919,Store_1919,no registrado
+ROUTE_0009,CUST_1920,Store_1920,registrado
+ROUTE_0016,CUST_1921,Store_1921,registrado
+ROUTE_0018,CUST_1922,Store_1922,no registrado
+ROUTE_0016,CUST_1923,Store_1923,registrado
+ROUTE_0004,CUST_1924,Store_1924,registrado
+ROUTE_0012,CUST_1925,Store_1925,registrado
+ROUTE_0013,CUST_1926,Store_1926,registrado
+ROUTE_0007,CUST_1927,Store_1927,no registrado
+ROUTE_0007,CUST_1928,Store_1928,registrado
+ROUTE_0020,CUST_1929,Store_1929,registrado
+ROUTE_0007,CUST_1930,Store_1930,registrado
+ROUTE_0003,CUST_1931,Store_1931,registrado
+ROUTE_0022,CUST_1932,Store_1932,registrado
+ROUTE_0002,CUST_1933,Store_1933,registrado
+ROUTE_0015,CUST_1934,Store_1934,no registrado
+ROUTE_0002,CUST_1935,Store_1935,no registrado
+ROUTE_0002,CUST_1936,Store_1936,registrado
+ROUTE_0004,CUST_1937,Store_1937,no registrado
+ROUTE_0018,CUST_1938,Store_1938,registrado
+ROUTE_0009,CUST_1939,Store_1939,registrado
+ROUTE_0014,CUST_1940,Store_1940,registrado
+ROUTE_0003,CUST_1941,Store_1941,no registrado
+ROUTE_0003,CUST_1942,Store_1942,no registrado
+ROUTE_0017,CUST_1943,Store_1943,registrado
+ROUTE_0009,CUST_1944,Store_1944,no registrado
+ROUTE_0021,CUST_1945,Store_1945,no registrado
+ROUTE_0021,CUST_1946,Store_1946,no registrado
+ROUTE_0017,CUST_1947,Store_1947,registrado
+ROUTE_0006,CUST_1948,Store_1948,registrado
+ROUTE_0015,CUST_1949,Store_1949,registrado
+ROUTE_0003,CUST_1950,Store_1950,no registrado
+ROUTE_0004,CUST_1951,Store_1951,no registrado
+ROUTE_0021,CUST_1952,Store_1952,no registrado
+ROUTE_0009,CUST_1953,Store_1953,registrado
+ROUTE_0006,CUST_1954,Store_1954,no registrado
+ROUTE_0018,CUST_1955,Store_1955,registrado
+ROUTE_0020,CUST_1956,Store_1956,no registrado
+ROUTE_0021,CUST_1957,Store_1957,registrado
+ROUTE_0011,CUST_1958,Store_1958,registrado
+ROUTE_0006,CUST_1959,Store_1959,no registrado
+ROUTE_0005,CUST_1960,Store_1960,no registrado
+ROUTE_0010,CUST_1961,Store_1961,registrado
+ROUTE_0005,CUST_1962,Store_1962,registrado
+ROUTE_0012,CUST_1963,Store_1963,no registrado
+ROUTE_0006,CUST_1964,Store_1964,registrado
+ROUTE_0012,CUST_1965,Store_1965,registrado
+ROUTE_0014,CUST_1966,Store_1966,registrado
+ROUTE_0015,CUST_1967,Store_1967,no registrado
+ROUTE_0012,CUST_1968,Store_1968,registrado
+ROUTE_0017,CUST_1969,Store_1969,no registrado
+ROUTE_0010,CUST_1970,Store_1970,registrado
+ROUTE_0002,CUST_1971,Store_1971,registrado
+ROUTE_0003,CUST_1972,Store_1972,registrado
+ROUTE_0021,CUST_1973,Store_1973,registrado
+ROUTE_0009,CUST_1974,Store_1974,registrado
+ROUTE_0009,CUST_1975,Store_1975,registrado
+ROUTE_0009,CUST_1976,Store_1976,registrado
+ROUTE_0019,CUST_1977,Store_1977,no registrado
+ROUTE_0012,CUST_1978,Store_1978,registrado
+ROUTE_0001,CUST_1979,Store_1979,no registrado
+ROUTE_0013,CUST_1980,Store_1980,no registrado
+ROUTE_0008,CUST_1981,Store_1981,no registrado
+ROUTE_0005,CUST_1982,Store_1982,registrado
+ROUTE_0003,CUST_1983,Store_1983,registrado
+ROUTE_0003,CUST_1984,Store_1984,no registrado
+ROUTE_0003,CUST_1985,Store_1985,registrado
+ROUTE_0022,CUST_1986,Store_1986,no registrado
+ROUTE_0003,CUST_1987,Store_1987,no registrado
+ROUTE_0019,CUST_1988,Store_1988,registrado
+ROUTE_0016,CUST_1989,Store_1989,registrado
+ROUTE_0009,CUST_1990,Store_1990,no registrado
+ROUTE_0011,CUST_1991,Store_1991,registrado
+ROUTE_0016,CUST_1992,Store_1992,registrado
+ROUTE_0003,CUST_1993,Store_1993,registrado
+ROUTE_0009,CUST_1994,Store_1994,registrado
+ROUTE_0009,CUST_1995,Store_1995,registrado
+ROUTE_0009,CUST_1996,Store_1996,registrado
+ROUTE_0002,CUST_1997,Store_1997,registrado
+ROUTE_0003,CUST_1998,Store_1998,registrado
+ROUTE_0002,CUST_1999,Store_1999,no registrado
+ROUTE_0010,CUST_1999,Store_1999,no registrado
+ROUTE_0015,CUST_2000,Store_2000,registrado
+ROUTE_0006,CUST_2001,Store_2001,no registrado
+ROUTE_0021,CUST_2002,Store_2002,no registrado
+ROUTE_0021,CUST_2003,Store_2003,registrado
+ROUTE_0018,CUST_2004,Store_2004,no registrado
+ROUTE_0004,CUST_2005,Store_2005,registrado
+ROUTE_0021,CUST_2006,Store_2006,registrado
+ROUTE_0021,CUST_2007,Store_2007,registrado
+ROUTE_0021,CUST_2008,Store_2008,no registrado
+ROUTE_0020,CUST_2009,Store_2009,no registrado
+ROUTE_0007,CUST_2010,Store_2010,no registrado
+ROUTE_0020,CUST_2011,Store_2011,no registrado
+ROUTE_0007,CUST_2012,Store_2012,no registrado
+ROUTE_0007,CUST_2013,Store_2013,no registrado
+ROUTE_0020,CUST_2014,Store_2014,no registrado
+ROUTE_0020,CUST_2015,Store_2015,no registrado
+ROUTE_0008,CUST_2016,Store_2016,no registrado
+ROUTE_0007,CUST_2017,Store_2017,no registrado
+ROUTE_0018,CUST_2018,Store_2018,registrado
+ROUTE_0007,CUST_2019,Store_2019,registrado
+ROUTE_0002,CUST_2020,Store_2020,no registrado
+ROUTE_0001,CUST_2021,Store_2021,registrado
+ROUTE_0018,CUST_2022,Store_2022,registrado
+ROUTE_0020,CUST_2023,Store_2023,registrado
+ROUTE_0020,CUST_2024,Store_2024,no registrado
+ROUTE_0006,CUST_2024,Store_2024,no registrado
+ROUTE_0015,CUST_2024,Store_2024,no registrado
+ROUTE_0011,CUST_2025,Store_2025,registrado
+ROUTE_0020,CUST_2026,Store_2026,no registrado
+ROUTE_0008,CUST_2027,Store_2027,registrado
+ROUTE_0007,CUST_2028,Store_2028,registrado
+ROUTE_0016,CUST_2029,Store_2029,no registrado
+ROUTE_0004,CUST_2030,Store_2030,registrado
+ROUTE_0010,CUST_2031,Store_2031,registrado
+ROUTE_0014,CUST_2032,Store_2032,no registrado
+ROUTE_0019,CUST_2033,Store_2033,registrado
+ROUTE_0012,CUST_2033,Store_2033,registrado
+ROUTE_0005,CUST_2034,Store_2034,registrado
+ROUTE_0018,CUST_2035,Store_2035,no registrado
+ROUTE_0009,CUST_2036,Store_2036,registrado
+ROUTE_0003,CUST_2037,Store_2037,registrado
+ROUTE_0003,CUST_2038,Store_2038,registrado
+ROUTE_0016,CUST_2039,Store_2039,no registrado
+ROUTE_0010,CUST_2040,Store_2040,registrado
+ROUTE_0009,CUST_2041,Store_2041,registrado
+ROUTE_0010,CUST_2042,Store_2042,registrado
+ROUTE_0017,CUST_2043,Store_2043,registrado
+ROUTE_0005,CUST_2044,Store_2044,registrado
+ROUTE_0009,CUST_2045,Store_2045,registrado
+ROUTE_0006,CUST_2046,Store_2046,no registrado
+ROUTE_0004,CUST_2047,Store_2047,no registrado
+ROUTE_0003,CUST_2048,Store_2048,registrado
+ROUTE_0003,CUST_2049,Store_2049,registrado
+ROUTE_0021,CUST_2050,Store_2050,no registrado
+ROUTE_0020,CUST_2051,Store_2051,registrado
+ROUTE_0010,CUST_2052,Store_2052,registrado
+ROUTE_0014,CUST_2053,Store_2053,no registrado

@@ -1,0 +1,2115 @@
+distrito_sap,ruta,nip_cliente,nombre_cliente,status_registro
+4210,RT020,200001743,Super Buena Vista 31,no registrado
+4210,RT004,200001258,Comercial El Encanto 69,no registrado
+4210,RT008,200001737,Frutería El Sol 16,no registrado
+4210,RT015,200000179,Abarrotes Del Norte 98,no registrado
+4210,RT002,200001649,Abarrotes Del Valle 45,registrado
+4210,RT009,200001555,Minisuper El Mirador 31,registrado
+4210,RT022,200000915,Tienda La Victoria 5,registrado
+4210,RT007,200000912,Super Santa Cruz 48,no registrado
+4210,RT018,200001346,Frutería San José 88,no registrado
+4210,RT017,200001012,Minisuper La Fortuna 89,registrado
+4210,RT012,200001942,Mercadito El Mirador 63,registrado
+4210,RT012,200002007,Depósito Del Norte 68,registrado
+4210,RT018,200000881,Comercial El Mirador 47,no registrado
+4210,RT019,200000781,Bodega La Perla 81,registrado
+4210,RT018,200001358,Mercadito El Roble 31,registrado
+4210,RT015,200000111,Frutería La Perla 77,no registrado
+4210,RT018,200001329,Mercadito La Esperanza 52,no registrado
+4210,RT004,200000907,Minisuper El Encanto 93,registrado
+4210,RT012,200001931,Super Del Norte 48,registrado
+4210,RT005,200000807,Comercial Santa Cruz 86,registrado
+4210,RT017,200000879,Comercial Del Norte 90,no registrado
+4210,RT007,200000897,Abarrotes Las Flores 36,registrado
+4210,RT019,200000718,Minisuper El Encanto 16,registrado
+4210,RT015,200001427,Super San José 13,registrado
+4210,RT005,200000770,Minisuper El Progreso 48,no registrado
+4210,RT007,200001769,Bodega El Mirador 91,registrado
+4210,RT003,200001314,Comercial Santa Fe 62,registrado
+4210,RT020,200000024,Bodega El Progreso 29,registrado
+4210,RT015,200001190,Tienda La Esperanza 78,no registrado
+4210,RT021,200001005,Depósito El Sol 85,registrado
+4210,RT009,200000852,Frutería Las Flores 53,registrado
+4210,RT004,200000860,Mercadito Santa Cruz 57,registrado
+4210,RT012,200001936,Frutería Del Valle 94,registrado
+4210,RT021,200001119,Mercadito Del Valle 31,registrado
+4210,RT017,200001901,Abarrotes El Sol 97,registrado
+4210,RT007,200000053,Super Del Valle 28,no registrado
+4210,RT015,200000871,Comercial San José 58,no registrado
+4210,RT021,200000799,Tienda Del Norte 59,registrado
+4210,RT010,200000845,Minisuper La Fortuna 31,registrado
+4210,RT019,200000798,Frutería Del Valle 91,registrado
+4210,RT018,200001366,Tienda El Progreso 62,registrado
+4210,RT017,200001000,Tienda La Esperanza 42,registrado
+4210,RT011,200001481,Mercadito El Encanto 77,registrado
+4210,RT012,200001481,Mercadito El Encanto 77,registrado
+4210,RT016,200000875,Mercadito El Trebol 44,registrado
+4210,RT010,200001484,Abarrotes El Progreso 62,registrado
+4210,RT022,200000646,Comercial San José 80,registrado
+4210,RT006,200001151,Bodega Buena Vista 55,registrado
+4210,RT011,200000815,Frutería San José 2,registrado
+4210,RT012,200000815,Frutería San José 2,registrado
+4210,RT003,200000720,Bodega Del Valle 36,registrado
+4210,RT015,200001570,Comercial La Fortuna 70,registrado
+4210,RT008,200000888,Super Los Alamos 55,registrado
+4210,RT011,200000052,Minisuper El Sol 94,registrado
+4210,RT003,200000792,Comercial San José 55,registrado
+4210,RT015,200001422,Depósito La Victoria 44,registrado
+4210,RT001,200000674,Mini Market El Encanto 45,registrado
+4210,RT004,200000811,Tienda Del Norte 16,no registrado
+4210,RT008,200000945,Tienda La Unión 50,registrado
+4210,RT018,200000945,Tienda La Unión 50,registrado
+4210,RT018,200001465,Depósito La Unión 95,registrado
+4210,RT006,200000450,Minisuper Del Valle 92,no registrado
+4210,RT016,200000450,Minisuper Del Valle 92,no registrado
+4210,RT011,200000140,Minisuper El Encanto 40,registrado
+4210,RT012,200000140,Minisuper El Encanto 40,registrado
+4210,RT007,200001904,Abarrotes Los Alamos 16,registrado
+4210,RT012,200001728,Mercadito El Encanto 81,no registrado
+4210,RT011,200000130,Super Del Valle 85,registrado
+4210,RT004,200000470,Minisuper Santa Fe 87,registrado
+4210,RT015,200000081,Abarrotes El Progreso 24,registrado
+4210,RT007,200001682,Minisuper El Mirador 49,registrado
+4210,RT005,200001325,Bodega Santa Cruz 13,registrado
+4210,RT016,200000666,Comercial Buena Vista 61,registrado
+4210,RT003,200000312,Minisuper El Roble 11,no registrado
+4210,RT012,200001981,Bodega El Roble 22,no registrado
+4210,RT015,200001507,Frutería Las Flores 72,no registrado
+4210,RT015,200001233,Comercial La Esperanza 11,registrado
+4210,RT018,200001227,Bodega Las Flores 83,registrado
+4210,RT017,200001086,Frutería El Progreso 83,registrado
+4210,RT009,200000906,Depósito Las Flores 76,registrado
+4210,RT011,200001816,Minisuper La Fortuna 25,no registrado
+4210,RT012,200001816,Minisuper La Fortuna 25,no registrado
+4210,RT018,200000806,Mercadito El Trebol 15,registrado
+4210,RT008,200001419,Minisuper Los Pinos 8,registrado
+4210,RT018,200001419,Minisuper Los Pinos 8,registrado
+4210,RT016,200000668,Comercial El Encanto 55,registrado
+4210,RT004,200000437,Mini Market El Encanto 42,no registrado
+4210,RT017,200002031,Mercadito Los Pinos 72,registrado
+4210,RT018,200001192,Minisuper Los Alamos 75,registrado
+4210,RT012,200000011,Abarrotes La Perla 96,registrado
+4210,RT018,200001361,Mini Market La Esperanza 89,registrado
+4210,RT012,200001944,Bodega Las Flores 21,registrado
+4210,RT012,200002034,Comercial La Fortuna 26,registrado
+4210,RT015,200001401,Depósito Del Norte 42,registrado
+4210,RT002,200000804,Tienda El Encanto 60,registrado
+4210,RT007,200000801,Minisuper Los Pinos 13,registrado
+4210,RT010,200001905,Depósito La Unión 99,registrado
+4210,RT015,200001020,Bodega San José 75,no registrado
+4210,RT015,200001205,Depósito Del Norte 66,no registrado
+4210,RT014,200000610,Super Los Pinos 70,registrado
+4210,RT019,200000800,Abarrotes El Roble 38,registrado
+4210,RT003,200000716,Minisuper La Esperanza 17,registrado
+4210,RT018,200001326,Frutería Las Flores 16,no registrado
+4210,RT002,200000854,Abarrotes El Progreso 30,no registrado
+4210,RT018,200001355,Depósito Santa Cruz 65,registrado
+4210,RT009,200000826,Bodega Del Valle 4,registrado
+4210,RT017,200000462,Depósito Del Valle 29,no registrado
+4210,RT017,200001109,Tienda El Sol 23,registrado
+4210,RT012,200001490,Super La Fortuna 65,registrado
+4210,RT012,200001519,Minisuper Santa Fe 86,registrado
+4210,RT014,200000836,Mercadito Los Alamos 75,registrado
+4210,RT004,200000862,Abarrotes Los Pinos 25,no registrado
+4210,RT015,200000832,Comercial Santa Cruz 38,registrado
+4210,RT015,200001324,Depósito Del Norte 33,no registrado
+4210,RT017,200002036,Depósito El Roble 72,registrado
+4210,RT017,200000829,Abarrotes La Fortuna 91,registrado
+4210,RT014,200000778,Bodega La Victoria 67,registrado
+4210,RT002,200000856,Super El Progreso 80,no registrado
+4210,RT005,200000132,Super San José 31,registrado
+4210,RT002,200000695,Frutería La Victoria 45,no registrado
+4210,RT004,200000146,Mercadito La Fortuna 48,registrado
+4210,RT018,200001337,Frutería San José 27,registrado
+4210,RT015,200000766,Comercial El Encanto 58,no registrado
+4210,RT007,200000900,Super Del Norte 86,registrado
+4210,RT014,200000809,Frutería La Fortuna 65,no registrado
+4210,RT015,200001524,Comercial La Esperanza 58,registrado
+4210,RT018,200001113,Comercial La Esperanza 52,registrado
+4210,RT004,200000175,Abarrotes Buena Vista 63,no registrado
+4210,RT012,200001943,Tienda Las Flores 40,registrado
+4210,RT015,200000342,Bodega El Progreso 21,registrado
+4210,RT004,200000863,Minisuper Los Pinos 95,registrado
+4210,RT008,200001356,Comercial El Progreso 79,registrado
+4210,RT018,200001356,Comercial El Progreso 79,registrado
+4210,RT014,200000638,Mini Market Santa Cruz 88,registrado
+4210,RT007,200000797,Minisuper El Roble 97,registrado
+4210,RT018,200000835,Comercial Santa Cruz 84,registrado
+4210,RT014,200000630,Super La Unión 90,no registrado
+4210,RT009,200000796,Abarrotes La Victoria 65,registrado
+4210,RT014,200000622,Mercadito El Sol 46,registrado
+4210,RT015,200001261,Tienda La Victoria 17,no registrado
+4210,RT009,200000918,Mercadito Las Flores 19,registrado
+4210,RT012,200001788,Minisuper El Mirador 40,registrado
+4210,RT017,200002027,Bodega El Sol 22,no registrado
+4210,RT008,200000212,Bodega Del Valle 82,registrado
+4210,RT015,200001432,Super Santa Fe 40,registrado
+4210,RT017,200001008,Mini Market La Victoria 86,registrado
+4210,RT014,200000665,Tienda El Progreso 98,registrado
+4210,RT012,200001697,Abarrotes Buena Vista 42,no registrado
+4210,RT017,200002028,Abarrotes Los Pinos 54,registrado
+4210,RT012,200001774,Comercial El Trebol 96,registrado
+4210,RT012,200001760,Frutería Del Norte 89,registrado
+4210,RT012,200001805,Abarrotes Las Flores 56,registrado
+4210,RT015,200000049,Tienda La Unión 26,registrado
+4210,RT010,200000690,Mercadito Del Valle 45,registrado
+4210,RT016,200000655,Abarrotes Las Flores 22,registrado
+4210,RT015,200001204,Abarrotes El Roble 45,no registrado
+4210,RT017,200002043,Depósito La Fortuna 70,registrado
+4210,RT019,200000883,Mini Market Buena Vista 97,registrado
+4210,RT014,200000623,Mini Market El Roble 11,registrado
+4210,RT012,200001906,Comercial El Mirador 14,registrado
+4210,RT011,200000395,Comercial Del Valle 52,no registrado
+4210,RT016,200001526,Mercadito Del Valle 36,registrado
+4210,RT018,200001462,Bodega La Esperanza 86,registrado
+4210,RT018,200000760,Abarrotes Santa Fe 99,registrado
+4210,RT015,200000861,Minisuper La Perla 19,registrado
+4210,RT022,200000599,Mercadito Del Norte 50,registrado
+4210,RT015,200000491,Mercadito Los Alamos 27,no registrado
+4210,RT010,200000846,Mini Market El Encanto 17,registrado
+4210,RT020,200001330,Mercadito San José 98,registrado
+4210,RT004,200001022,Abarrotes Buena Vista 51,registrado
+4210,RT017,200001010,Bodega Del Valle 60,no registrado
+4210,RT012,200001530,Bodega El Encanto 9,registrado
+4210,RT002,200000890,Bodega La Victoria 90,no registrado
+4210,RT019,200000890,Bodega La Victoria 90,no registrado
+4210,RT019,200000761,Mini Market San José 84,registrado
+4210,RT008,200000176,Super Los Alamos 44,no registrado
+4210,RT010,200000176,Super Los Alamos 44,no registrado
+4210,RT011,200000152,Comercial El Sol 27,registrado
+4210,RT007,200000290,Bodega Los Alamos 16,no registrado
+4210,RT004,200001569,Comercial El Trebol 7,registrado
+4210,RT014,200000659,Tienda Buena Vista 90,no registrado
+4210,RT012,200001959,Frutería La Perla 78,registrado
+4210,RT004,200000446,Frutería Del Norte 57,registrado
+4210,RT022,200000595,Bodega El Progreso 80,no registrado
+4210,RT016,200001053,Mercadito Los Alamos 50,registrado
+4210,RT016,200001055,Minisuper El Encanto 92,registrado
+4210,RT009,200000641,Abarrotes Santa Fe 8,no registrado
+4210,RT016,200001219,Bodega El Sol 15,registrado
+4210,RT007,200001907,Tienda Del Norte 16,registrado
+4210,RT004,200001144,Bodega El Trebol 55,no registrado
+4210,RT017,200001144,Bodega El Trebol 55,no registrado
+4210,RT014,200001499,Bodega El Sol 95,no registrado
+4210,RT019,200001499,Bodega El Sol 95,no registrado
+4210,RT014,200000609,Mercadito Santa Fe 69,registrado
+4210,RT016,200000008,Bodega La Victoria 22,no registrado
+4210,RT016,200001977,Depósito San José 19,registrado
+4210,RT002,200001985,Comercial Santa Cruz 49,registrado
+4210,RT003,200000728,Super San José 36,registrado
+4210,RT014,200001496,Super La Fortuna 29,registrado
+4210,RT022,200000678,Abarrotes El Progreso 57,registrado
+4210,RT015,200000553,Depósito Santa Cruz 67,registrado
+4210,RT002,200001545,Super La Esperanza 12,no registrado
+4210,RT006,200000910,Frutería San José 31,registrado
+4210,RT021,200000060,Bodega Buena Vista 56,registrado
+4210,RT017,200001710,Mercadito El Mirador 26,registrado
+4210,RT017,200001184,Tienda El Roble 5,no registrado
+4210,RT006,200001839,Minisuper La Perla 99,registrado
+4210,RT021,200001200,Comercial La Unión 19,no registrado
+4210,RT014,200001534,Comercial Santa Fe 59,registrado
+4210,RT019,200001677,Comercial La Victoria 8,no registrado
+4210,RT002,200002002,Comercial Las Flores 94,registrado
+4210,RT002,200000299,Tienda El Trebol 1,registrado
+4210,RT018,200000537,Depósito Las Flores 29,registrado
+4210,RT009,200001712,Abarrotes Los Alamos 47,registrado
+4210,RT006,200000515,Mercadito El Sol 57,registrado
+4210,RT019,200000515,Mercadito El Sol 57,registrado
+4210,RT006,200001305,Abarrotes Las Flores 90,registrado
+4210,RT004,200001562,Minisuper El Roble 57,registrado
+4210,RT018,200001667,Comercial Buena Vista 62,registrado
+4210,RT019,200000397,Tienda La Victoria 76,registrado
+4210,RT004,200000416,Comercial El Mirador 63,registrado
+4210,RT014,200001918,Mercadito La Perla 86,no registrado
+4210,RT020,200001461,Frutería Los Pinos 72,registrado
+4210,RT006,200001863,Abarrotes El Trebol 7,registrado
+4210,RT017,200001241,Frutería Las Flores 56,registrado
+4210,RT009,200000563,Comercial El Encanto 95,no registrado
+4210,RT002,200001468,Bodega La Unión 67,registrado
+4210,RT018,200000394,Depósito El Sol 99,registrado
+4210,RT021,200001322,Super La Perla 12,registrado
+4210,RT012,200000585,Minisuper Del Norte 63,no registrado
+4210,RT021,200001770,Super La Victoria 10,registrado
+4210,RT006,200000913,Mini Market El Mirador 68,registrado
+4210,RT014,200001583,Comercial El Trebol 76,no registrado
+4210,RT004,200000120,Bodega El Roble 97,registrado
+4210,RT009,200001527,Bodega La Fortuna 6,registrado
+4210,RT009,200000601,Mini Market Santa Fe 8,no registrado
+4210,RT016,200000604,Tienda Santa Fe 1,registrado
+4210,RT011,200001494,Super Los Alamos 65,no registrado
+4210,RT021,200000387,Mercadito La Unión 43,no registrado
+4210,RT004,200001142,Depósito Los Pinos 1,no registrado
+4210,RT007,200000037,Mini Market El Progreso 73,no registrado
+4210,RT016,200000621,Tienda El Encanto 76,registrado
+4210,RT011,200001165,Tienda El Sol 92,registrado
+4210,RT016,200002047,Bodega Los Pinos 46,registrado
+4210,RT014,200001208,Depósito La Unión 48,registrado
+4210,RT014,200000731,Super El Mirador 99,registrado
+4210,RT014,200000986,Depósito El Progreso 66,registrado
+4210,RT014,200000950,Depósito El Encanto 98,registrado
+4210,RT021,200001301,Mercadito Santa Fe 45,registrado
+4210,RT002,200001958,Bodega El Roble 90,registrado
+4210,RT006,200001704,Mercadito El Progreso 26,registrado
+4210,RT014,200001443,Abarrotes La Victoria 54,no registrado
+4210,RT006,200000990,Frutería El Progreso 30,registrado
+4210,RT014,200001382,Bodega La Esperanza 58,registrado
+4210,RT014,200000642,Depósito El Trebol 87,registrado
+4210,RT003,200000534,Depósito El Roble 13,no registrado
+4210,RT006,200000967,Super Del Norte 6,registrado
+4210,RT007,200000476,Mercadito Las Flores 51,registrado
+4210,RT006,200001154,Super Los Alamos 78,no registrado
+4210,RT009,200000461,Comercial Del Norte 57,no registrado
+4210,RT021,200001379,Mini Market El Trebol 31,no registrado
+4210,RT004,200000946,Frutería La Perla 12,registrado
+4210,RT005,200000843,Super San José 32,registrado
+4210,RT006,200001680,Frutería El Progreso 63,no registrado
+4210,RT019,200000332,Depósito El Trebol 43,no registrado
+4210,RT021,200001460,Mini Market San José 22,no registrado
+4210,RT014,200001593,Frutería Santa Cruz 63,registrado
+4210,RT017,200001146,Super Del Norte 49,registrado
+4210,RT021,200001810,Mercadito El Roble 24,no registrado
+4210,RT011,200001027,Mini Market La Perla 98,registrado
+4210,RT002,200001571,Comercial Santa Cruz 16,registrado
+4210,RT006,200001950,Frutería Las Flores 77,registrado
+4210,RT003,200001850,Minisuper Los Alamos 81,registrado
+4210,RT006,200001873,Comercial Los Alamos 60,registrado
+4210,RT021,200001665,Frutería La Perla 7,registrado
+4210,RT012,200001964,Depósito Los Pinos 57,registrado
+4210,RT015,200000300,Mini Market La Esperanza 64,no registrado
+4210,RT010,200000502,Comercial Buena Vista 53,registrado
+4210,RT011,200001229,Mini Market El Trebol 37,registrado
+4210,RT012,200000418,Super San José 90,registrado
+4210,RT008,200001482,Comercial San José 4,no registrado
+4210,RT021,200000359,Comercial San José 79,registrado
+4210,RT018,200000479,Comercial El Sol 41,registrado
+4210,RT021,200001829,Bodega El Progreso 80,no registrado
+4210,RT011,200000449,Super Santa Fe 93,no registrado
+4210,RT002,200001404,Mini Market El Sol 17,registrado
+4210,RT009,200001477,Depósito El Trebol 39,registrado
+4210,RT003,200000530,Abarrotes La Fortuna 93,no registrado
+4210,RT009,200001497,Bodega El Roble 69,no registrado
+4210,RT020,200000069,Comercial La Unión 13,registrado
+4210,RT017,200001399,Mini Market El Trebol 16,registrado
+4210,RT006,200001652,Mini Market Los Alamos 12,registrado
+4210,RT019,200001744,Depósito Los Pinos 55,registrado
+4210,RT011,200000441,Tienda El Sol 62,no registrado
+4210,RT019,200001334,Mercadito El Roble 89,registrado
+4210,RT016,200002045,Minisuper El Sol 63,registrado
+4210,RT016,200001152,Frutería El Sol 5,registrado
+4210,RT011,200001032,Comercial La Unión 19,registrado
+4210,RT014,200001437,Super San José 46,registrado
+4210,RT021,200000943,Mini Market Del Norte 87,no registrado
+4210,RT004,200001013,Bodega Las Flores 99,no registrado
+4210,RT012,200001781,Super El Roble 64,registrado
+4210,RT017,200001243,Depósito El Sol 84,registrado
+4210,RT016,200000634,Mercadito Del Valle 61,registrado
+4210,RT017,200000579,Depósito Santa Cruz 37,registrado
+4210,RT016,200001608,Tienda La Esperanza 3,registrado
+4210,RT006,200001882,Comercial El Trebol 37,registrado
+4210,RT008,200000056,Abarrotes La Fortuna 76,registrado
+4210,RT006,200001705,Bodega El Sol 84,registrado
+4210,RT019,200001764,Mercadito El Roble 20,registrado
+4210,RT019,200000724,Abarrotes El Progreso 30,no registrado
+4210,RT006,200000651,Depósito El Progreso 66,registrado
+4210,RT016,200000651,Depósito El Progreso 66,registrado
+4210,RT022,200000597,Tienda La Victoria 86,registrado
+4210,RT010,200000448,Mercadito San José 17,registrado
+4210,RT007,200000733,Abarrotes El Encanto 16,registrado
+4210,RT016,200000022,Depósito El Trebol 21,registrado
+4210,RT021,200000386,Super El Sol 91,no registrado
+4210,RT009,200002020,Mini Market El Mirador 41,registrado
+4210,RT015,200000531,Minisuper Santa Cruz 42,registrado
+4210,RT006,200001635,Abarrotes Santa Fe 30,no registrado
+4210,RT021,200001426,Mercadito Buena Vista 10,registrado
+4210,RT003,200000787,Abarrotes La Unión 35,no registrado
+4210,RT009,200001480,Bodega El Trebol 83,registrado
+4210,RT006,200001254,Abarrotes San José 55,registrado
+4210,RT009,200000542,Frutería Las Flores 53,no registrado
+4210,RT017,200001274,Super El Roble 94,registrado
+4210,RT014,200000671,Mercadito Las Flores 3,registrado
+4210,RT004,200001082,Frutería Santa Fe 59,registrado
+4210,RT019,200001817,Abarrotes Los Alamos 54,registrado
+4210,RT009,200002024,Depósito Buena Vista 35,no registrado
+4210,RT013,200001429,Mini Market El Sol 40,no registrado
+4210,RT006,200001637,Mercadito Las Flores 94,registrado
+4210,RT021,200001438,Super El Roble 61,registrado
+4210,RT017,200001591,Tienda Los Pinos 36,registrado
+4210,RT003,200000321,Frutería Del Valle 98,no registrado
+4210,RT003,200001647,Super El Trebol 51,no registrado
+4210,RT005,200000180,Super La Esperanza 73,no registrado
+4210,RT003,200001725,Abarrotes Los Pinos 3,registrado
+4210,RT011,200000086,Mercadito El Mirador 96,registrado
+4210,RT006,200001883,Depósito Santa Cruz 32,registrado
+4210,RT012,200001123,Mini Market El Progreso 81,registrado
+4210,RT008,200000614,Depósito Buena Vista 89,registrado
+4210,RT004,200000158,Tienda El Mirador 35,registrado
+4210,RT004,200002051,Tienda Buena Vista 34,registrado
+4210,RT006,200000068,Mercadito Buena Vista 72,registrado
+4210,RT006,200001766,Super Del Norte 44,registrado
+4210,RT022,200001709,Tienda El Roble 14,registrado
+4210,RT005,200000577,Frutería La Perla 5,registrado
+4210,RT005,200000456,Abarrotes Del Valle 71,registrado
+4210,RT016,200000947,Depósito El Encanto 99,registrado
+4210,RT003,200001715,Depósito Santa Fe 81,registrado
+4210,RT002,200001998,Minisuper Del Norte 78,registrado
+4210,RT003,200001057,Frutería Del Valle 31,registrado
+4210,RT016,200002053,Comercial Del Norte 57,registrado
+4210,RT008,200001726,Bodega Del Valle 11,registrado
+4210,RT007,200000549,Super La Perla 66,registrado
+4210,RT006,200001671,Bodega Las Flores 61,registrado
+4210,RT019,200001602,Super La Unión 26,no registrado
+4210,RT019,200001198,Mini Market La Esperanza 60,registrado
+4210,RT014,200002038,Comercial Las Flores 71,registrado
+4210,RT002,200000776,Tienda La Esperanza 13,registrado
+4210,RT006,200001302,Mini Market La Esperanza 2,no registrado
+4210,RT016,200000735,Depósito El Encanto 68,registrado
+4210,RT014,200001775,Mercadito La Unión 80,no registrado
+4210,RT014,200001371,Mini Market La Fortuna 29,registrado
+4210,RT014,200000707,Frutería El Progreso 15,registrado
+4210,RT006,200000771,Frutería Del Norte 22,registrado
+4210,RT019,200000771,Frutería Del Norte 22,registrado
+4210,RT020,200000848,Minisuper La Victoria 77,registrado
+4210,RT008,200000085,Mini Market El Progreso 87,registrado
+4210,RT003,200001875,Depósito La Perla 84,registrado
+4210,RT002,200001748,Super La Victoria 71,registrado
+4210,RT009,200000527,Super La Fortuna 3,registrado
+4210,RT017,200001575,Mercadito El Mirador 16,no registrado
+4210,RT004,200001418,Mini Market Santa Cruz 40,registrado
+4210,RT005,200000272,Tienda Los Alamos 25,registrado
+4210,RT019,200001391,Mini Market El Sol 49,registrado
+4210,RT012,200000401,Super El Sol 64,registrado
+4210,RT012,200002012,Bodega El Progreso 60,registrado
+4210,RT006,200001058,Abarrotes La Unión 72,registrado
+4210,RT004,200001197,Mini Market La Victoria 94,registrado
+4210,RT019,200000365,Mini Market La Fortuna 63,registrado
+4210,RT021,200000320,Minisuper El Sol 94,registrado
+4210,RT021,200000352,Minisuper Santa Fe 17,registrado
+4210,RT019,200000978,Abarrotes La Esperanza 76,registrado
+4210,RT014,200000246,Abarrotes Del Norte 25,registrado
+4210,RT002,200001125,Mini Market La Esperanza 25,registrado
+4210,RT017,200000535,Bodega Santa Fe 19,registrado
+4210,RT004,200001915,Minisuper La Perla 29,registrado
+4210,RT021,200001685,Depósito Del Valle 94,registrado
+4210,RT006,200001703,Mini Market El Roble 41,registrado
+4210,RT002,200001031,Minisuper El Mirador 97,registrado
+4210,RT002,200000528,Depósito San José 88,registrado
+4210,RT021,200000117,Frutería Los Pinos 30,registrado
+4210,RT007,200000702,Comercial La Perla 59,registrado
+4210,RT008,200001603,Mini Market Del Valle 85,no registrado
+4210,RT004,200000032,Super El Trebol 95,registrado
+4210,RT008,200001688,Abarrotes Buena Vista 41,no registrado
+4210,RT014,200000662,Bodega Las Flores 95,registrado
+4210,RT004,200000195,Comercial Buena Vista 86,registrado
+4210,RT015,200001323,Depósito El Trebol 89,registrado
+4210,RT015,200000326,Minisuper Santa Fe 78,no registrado
+4210,RT006,200001111,Tienda La Victoria 90,registrado
+4210,RT019,200001754,Minisuper San José 25,registrado
+4210,RT019,200001561,Bodega El Trebol 60,registrado
+4210,RT007,200000703,Super Del Valle 24,registrado
+4210,RT008,200001504,Bodega Las Flores 5,registrado
+4210,RT008,200000091,Minisuper El Progreso 73,registrado
+4210,RT014,200001759,Frutería La Fortuna 99,registrado
+4210,RT019,200001845,Super Las Flores 38,registrado
+4210,RT011,200001679,Comercial Los Alamos 50,registrado
+4210,RT009,200001706,Depósito Santa Fe 86,registrado
+4210,RT003,200000048,Depósito El Progreso 23,registrado
+4210,RT006,200001722,Mercadito El Trebol 47,no registrado
+4210,RT006,200001516,Mini Market La Fortuna 17,registrado
+4210,RT007,200001974,Comercial Santa Fe 5,registrado
+4210,RT008,200001339,Comercial El Encanto 27,no registrado
+4210,RT008,200001456,Tienda El Mirador 81,registrado
+4210,RT009,200000333,Super El Encanto 66,registrado
+4210,RT012,200000428,Minisuper San José 20,registrado
+4210,RT019,200001516,Mini Market La Fortuna 17,registrado
+4210,RT021,200001312,Mini Market El Encanto 42,registrado
+4210,RT003,200001864,Bodega La Unión 35,no registrado
+4210,RT009,200001435,Minisuper Santa Fe 7,registrado
+4210,RT017,200001240,Bodega San José 25,no registrado
+4210,RT017,200001247,Minisuper El Encanto 6,registrado
+4210,RT006,200001655,Bodega Los Alamos 73,no registrado
+4210,RT021,200000363,Bodega El Encanto 31,no registrado
+4210,RT008,200001232,Bodega San José 27,registrado
+4210,RT002,200000106,Super Del Norte 46,registrado
+4210,RT009,200000382,Super La Fortuna 68,registrado
+4210,RT011,200001486,Tienda Del Valle 96,no registrado
+4210,RT021,200000375,Mini Market El Mirador 76,registrado
+4210,RT011,200001779,Tienda El Roble 30,no registrado
+4210,RT008,200001590,Comercial La Victoria 56,registrado
+4210,RT003,200001284,Frutería El Mirador 48,registrado
+4210,RT009,200000331,Mini Market Buena Vista 81,registrado
+4210,RT006,200001711,Comercial El Progreso 96,registrado
+4210,RT006,200002044,Comercial Los Pinos 92,registrado
+4210,RT014,200000667,Minisuper La Esperanza 63,registrado
+4210,RT020,200000006,Abarrotes El Trebol 26,registrado
+4210,RT020,200000571,Comercial La Victoria 47,no registrado
+4210,RT020,200001120,Super Los Pinos 82,registrado
+4210,RT019,200001199,Comercial La Victoria 66,registrado
+4210,RT020,200001064,Minisuper El Encanto 95,registrado
+4210,RT011,200000015,Minisuper Los Pinos 68,no registrado
+4210,RT012,200000015,Minisuper Los Pinos 68,no registrado
+4210,RT015,200001389,Frutería La Perla 14,registrado
+4210,RT019,200000258,Bodega Del Norte 91,registrado
+4210,RT009,200000649,Mercadito Los Pinos 24,no registrado
+4210,RT004,200001913,Minisuper El Mirador 90,registrado
+4210,RT002,200000640,Minisuper La Victoria 21,no registrado
+4210,RT006,200001720,Bodega El Roble 26,registrado
+4210,RT021,200001373,Mercadito Las Flores 3,no registrado
+4210,RT005,200000220,Minisuper Santa Fe 35,registrado
+4210,RT008,200000940,Abarrotes El Sol 72,no registrado
+4210,RT004,200001014,Bodega Santa Fe 17,registrado
+4210,RT008,200000067,Super Del Norte 89,no registrado
+4210,RT008,200001579,Comercial Los Alamos 82,no registrado
+4210,RT007,200002040,Super El Trebol 95,no registrado
+4210,RT010,200000440,Depósito El Mirador 64,registrado
+4210,RT009,200000435,Bodega El Mirador 61,no registrado
+4210,RT006,200001723,Mini Market Buena Vista 51,registrado
+4210,RT004,200000161,Frutería La Perla 3,no registrado
+4210,RT019,200001846,Comercial Santa Cruz 54,registrado
+4210,RT004,200000471,Minisuper Santa Cruz 23,no registrado
+4210,RT009,200000473,Minisuper Santa Fe 14,no registrado
+4210,RT019,200000874,Frutería Santa Fe 73,registrado
+4210,RT003,200001876,Abarrotes El Trebol 55,registrado
+4210,RT018,200000340,Abarrotes Buena Vista 8,registrado
+4210,RT016,200000732,Super Santa Fe 71,registrado
+4210,RT014,200001406,Tienda Los Alamos 26,registrado
+4210,RT002,200001283,Mercadito Las Flores 42,no registrado
+4210,RT018,200000349,Mini Market San José 59,registrado
+4210,RT019,200000301,Abarrotes El Sol 77,registrado
+4210,RT006,200001385,Abarrotes El Roble 31,no registrado
+4210,RT006,200001221,Depósito El Roble 54,registrado
+4210,RT006,200001395,Mini Market Santa Fe 59,registrado
+4210,RT006,200001871,Bodega El Trebol 37,registrado
+4210,RT017,200001694,Comercial San José 56,registrado
+4210,RT019,200000782,Frutería El Roble 72,registrado
+4210,RT019,200001758,Comercial Santa Fe 57,registrado
+4210,RT006,200000193,Mercadito Del Valle 84,registrado
+4210,RT016,200000193,Mercadito Del Valle 84,registrado
+4210,RT021,200000214,Tienda La Victoria 86,registrado
+4210,RT006,200001253,Bodega El Encanto 40,registrado
+4210,RT008,200001230,Frutería Santa Fe 80,registrado
+4210,RT016,200000939,Bodega El Sol 13,registrado
+4210,RT004,200000186,Frutería El Encanto 80,registrado
+4210,RT004,200001648,Bodega La Perla 86,registrado
+4210,RT019,200001877,Bodega La Victoria 1,registrado
+4210,RT019,200000468,Depósito Del Valle 62,registrado
+4210,RT004,200001279,Frutería Del Valle 52,no registrado
+4210,RT008,200001967,Mini Market Santa Cruz 17,registrado
+4210,RT014,200000627,Tienda La Victoria 9,registrado
+4210,RT002,200001708,Tienda El Trebol 47,no registrado
+4210,RT002,200001784,Super San José 39,no registrado
+4210,RT003,200000109,Bodega Los Pinos 83,registrado
+4210,RT004,200000501,Depósito La Victoria 84,registrado
+4210,RT006,200000837,Mini Market El Roble 22,registrado
+4210,RT006,200001384,Frutería La Perla 46,registrado
+4210,RT006,200001860,Frutería La Perla 29,registrado
+4210,RT006,200001954,Tienda La Unión 52,registrado
+4210,RT007,200001979,Bodega Santa Cruz 22,registrado
+4210,RT008,200001077,Abarrotes El Trebol 83,registrado
+4210,RT009,200001630,Bodega El Progreso 97,registrado
+4210,RT012,200000919,Super Buena Vista 94,registrado
+4210,RT016,200000837,Mini Market El Roble 22,registrado
+4210,RT019,200000765,Frutería El Trebol 45,registrado
+4210,RT021,200001275,Depósito La Unión 49,registrado
+4210,RT015,200000309,Depósito Los Pinos 26,no registrado
+4210,RT006,200001690,Mercadito Del Norte 71,no registrado
+4210,RT009,200000369,Mercadito San José 95,no registrado
+4210,RT010,200000134,Comercial La Perla 18,registrado
+4210,RT018,200001118,Mercadito La Unión 55,registrado
+4210,RT015,200001129,Mini Market Los Alamos 79,registrado
+4210,RT008,200001224,Mini Market El Roble 80,no registrado
+4210,RT009,200000189,Minisuper La Perla 47,no registrado
+4210,RT018,200001224,Mini Market El Roble 80,no registrado
+4210,RT002,200000402,Comercial Del Norte 80,registrado
+4210,RT017,200001028,Abarrotes La Perla 84,registrado
+4210,RT006,200001689,Tienda El Roble 80,no registrado
+4210,RT010,200000164,Comercial Las Flores 8,registrado
+4210,RT021,200001751,Mercadito Del Valle 26,registrado
+4210,RT016,200001512,Tienda San José 33,registrado
+4210,RT004,200001473,Bodega San José 89,no registrado
+4210,RT016,200001501,Super El Roble 6,registrado
+4210,RT006,200001189,Frutería El Trebol 79,registrado
+4210,RT019,200001847,Abarrotes El Roble 10,registrado
+4210,RT007,200000937,Frutería Del Norte 78,registrado
+4210,RT012,200000098,Comercial Santa Cruz 55,registrado
+4210,RT002,200000252,Abarrotes San José 79,no registrado
+4210,RT011,200000780,Bodega El Sol 39,no registrado
+4210,RT017,200001592,Mini Market El Encanto 98,registrado
+4210,RT019,200000252,Abarrotes San José 79,no registrado
+4210,RT003,200000319,Abarrotes Buena Vista 97,no registrado
+4210,RT018,200000948,Abarrotes Del Norte 40,no registrado
+4210,RT012,200000133,Abarrotes Del Norte 59,registrado
+4210,RT007,200001625,Bodega Buena Vista 66,registrado
+4210,RT006,200001840,Abarrotes Santa Cruz 19,no registrado
+4210,RT019,200000338,Bodega El Sol 58,registrado
+4210,RT014,200001642,Mercadito El Progreso 34,registrado
+4210,RT021,200001588,Frutería Las Flores 65,no registrado
+4210,RT007,200001724,Depósito Del Valle 8,registrado
+4210,RT019,200000942,Comercial Del Norte 52,registrado
+4210,RT006,200001153,Abarrotes El Progreso 69,registrado
+4210,RT006,200001639,Mini Market Las Flores 35,registrado
+4210,RT008,200000330,Minisuper La Esperanza 79,registrado
+4210,RT019,200001684,Depósito Las Flores 42,registrado
+4210,RT004,200000421,Minisuper La Fortuna 37,registrado
+4210,RT014,200000767,Super La Victoria 77,registrado
+4210,RT006,200000548,Mercadito El Encanto 40,registrado
+4210,RT012,200000578,Frutería Del Norte 87,registrado
+4210,RT019,200000548,Mercadito El Encanto 40,registrado
+4210,RT006,200002041,Tienda El Sol 48,registrado
+4210,RT003,200001815,Abarrotes El Sol 62,registrado
+4210,RT014,200001281,Frutería El Progreso 84,no registrado
+4210,RT017,200001412,Bodega La Esperanza 40,no registrado
+4210,RT021,200001771,Bodega La Perla 13,no registrado
+4210,RT017,200001131,Depósito San José 69,registrado
+4210,RT019,200000305,Mini Market El Trebol 82,no registrado
+4210,RT007,200000298,Frutería Buena Vista 67,no registrado
+4210,RT004,200000316,Tienda La Fortuna 77,registrado
+4210,RT016,200001001,Comercial El Mirador 27,registrado
+4210,RT016,200000593,Depósito El Roble 29,registrado
+4210,RT002,200000813,Abarrotes El Progreso 1,registrado
+4210,RT005,200000417,Depósito El Sol 61,registrado
+4210,RT007,200000097,Minisuper Buena Vista 77,no registrado
+4210,RT013,200001272,Mini Market El Encanto 15,registrado
+4210,RT014,200000680,Minisuper El Mirador 2,registrado
+4210,RT006,200001951,Mini Market Los Pinos 95,registrado
+4210,RT021,200000540,Minisuper El Progreso 51,registrado
+4210,RT008,200000118,Mercadito Del Norte 89,no registrado
+4210,RT019,200001345,Frutería Los Alamos 22,registrado
+4210,RT011,200000561,Frutería La Esperanza 24,no registrado
+4210,RT014,200000664,Bodega La Fortuna 68,registrado
+4210,RT011,200001211,Super Del Norte 86,registrado
+4210,RT015,200001149,Abarrotes San José 98,no registrado
+4210,RT021,200001773,Bodega Las Flores 37,no registrado
+4210,RT006,200001879,Bodega Las Flores 6,registrado
+4210,RT009,200000519,Comercial Santa Fe 31,registrado
+4210,RT006,200001716,Mercadito El Encanto 93,no registrado
+4210,RT021,200001409,Minisuper Buena Vista 15,registrado
+4210,RT017,200000734,Minisuper La Fortuna 86,no registrado
+4210,RT021,200000157,Abarrotes El Mirador 23,registrado
+4210,RT006,200001718,Comercial San José 58,registrado
+4210,RT008,200001485,Depósito Buena Vista 68,registrado
+4210,RT006,200001641,Depósito San José 77,registrado
+4210,RT006,200001844,Comercial Santa Fe 2,registrado
+4210,RT002,200000103,Abarrotes La Fortuna 62,registrado
+4210,RT012,200000121,Minisuper Del Norte 95,registrado
+4210,RT021,200001971,Abarrotes El Encanto 83,registrado
+4210,RT002,200001798,Mercadito El Trebol 61,no registrado
+4210,RT017,200001237,Bodega El Progreso 81,registrado
+4210,RT019,200000046,Comercial La Fortuna 42,registrado
+4210,RT019,200001268,Mercadito Las Flores 65,registrado
+4210,RT004,200001134,Bodega La Esperanza 38,registrado
+4210,RT004,200001470,Bodega Los Pinos 93,registrado
+4210,RT009,200000248,Comercial La Esperanza 78,no registrado
+4210,RT009,200002013,Comercial Los Alamos 3,registrado
+4210,RT015,200000105,Mercadito La Fortuna 97,no registrado
+4210,RT017,200000160,Comercial La Perla 6,registrado
+4210,RT021,200000296,Super La Fortuna 29,registrado
+4210,RT011,200000151,Tienda El Trebol 1,registrado
+4210,RT012,200000151,Tienda El Trebol 1,registrado
+4210,RT004,200001321,Minisuper El Encanto 64,registrado
+4210,RT019,200000381,Super Los Pinos 50,registrado
+4210,RT006,200001749,Bodega Buena Vista 48,registrado
+4210,RT003,200001315,Bodega Del Valle 92,registrado
+4210,RT003,200001848,Minisuper Los Alamos 10,no registrado
+4210,RT005,200000226,Frutería Del Valle 95,registrado
+4210,RT015,200000358,Depósito La Victoria 10,no registrado
+4210,RT008,200001076,Minisuper Los Pinos 26,registrado
+4210,RT002,200001619,Frutería Los Pinos 41,registrado
+4210,RT008,200000750,Bodega El Roble 96,no registrado
+4210,RT016,200002048,Bodega La Unión 84,registrado
+4210,RT002,200000997,Frutería La Perla 44,no registrado
+4210,RT009,200001627,Minisuper San José 12,registrado
+4210,RT021,200000169,Bodega Del Norte 77,registrado
+4210,RT014,200000661,Minisuper El Roble 67,registrado
+4210,RT006,200001645,Bodega La Perla 20,registrado
+4210,RT006,200001886,Tienda Santa Cruz 60,registrado
+4210,RT014,200000023,Mercadito El Encanto 4,no registrado
+4210,RT004,200001087,Bodega Buena Vista 66,registrado
+4210,RT003,200001926,Super Las Flores 96,registrado
+4210,RT004,200000512,Tienda La Fortuna 25,no registrado
+4210,RT008,200001618,Super La Victoria 34,registrado
+4210,RT009,200001830,Frutería Los Alamos 32,registrado
+4210,RT017,200000507,Minisuper La Perla 58,no registrado
+4210,RT014,200001187,Super Los Alamos 68,registrado
+4210,RT015,200000768,Comercial El Mirador 53,registrado
+4210,RT009,200000566,Frutería San José 60,no registrado
+4210,RT012,200000406,Frutería El Encanto 87,registrado
+4210,RT018,200000082,Frutería El Trebol 38,registrado
+4210,RT014,200000679,Depósito San José 1,registrado
+4210,RT021,200001581,Mini Market Buena Vista 85,registrado
+4210,RT006,200001255,Mini Market La Victoria 19,registrado
+4210,RT001,200001952,Mercadito La Victoria 65,registrado
+4210,RT012,200001101,Depósito El Sol 53,registrado
+4210,RT012,200000576,Frutería La Victoria 5,registrado
+4210,RT015,200000490,Comercial La Esperanza 49,no registrado
+4210,RT011,200000129,Super La Victoria 65,no registrado
+4210,RT012,200000129,Super La Victoria 65,no registrado
+4210,RT019,200001260,Comercial Santa Cruz 22,no registrado
+4210,RT014,200001459,Depósito Santa Cruz 4,registrado
+4210,RT010,200000026,Frutería El Roble 99,registrado
+4210,RT015,200000110,Mercadito San José 92,registrado
+4210,RT021,200002042,Mercadito El Roble 1,registrado
+4210,RT008,200000361,Depósito La Victoria 13,registrado
+4210,RT009,200001586,Frutería El Sol 28,registrado
+4210,RT015,200000277,Mercadito Santa Fe 38,registrado
+4210,RT006,200001644,Mercadito Del Norte 62,registrado
+4210,RT008,200000794,Mini Market El Mirador 93,registrado
+4210,RT019,200000554,Abarrotes Del Norte 42,registrado
+4210,RT019,200001327,Frutería La Unión 49,no registrado
+4210,RT014,200000064,Comercial Buena Vista 59,registrado
+4210,RT006,200000632,Mini Market La Fortuna 5,registrado
+4210,RT011,200001166,Mercadito Los Pinos 67,no registrado
+4210,RT020,200000276,Mercadito Santa Fe 72,no registrado
+4210,RT012,200000545,Minisuper Santa Cruz 68,registrado
+4210,RT019,200000183,Abarrotes Santa Fe 98,registrado
+4210,RT003,200001313,Depósito La Unión 51,no registrado
+4210,RT010,200000420,Super San José 21,registrado
+4210,RT003,200001734,Mercadito El Mirador 42,registrado
+4210,RT019,200000107,Mini Market El Trebol 17,no registrado
+4210,RT019,200001872,Mini Market El Progreso 83,no registrado
+4210,RT016,200001559,Minisuper La Esperanza 61,registrado
+4210,RT015,200001278,Super El Encanto 78,no registrado
+4210,RT017,200000769,Tienda El Trebol 67,no registrado
+4210,RT002,200001566,Depósito Los Pinos 88,registrado
+4210,RT021,200001831,Frutería Las Flores 53,registrado
+4210,RT010,200000494,Mini Market La Unión 82,registrado
+4210,RT014,200000633,Comercial Las Flores 36,registrado
+4210,RT003,200000346,Minisuper El Progreso 85,registrado
+4210,RT011,200000427,Minisuper El Mirador 65,registrado
+4210,RT015,200001969,Mercadito Santa Fe 15,registrado
+4210,RT008,200001155,Comercial El Progreso 74,registrado
+4210,RT016,200000603,Abarrotes San José 47,no registrado
+4210,RT016,200000624,Depósito La Fortuna 49,registrado
+4210,RT022,200002029,Bodega La Fortuna 10,registrado
+4210,RT008,200000088,Depósito El Trebol 29,no registrado
+4210,RT016,200001396,Minisuper El Roble 60,registrado
+4210,RT019,200001865,Abarrotes El Roble 27,registrado
+4210,RT003,200001702,Minisuper El Sol 29,registrado
+4210,RT006,200001855,Abarrotes Los Pinos 74,registrado
+4210,RT019,200001855,Abarrotes Los Pinos 74,registrado
+4210,RT021,200001196,Mercadito El Mirador 40,no registrado
+4210,RT004,200000424,Tienda El Mirador 6,no registrado
+4210,RT007,200001070,Mini Market El Encanto 96,no registrado
+4210,RT021,200001832,Comercial Los Alamos 98,registrado
+4210,RT007,200001973,Abarrotes La Victoria 40,registrado
+4210,RT009,200000405,Tienda El Mirador 6,registrado
+4210,RT017,200001851,Frutería Los Alamos 17,registrado
+4210,RT021,200000730,Bodega San José 82,registrado
+4210,RT017,200001544,Mini Market El Trebol 83,no registrado
+4210,RT021,200001833,Comercial Buena Vista 37,registrado
+4210,RT010,200000383,Frutería El Encanto 73,registrado
+4210,RT020,200000784,Comercial La Esperanza 76,no registrado
+4210,RT019,200001167,Comercial Del Valle 62,registrado
+4210,RT016,200001100,Frutería Del Valle 83,registrado
+4210,RT006,200001866,Tienda El Sol 37,no registrado
+4210,RT005,200000747,Minisuper La Perla 27,no registrado
+4210,RT010,200000451,Abarrotes Las Flores 20,registrado
+4210,RT014,200000592,Frutería El Sol 50,registrado
+4210,RT012,200000574,Super San José 47,registrado
+4210,RT002,200000998,Tienda El Trebol 31,registrado
+4210,RT009,200001444,Tienda Los Alamos 74,registrado
+4210,RT007,200000240,Tienda El Progreso 93,registrado
+4210,RT009,200000275,Mercadito Santa Fe 7,no registrado
+4210,RT016,200001063,Bodega La Victoria 53,registrado
+4210,RT017,200001029,Tienda La Unión 8,registrado
+4210,RT008,200000115,Super El Progreso 72,registrado
+4210,RT004,200001257,Super San José 31,no registrado
+4210,RT004,200000224,Comercial Santa Fe 47,registrado
+4210,RT016,200001122,Frutería Del Valle 9,registrado
+4210,RT017,200001574,Super Las Flores 13,registrado
+4210,RT002,200001856,Mini Market La Fortuna 90,registrado
+4210,RT006,200001634,Comercial La Victoria 4,registrado
+4210,RT021,200000398,Bodega Buena Vista 6,registrado
+4210,RT019,200001400,Abarrotes La Fortuna 33,registrado
+4210,RT009,200001436,Comercial La Esperanza 18,registrado
+4210,RT010,200001727,Comercial La Unión 56,no registrado
+4210,RT020,200001093,Mercadito Los Pinos 8,registrado
+4210,RT017,200001133,Minisuper Los Pinos 78,no registrado
+4210,RT002,200000920,Mercadito El Trebol 34,registrado
+4210,RT019,200000920,Mercadito El Trebol 34,registrado
+4210,RT002,200000426,Mini Market La Esperanza 60,no registrado
+4210,RT015,200000061,Minisuper Santa Cruz 2,registrado
+4210,RT002,200001467,Comercial Del Valle 88,registrado
+4210,RT021,200001218,Super El Trebol 27,registrado
+4210,RT004,200001132,Minisuper El Roble 95,no registrado
+4210,RT016,200000754,Tienda Los Alamos 92,registrado
+4210,RT021,200001825,Comercial Del Valle 44,registrado
+4210,RT009,200000095,Abarrotes El Roble 72,registrado
+4210,RT014,200000658,Mini Market El Mirador 61,registrado
+4210,RT002,200001518,Comercial Las Flores 82,registrado
+4210,RT009,200000591,Comercial Santa Cruz 12,no registrado
+4210,RT006,200001160,Super La Perla 66,registrado
+4210,RT019,200000059,Mercadito La Perla 28,registrado
+4210,RT004,200001156,Abarrotes El Roble 74,no registrado
+4210,RT004,200000489,Mercadito La Perla 32,registrado
+4210,RT018,200001308,Depósito Del Valle 39,registrado
+4210,RT003,200000715,Mercadito El Sol 74,registrado
+4210,RT003,200001700,Super Santa Cruz 15,registrado
+4210,RT003,200000078,Mini Market La Unión 68,registrado
+4210,RT012,200000524,Bodega San José 91,registrado
+4210,RT009,200000267,Depósito Los Alamos 64,no registrado
+4210,RT021,200000201,Minisuper El Roble 69,registrado
+4210,RT019,200001686,Bodega El Sol 71,registrado
+4210,RT017,200001228,Minisuper Las Flores 33,registrado
+4210,RT018,200000327,Tienda El Roble 85,registrado
+4210,RT019,200000951,Frutería Los Alamos 79,registrado
+4210,RT002,200000265,Mercadito San José 6,registrado
+4210,RT016,200000637,Comercial Santa Fe 26,no registrado
+4210,RT014,200000952,Minisuper El Trebol 16,registrado
+4210,RT009,200000505,Frutería La Unión 51,no registrado
+4210,RT016,200000677,Super Santa Fe 92,registrado
+4210,RT002,200000297,Bodega La Esperanza 55,registrado
+4210,RT010,200000242,Mercadito El Encanto 12,registrado
+4210,RT003,200001747,Frutería El Trebol 34,registrado
+4210,RT017,200000234,Tienda La Fortuna 62,registrado
+4210,RT010,200001307,Bodega El Trebol 72,registrado
+4210,RT013,200001902,Super Del Valle 91,registrado
+4210,RT004,200000445,Super La Esperanza 3,registrado
+4210,RT006,200001681,Tienda San José 58,registrado
+4210,RT019,200001681,Tienda San José 58,registrado
+4210,RT017,200000228,Minisuper El Mirador 86,registrado
+4210,RT004,200000508,Abarrotes El Sol 40,registrado
+4210,RT006,200001651,Abarrotes Santa Fe 73,no registrado
+4210,RT005,200000163,Mini Market La Victoria 75,registrado
+4210,RT019,200000415,Tienda El Roble 88,registrado
+4210,RT002,200000529,Bodega La Esperanza 13,registrado
+4210,RT010,200000911,Minisuper Del Norte 27,no registrado
+4210,RT017,200001242,Depósito Los Pinos 89,registrado
+4210,RT014,200000700,Comercial San José 53,registrado
+4210,RT006,200001256,Mercadito San José 19,registrado
+4210,RT011,200001168,Depósito Santa Fe 31,no registrado
+4210,RT002,200000432,Comercial Las Flores 36,registrado
+4210,RT002,200000536,Depósito Santa Fe 41,registrado
+4210,RT006,200001390,Frutería Santa Cruz 70,registrado
+4210,RT006,200002039,Mini Market Los Alamos 89,registrado
+4210,RT002,200001595,Tienda La Unión 98,no registrado
+4210,RT008,200001777,Frutería La Perla 4,no registrado
+4210,RT003,200001367,Mini Market Los Alamos 62,no registrado
+4210,RT014,200000683,Tienda San José 77,registrado
+4210,RT008,200001140,Minisuper La Esperanza 69,registrado
+4210,RT021,200001834,Comercial Los Pinos 29,no registrado
+4210,RT014,200000751,Abarrotes Los Pinos 47,registrado
+4210,RT011,200001738,Bodega Las Flores 73,registrado
+4210,RT004,200001463,Mercadito San José 64,registrado
+4210,RT014,200000696,Minisuper El Trebol 53,no registrado
+4210,RT003,200001498,Bodega Santa Fe 94,registrado
+4210,RT019,200001874,Mini Market San José 96,no registrado
+4210,RT014,200000611,Minisuper La Victoria 46,registrado
+4210,RT009,200000430,Comercial La Fortuna 46,registrado
+4210,RT015,200000270,Tienda San José 71,registrado
+4210,RT004,200000687,Abarrotes La Perla 3,registrado
+4210,RT015,200001632,Abarrotes La Esperanza 65,registrado
+4210,RT019,200000116,Bodega La Perla 38,no registrado
+4210,RT017,200000570,Abarrotes Las Flores 45,registrado
+4210,RT007,200000503,Super Los Pinos 40,no registrado
+4210,RT019,200000077,Tienda El Roble 94,registrado
+4210,RT008,200001169,Mini Market El Sol 75,no registrado
+4210,RT002,200001488,Super El Mirador 10,no registrado
+4210,RT002,200001431,Comercial Del Valle 90,registrado
+4210,RT002,200000725,Bodega El Trebol 25,registrado
+4210,RT005,200000444,Tienda El Progreso 20,no registrado
+4210,RT019,200000953,Super Los Pinos 33,registrado
+4210,RT008,200000870,Minisuper Del Valle 2,registrado
+4210,RT008,200000791,Mercadito La Fortuna 4,no registrado
+4210,RT020,200000802,Mini Market El Trebol 63,no registrado
+4210,RT011,200001225,Super Los Alamos 66,no registrado
+4210,RT011,200001006,Mini Market El Progreso 81,registrado
+4210,RT006,200000914,Mini Market Del Valle 77,registrado
+4210,RT019,200000914,Mini Market Del Valle 77,registrado
+4210,RT016,200001752,Super El Trebol 73,registrado
+4210,RT006,200001763,Tienda El Sol 82,no registrado
+4210,RT019,200001763,Tienda El Sol 82,no registrado
+4210,RT016,200001756,Abarrotes Las Flores 2,registrado
+4210,RT009,200000955,Mini Market La Victoria 35,no registrado
+4210,RT011,200001739,Mini Market El Mirador 59,no registrado
+4210,RT021,200000969,Mercadito San José 44,registrado
+4210,RT016,200000672,Frutería Las Flores 8,registrado
+4210,RT010,200001413,Tienda Santa Cruz 23,registrado
+4210,RT017,200000517,Super La Fortuna 24,no registrado
+4210,RT003,200000546,Mercadito Del Valle 66,registrado
+4210,RT006,200002016,Tienda La Fortuna 23,no registrado
+4210,RT011,200000178,Frutería La Perla 61,no registrado
+4210,RT010,200001568,Abarrotes Los Alamos 11,registrado
+4210,RT020,200001568,Abarrotes Los Alamos 11,registrado
+4210,RT002,200000188,Super La Victoria 38,no registrado
+4210,RT008,200001789,Mercadito El Encanto 30,registrado
+4210,RT013,200000821,Mercadito Los Alamos 12,no registrado
+4210,RT017,200001044,Comercial Las Flores 71,registrado
+4210,RT002,200000145,Abarrotes La Esperanza 6,registrado
+4210,RT002,200001293,Mini Market La Perla 71,no registrado
+4210,RT019,200001293,Mini Market La Perla 71,no registrado
+4210,RT007,200000583,Bodega La Victoria 69,no registrado
+4210,RT016,200001755,Comercial La Esperanza 20,registrado
+4210,RT009,200000293,Mercadito El Encanto 9,registrado
+4210,RT018,200001374,Bodega San José 13,registrado
+4210,RT002,200000991,Super El Sol 47,registrado
+4210,RT003,200000237,Depósito La Victoria 70,no registrado
+4210,RT011,200000014,Depósito El Encanto 2,registrado
+4210,RT012,200000014,Depósito El Encanto 2,registrado
+4210,RT004,200001276,Minisuper Buena Vista 87,registrado
+4210,RT017,200001276,Minisuper Buena Vista 87,registrado
+4210,RT004,200000510,Bodega El Sol 88,registrado
+4210,RT008,200001818,Tienda La Esperanza 96,registrado
+4210,RT018,200000222,Depósito Los Pinos 87,registrado
+4210,RT002,200001823,Mercadito El Mirador 78,no registrado
+4210,RT019,200001613,Comercial Del Norte 15,no registrado
+4210,RT005,200000034,Depósito La Fortuna 28,no registrado
+4210,RT014,200001061,Comercial Del Norte 13,registrado
+4210,RT011,200001073,Frutería Santa Fe 42,registrado
+4210,RT017,200000230,Mini Market El Sol 55,registrado
+4210,RT009,200000736,Minisuper Del Norte 69,registrado
+4210,RT018,200000094,Frutería La Esperanza 74,registrado
+4210,RT004,200000131,Abarrotes Los Pinos 44,registrado
+4210,RT005,200000941,Mercadito El Sol 75,registrado
+4210,RT016,200000675,Abarrotes Los Pinos 60,registrado
+4210,RT011,200000589,Minisuper Santa Cruz 79,no registrado
+4210,RT012,200000443,Mini Market La Unión 75,registrado
+4210,RT012,200001147,Bodega El Sol 59,registrado
+4210,RT015,200001425,Bodega El Mirador 52,registrado
+4210,RT017,200000938,Mini Market Santa Fe 15,registrado
+4210,RT002,200001280,Depósito San José 45,registrado
+4210,RT019,200001280,Depósito San José 45,registrado
+4210,RT012,200000447,Mercadito Las Flores 22,registrado
+4210,RT016,200000647,Abarrotes Santa Fe 79,registrado
+4210,RT012,200000076,Mini Market Del Valle 49,registrado
+4210,RT012,200001698,Depósito La Esperanza 67,registrado
+4210,RT006,200001158,Abarrotes Las Flores 91,no registrado
+4210,RT008,200001811,Minisuper Las Flores 93,registrado
+4210,RT002,200001683,Super El Sol 21,registrado
+4210,RT022,200000691,Tienda Del Norte 63,no registrado
+4210,RT013,200000311,Abarrotes El Progreso 8,registrado
+4210,RT020,200000311,Abarrotes El Progreso 8,registrado
+4210,RT002,200001761,Mini Market La Perla 71,registrado
+4210,RT022,200000685,Abarrotes La Fortuna 10,registrado
+4210,RT003,200000353,Super Buena Vista 71,registrado
+4210,RT002,200001015,Mercadito El Progreso 14,no registrado
+4210,RT012,200001214,Frutería El Roble 29,registrado
+4210,RT011,200001177,Abarrotes San José 57,registrado
+4210,RT013,200000020,Minisuper Del Valle 90,no registrado
+4210,RT004,200000957,Tienda Del Norte 20,no registrado
+4210,RT021,200001528,Tienda El Mirador 9,no registrado
+4210,RT018,200001547,Frutería El Progreso 85,registrado
+4210,RT015,200000958,Bodega La Victoria 1,no registrado
+4210,RT018,200001492,Bodega La Unión 68,registrado
+4210,RT012,200001940,Frutería Las Flores 35,registrado
+4210,RT011,200000135,Frutería La Esperanza 44,registrado
+4210,RT022,200000681,Frutería La Esperanza 47,no registrado
+4210,RT016,200000909,Minisuper La Victoria 32,registrado
+4210,RT016,200001601,Depósito La Unión 89,no registrado
+4210,RT007,200000498,Bodega Santa Fe 6,registrado
+4210,RT015,200001195,Bodega La Esperanza 37,registrado
+4210,RT003,200000573,Comercial Santa Cruz 53,registrado
+4210,RT003,200000335,Minisuper Santa Cruz 45,no registrado
+4210,RT005,200001646,Comercial Las Flores 43,registrado
+4210,RT011,200000172,Minisuper La Esperanza 96,no registrado
+4210,RT011,200001397,Depósito Santa Fe 90,registrado
+4210,RT015,200001343,Minisuper Santa Cruz 92,registrado
+4210,RT022,200001612,Depósito El Roble 31,no registrado
+4210,RT016,200001919,Tienda La Esperanza 28,no registrado
+4210,RT011,200000159,Abarrotes El Trebol 21,no registrado
+4210,RT010,200001666,Minisuper Santa Cruz 20,registrado
+4210,RT008,200001062,Bodega Las Flores 67,registrado
+4210,RT010,200000693,Tienda El Encanto 74,no registrado
+4210,RT022,200000002,Minisuper El Encanto 56,no registrado
+4210,RT009,200000000,Super El Trebol 21,no registrado
+4210,RT004,200001021,Tienda Buena Vista 65,no registrado
+4210,RT004,200001536,Minisuper El Mirador 76,registrado
+4210,RT019,200001880,Comercial El Progreso 34,no registrado
+4210,RT004,200001068,Super La Perla 2,no registrado
+4210,RT002,200001799,Mini Market Santa Fe 32,registrado
+4210,RT021,200001762,Minisuper Las Flores 44,registrado
+4210,RT017,200001245,Super Del Valle 1,no registrado
+4210,RT008,200001908,Depósito La Esperanza 65,no registrado
+4210,RT018,200001446,Tienda El Encanto 35,registrado
+4210,RT018,200001515,Depósito Santa Cruz 4,registrado
+4210,RT018,200000887,Comercial La Fortuna 90,registrado
+4210,RT008,200000844,Bodega Los Pinos 93,no registrado
+4210,RT020,200000844,Bodega Los Pinos 93,no registrado
+4210,RT002,200000348,Comercial Los Pinos 41,registrado
+4210,RT008,200001813,Abarrotes El Sol 34,no registrado
+4210,RT018,200000171,Minisuper El Progreso 18,no registrado
+4210,RT017,200001045,Tienda La Perla 20,no registrado
+4210,RT003,200001287,Abarrotes San José 55,no registrado
+4210,RT008,200000232,Depósito Buena Vista 75,registrado
+4210,RT012,200000337,Bodega La Perla 76,registrado
+4210,RT011,200000360,Frutería La Unión 13,registrado
+4210,RT010,200000033,Tienda El Encanto 11,no registrado
+4210,RT017,200000203,Super Del Norte 71,registrado
+4210,RT011,200000477,Mini Market La Unión 75,no registrado
+4210,RT012,200000477,Mini Market La Unión 75,no registrado
+4210,RT015,200001130,Comercial El Roble 65,registrado
+4210,RT011,200000168,Bodega La Esperanza 42,no registrado
+4210,RT018,200000422,Bodega Los Pinos 77,registrado
+4210,RT008,200001188,Comercial Santa Fe 23,registrado
+4210,RT011,200001079,Abarrotes La Unión 66,registrado
+4210,RT005,200000367,Depósito Santa Fe 10,no registrado
+4210,RT012,200000208,Mini Market Buena Vista 59,registrado
+4210,RT014,200000663,Tienda El Mirador 50,registrado
+4210,RT014,200000657,Frutería Las Flores 71,registrado
+4210,RT021,200000141,Abarrotes El Trebol 6,registrado
+4210,RT019,200000526,Bodega Del Norte 94,registrado
+4210,RT015,200001584,Tienda La Esperanza 34,registrado
+4210,RT012,200000206,Mercadito San José 6,registrado
+4210,RT008,200001678,Mercadito Santa Cruz 53,registrado
+4210,RT021,200001115,Super La Unión 30,no registrado
+4210,RT008,200000790,Depósito Las Flores 38,no registrado
+4210,RT002,200000292,Abarrotes Santa Fe 7,registrado
+4210,RT020,200001663,Frutería El Progreso 9,no registrado
+4210,RT012,200001328,Depósito San José 18,registrado
+4210,RT017,200001610,Tienda El Encanto 22,no registrado
+4210,RT008,200001804,Bodega Las Flores 99,no registrado
+4210,RT017,200001889,Minisuper La Esperanza 49,no registrado
+4210,RT019,200000114,Depósito Buena Vista 5,no registrado
+4210,RT004,200001017,Super La Unión 13,no registrado
+4210,RT015,200000314,Abarrotes El Mirador 48,registrado
+4210,RT014,200000643,Abarrotes La Perla 50,no registrado
+4210,RT017,200001394,Abarrotes El Roble 92,registrado
+4210,RT008,200001472,Depósito Buena Vista 14,no registrado
+4210,RT006,200001654,Super Santa Fe 56,no registrado
+4210,RT017,200001251,Mini Market La Esperanza 77,registrado
+4210,RT011,200000818,Tienda Del Norte 1,no registrado
+4210,RT010,200000550,Tienda El Roble 12,registrado
+4210,RT022,200000992,Abarrotes El Roble 70,no registrado
+4210,RT002,200000694,Comercial La Unión 5,registrado
+4210,RT002,200001653,Frutería Del Norte 72,registrado
+4210,RT017,200000126,Mini Market La Fortuna 18,registrado
+4210,RT021,200001469,Super El Progreso 6,registrado
+4210,RT021,200000893,Bodega Del Norte 77,no registrado
+4210,RT011,200000191,Mini Market Las Flores 83,no registrado
+4210,RT007,200000138,Frutería El Progreso 12,no registrado
+4210,RT017,200001249,Mini Market El Progreso 90,registrado
+4210,RT018,200001357,Mercadito Del Valle 31,no registrado
+4210,RT012,200001932,Super El Roble 79,registrado
+4210,RT003,200000905,Minisuper El Progreso 50,registrado
+4210,RT011,200001478,Minisuper El Progreso 10,registrado
+4210,RT012,200001929,Mercadito La Fortuna 30,registrado
+4210,RT011,200000543,Mini Market Del Valle 97,no registrado
+4210,RT011,200000148,Comercial Los Alamos 79,registrado
+4210,RT011,200000935,Depósito La Victoria 28,registrado
+4210,RT015,200000165,Mercadito Del Norte 70,registrado
+4210,RT011,200000205,Minisuper Buena Vista 11,registrado
+4210,RT009,200002033,Bodega El Encanto 37,registrado
+4210,RT011,200000217,Comercial Buena Vista 74,registrado
+4210,RT017,200001538,Mini Market El Progreso 73,registrado
+4210,RT005,200001803,Super El Sol 60,registrado
+4210,RT009,200000908,Bodega Santa Fe 52,registrado
+4210,RT018,200000865,Depósito El Progreso 18,no registrado
+4210,RT013,200000325,Minisuper Del Valle 77,no registrado
+4210,RT006,200001719,Comercial El Mirador 9,registrado
+4210,RT008,200001622,Minisuper La Fortuna 18,no registrado
+4210,RT021,200001121,Minisuper Los Alamos 34,registrado
+4210,RT004,200000413,Minisuper Los Pinos 75,registrado
+4210,RT018,200000710,Comercial Los Pinos 70,no registrado
+4210,RT008,200001806,Mercadito El Mirador 51,no registrado
+4210,RT013,200000288,Depósito Buena Vista 94,registrado
+4210,RT017,200001890,Minisuper Del Valle 25,no registrado
+4210,RT013,200001782,Minisuper El Progreso 77,no registrado
+4210,RT004,200001143,Super La Perla 6,registrado
+4210,RT007,200000898,Super El Roble 54,no registrado
+4210,RT007,200000917,Minisuper La Esperanza 14,registrado
+4210,RT020,200000025,Mini Market Los Alamos 24,registrado
+4210,RT003,200000308,Mercadito Las Flores 10,registrado
+4210,RT012,200000582,Comercial Del Norte 59,registrado
+4210,RT022,200001578,Abarrotes Santa Cruz 51,no registrado
+4210,RT008,200001800,Tienda San José 48,no registrado
+4210,RT015,200001800,Tienda San José 48,no registrado
+4210,RT021,200000928,Mini Market El Encanto 10,registrado
+4210,RT014,200001415,Bodega Los Pinos 38,no registrado
+4210,RT014,200000636,Comercial El Encanto 19,registrado
+4210,RT017,200001893,Depósito Santa Fe 3,registrado
+4210,RT004,200001525,Minisuper La Victoria 16,no registrado
+4210,RT003,200000903,Super El Sol 10,no registrado
+4210,RT008,200002021,Super El Sol 20,no registrado
+4210,RT002,200001554,Minisuper Los Alamos 92,registrado
+4210,RT007,200000701,Comercial Santa Fe 57,no registrado
+4210,RT015,200001424,Abarrotes Buena Vista 1,no registrado
+4210,RT019,200001857,Abarrotes El Progreso 42,registrado
+4210,RT009,200000933,Mini Market Las Flores 87,no registrado
+4210,RT007,200000547,Mini Market Del Norte 65,registrado
+4210,RT017,200000547,Mini Market Del Norte 65,registrado
+4210,RT003,200001157,Mercadito El Roble 92,no registrado
+4210,RT014,200001297,Abarrotes Los Pinos 19,registrado
+4210,RT021,200001807,Depósito La Fortuna 54,no registrado
+4210,RT009,200001047,Mercadito La Fortuna 29,no registrado
+4210,RT009,200001835,Frutería El Roble 78,no registrado
+4210,RT016,200002022,Frutería La Victoria 74,registrado
+4210,RT018,200001928,Frutería San José 58,registrado
+4210,RT006,200001303,Mini Market El Sol 68,registrado
+4210,RT021,200001808,Mini Market Los Alamos 92,no registrado
+4210,RT011,200000581,Mini Market El Encanto 48,registrado
+4210,RT012,200000581,Mini Market El Encanto 48,registrado
+4210,RT009,200001564,Super Santa Cruz 68,no registrado
+4210,RT016,200000698,Bodega Los Pinos 64,registrado
+4210,RT015,200000066,Super La Esperanza 7,no registrado
+4210,RT008,200001914,Mini Market La Victoria 1,no registrado
+4210,RT015,200000966,Minisuper El Mirador 24,no registrado
+4210,RT019,200001674,Minisuper La Fortuna 90,no registrado
+4210,RT019,200001318,Mercadito El Mirador 1,no registrado
+4210,RT011,200001548,Frutería Del Valle 35,registrado
+4210,RT006,200001920,Bodega El Encanto 5,registrado
+4210,RT012,200000496,Bodega San José 67,no registrado
+4210,RT017,200000215,Super San José 41,registrado
+4210,RT014,200001695,Super La Fortuna 29,registrado
+4210,RT008,200001887,Minisuper Los Pinos 73,no registrado
+4210,RT002,200001609,Depósito El Encanto 58,no registrado
+4210,RT018,200001306,Super El Sol 51,no registrado
+4210,RT009,200001582,Bodega La Fortuna 43,no registrado
+4210,RT017,200001423,Mercadito La Victoria 91,registrado
+4210,RT002,200000182,Abarrotes La Unión 56,no registrado
+4210,RT012,200001457,Bodega San José 35,registrado
+4210,RT009,200001587,Minisuper El Trebol 95,registrado
+4210,RT017,200000741,Comercial Las Flores 86,registrado
+4210,RT003,200001643,Bodega Las Flores 36,no registrado
+4210,RT013,200001867,Minisuper Los Pinos 46,no registrado
+4210,RT020,200001867,Minisuper Los Pinos 46,no registrado
+4210,RT012,200001696,Mercadito El Mirador 96,registrado
+4210,RT010,200001244,Minisuper El Roble 82,no registrado
+4210,RT009,200001433,Comercial La Esperanza 39,no registrado
+4210,RT002,200000889,Minisuper Los Pinos 26,no registrado
+4210,RT002,200000425,Mini Market Las Flores 94,no registrado
+4210,RT018,200001341,Mercadito Santa Fe 21,registrado
+4210,RT012,200002009,Super Santa Fe 36,registrado
+4210,RT006,200001650,Super El Mirador 41,no registrado
+4210,RT019,200001350,Mini Market Del Valle 65,no registrado
+4210,RT016,200001333,Depósito Buena Vista 94,registrado
+4210,RT002,200001576,Frutería Los Pinos 93,no registrado
+4210,RT015,200000970,Mercadito El Roble 30,no registrado
+4210,RT002,200001556,Comercial Los Pinos 28,no registrado
+4210,RT012,200002003,Tienda El Mirador 96,registrado
+4210,RT017,200001238,Tienda Santa Cruz 17,registrado
+4210,RT011,200000808,Frutería La Unión 13,no registrado
+4210,RT015,200001201,Bodega La Unión 48,no registrado
+4210,RT015,200001802,Mini Market Los Alamos 99,no registrado
+4210,RT002,200001294,Bodega El Mirador 44,no registrado
+4210,RT004,200001546,Comercial El Roble 37,no registrado
+4210,RT019,200001294,Bodega El Mirador 44,no registrado
+4210,RT002,200001403,Mercadito La Victoria 82,no registrado
+4210,RT002,200000225,Tienda Santa Fe 63,registrado
+4210,RT021,200000084,Tienda Santa Fe 94,registrado
+4210,RT004,200000213,Super El Roble 83,no registrado
+4210,RT002,200000474,Bodega La Perla 87,registrado
+4210,RT004,200001150,Mercadito El Sol 95,no registrado
+4210,RT011,200001163,Minisuper El Progreso 56,no registrado
+4210,RT002,200000989,Comercial Santa Fe 93,registrado
+4210,RT012,200000279,Super Los Alamos 79,registrado
+4210,RT021,200001772,Bodega Del Norte 3,no registrado
+4210,RT003,200001288,Depósito El Mirador 4,registrado
+4210,RT018,200001375,Depósito La Fortuna 26,registrado
+4210,RT011,200001176,Tienda La Victoria 23,no registrado
+4210,RT004,200001909,Minisuper Buena Vista 42,registrado
+4210,RT016,200001182,Frutería El Encanto 90,registrado
+4210,RT010,200001049,Mini Market Santa Fe 79,registrado
+4210,RT011,200001066,Minisuper El Mirador 20,no registrado
+4210,RT012,200001066,Minisuper El Mirador 20,no registrado
+4210,RT010,200000170,Mini Market Buena Vista 47,registrado
+4210,RT008,200001502,Abarrotes El Encanto 35,registrado
+4210,RT022,200000596,Abarrotes El Sol 45,registrado
+4210,RT019,200000773,Mini Market Del Norte 46,registrado
+4210,RT009,200000960,Mercadito Los Pinos 22,registrado
+4210,RT013,200001430,Mini Market El Trebol 31,no registrado
+4210,RT006,200001707,Mini Market Buena Vista 97,no registrado
+4210,RT011,200000518,Depósito Las Flores 38,registrado
+4210,RT012,200000849,Mini Market Del Valle 35,no registrado
+4210,RT002,200000538,Tienda Los Pinos 13,registrado
+4210,RT002,200000737,Mini Market La Victoria 84,registrado
+4210,RT018,200000463,Bodega Las Flores 71,registrado
+4210,RT020,200000568,Frutería Santa Fe 21,registrado
+4210,RT011,200000436,Super La Fortuna 92,registrado
+4210,RT004,200000740,Tienda Los Pinos 45,registrado
+4210,RT002,200001231,Depósito La Fortuna 80,no registrado
+4210,RT007,200000256,Bodega Santa Cruz 6,registrado
+4210,RT014,200000959,Mercadito Los Alamos 26,registrado
+4210,RT006,200000198,Minisuper Las Flores 28,registrado
+4210,RT016,200000198,Minisuper Las Flores 28,registrado
+4210,RT019,200000339,Bodega El Encanto 70,registrado
+4210,RT017,200000216,Bodega El Encanto 96,registrado
+4210,RT002,200001234,Bodega La Fortuna 11,registrado
+4210,RT008,200001999,Super El Encanto 47,registrado
+4210,RT011,200000932,Tienda La Fortuna 1,no registrado
+4210,RT018,200000873,Mini Market La Unión 79,no registrado
+4210,RT005,200001380,Minisuper Las Flores 86,no registrado
+4210,RT010,200000334,Minisuper La Perla 69,registrado
+4210,RT005,200000827,Frutería Santa Fe 14,registrado
+4210,RT005,200000839,Mercadito El Trebol 40,registrado
+4210,RT005,200000828,Abarrotes El Mirador 25,registrado
+4210,RT005,200001127,Super Santa Fe 20,no registrado
+4210,RT003,200000924,Mini Market El Encanto 86,no registrado
+4210,RT013,200001513,Mini Market Santa Cruz 31,no registrado
+4210,RT018,200001372,Frutería Santa Cruz 30,no registrado
+4210,RT012,200001523,Comercial La Victoria 95,registrado
+4210,RT018,200000885,Mini Market San José 35,registrado
+4210,RT020,200000356,Mercadito La Fortuna 21,registrado
+4210,RT008,200001732,Tienda La Fortuna 46,registrado
+4210,RT012,200001605,Bodega San José 37,registrado
+4210,RT008,200000805,Mini Market Del Valle 24,no registrado
+4210,RT012,200001941,Bodega El Progreso 15,no registrado
+4210,RT005,200000484,Mini Market La Perla 34,registrado
+4210,RT005,200000506,Bodega Del Norte 75,registrado
+4210,RT021,200001292,Frutería La Esperanza 38,registrado
+4210,RT017,200001891,Minisuper La Perla 74,registrado
+4210,RT015,200001023,Depósito El Roble 22,registrado
+4210,RT013,200001903,Minisuper Del Norte 12,no registrado
+4210,RT012,200001937,Mercadito El Sol 96,registrado
+4210,RT018,200001191,Mercadito Santa Cruz 47,registrado
+4210,RT015,200001210,Mercadito El Mirador 20,no registrado
+4210,RT015,200001018,Frutería Las Flores 36,no registrado
+4210,RT017,200001246,Frutería El Mirador 6,registrado
+4210,RT004,200001137,Bodega Santa Cruz 22,no registrado
+4210,RT012,200001822,Bodega Las Flores 79,registrado
+4210,RT011,200000266,Mini Market La Victoria 55,no registrado
+4210,RT012,200001849,Mercadito La Victoria 21,registrado
+4210,RT018,200000500,Tienda Los Alamos 14,no registrado
+4210,RT017,200001573,Minisuper La Fortuna 17,registrado
+4210,RT012,200001520,Tienda La Esperanza 65,registrado
+4210,RT003,200000336,Minisuper El Mirador 63,no registrado
+4210,RT008,200001616,Tienda El Sol 20,registrado
+4210,RT008,200001019,Comercial La Victoria 54,registrado
+4210,RT017,200001892,Super Buena Vista 48,registrado
+4210,RT002,200001989,Mini Market La Perla 99,registrado
+4210,RT011,200001550,Mini Market Los Alamos 91,registrado
+4210,RT006,200001962,Tienda El Encanto 76,registrado
+4210,RT002,200001953,Super Del Norte 1,registrado
+4210,RT012,200001827,Super Los Alamos 12,no registrado
+4210,RT012,200000580,Tienda La Esperanza 13,registrado
+4210,RT016,200001824,Bodega El Progreso 70,registrado
+4210,RT008,200000211,Mini Market La Unión 21,no registrado
+4210,RT006,200001661,Depósito El Roble 6,registrado
+4210,RT015,200000974,Comercial El Sol 17,no registrado
+4210,RT012,200001930,Mercadito El Progreso 20,no registrado
+4210,RT019,200001636,Abarrotes El Sol 7,registrado
+4210,RT015,200000223,Depósito El Mirador 57,no registrado
+4210,RT017,200001894,Minisuper Las Flores 76,registrado
+4210,RT009,200000719,Comercial Buena Vista 67,no registrado
+4210,RT012,200001947,Comercial El Sol 25,registrado
+4210,RT014,200000686,Mercadito Los Alamos 89,registrado
+4210,RT008,200000295,Bodega La Perla 25,no registrado
+4210,RT012,200001826,Bodega San José 97,registrado
+4210,RT002,200000112,Depósito San José 27,registrado
+4210,RT011,200001259,Frutería La Victoria 48,no registrado
+4210,RT018,200001360,Comercial Santa Fe 40,registrado
+4210,RT014,200001503,Super Los Pinos 7,no registrado
+4210,RT013,200001995,Mercadito La Victoria 19,registrado
+4210,RT003,200000822,Frutería El Encanto 63,registrado
+4210,RT019,200000239,Abarrotes La Esperanza 64,registrado
+4210,RT018,200000341,Comercial Del Norte 24,registrado
+4210,RT016,200000824,Frutería La Unión 79,no registrado
+4210,RT016,200001640,Minisuper La Fortuna 30,registrado
+4210,RT016,200000972,Super El Progreso 26,no registrado
+4210,RT016,200000600,Minisuper Del Norte 16,registrado
+4210,RT016,200000749,Frutería Del Valle 90,registrado
+4210,RT016,200001861,Tienda El Roble 76,registrado
+4210,RT012,200001269,Mercadito La Victoria 74,no registrado
+4210,RT007,200000723,Depósito Santa Cruz 96,registrado
+4210,RT009,200001441,Minisuper Del Valle 21,no registrado
+4210,RT004,200000847,Mini Market La Fortuna 33,no registrado
+4210,RT007,200000274,Abarrotes Santa Fe 12,no registrado
+4210,RT017,200001347,Frutería El Progreso 5,registrado
+4210,RT009,200001475,Tienda La Esperanza 67,registrado
+4210,RT017,200001107,Frutería La Unión 40,registrado
+4210,RT001,200001607,Frutería Del Valle 49,no registrado
+4210,RT003,200001056,Mercadito La Victoria 47,no registrado
+4210,RT016,200001042,Comercial Las Flores 33,registrado
+4210,RT012,200000717,Mini Market El Trebol 87,registrado
+4210,RT009,200000343,Depósito Los Pinos 26,no registrado
+4210,RT003,200001286,Mini Market San José 20,registrado
+4210,RT004,200000472,Mini Market El Trebol 4,no registrado
+4210,RT015,200001393,Frutería El Encanto 23,no registrado
+4210,RT004,200001669,Mercadito Las Flores 27,registrado
+4210,RT012,200001934,Abarrotes Del Valle 24,registrado
+4210,RT015,200000981,Depósito Santa Fe 70,no registrado
+4210,RT011,200001178,Tienda El Trebol 85,registrado
+4210,RT004,200000143,Abarrotes Las Flores 44,registrado
+4210,RT009,200002052,Minisuper Santa Cruz 46,registrado
+4210,RT008,200001796,Bodega Los Alamos 55,no registrado
+4210,RT017,200000533,Comercial Los Pinos 6,registrado
+4210,RT015,200001340,Frutería Santa Cruz 99,no registrado
+4210,RT002,200001992,Minisuper El Encanto 10,registrado
+4210,RT010,200001405,Abarrotes San José 32,registrado
+4210,RT004,200001033,Mini Market El Progreso 9,no registrado
+4210,RT018,200001895,Mercadito La Victoria 61,registrado
+4210,RT004,200001135,Super La Unión 83,registrado
+4210,RT016,200000628,Mercadito Las Flores 26,registrado
+4210,RT002,200001078,Abarrotes San José 23,registrado
+4210,RT014,200002019,Minisuper La Victoria 14,registrado
+4210,RT014,200001956,Depósito Los Alamos 69,no registrado
+4210,RT003,200001884,Abarrotes Santa Cruz 43,registrado
+4210,RT016,200001493,Frutería Los Alamos 67,registrado
+4210,RT012,200000559,Mercadito El Encanto 23,registrado
+4210,RT009,200001071,Minisuper La Perla 19,registrado
+4210,RT003,200000877,Super El Mirador 59,registrado
+4210,RT018,200000167,Minisuper Los Alamos 19,no registrado
+4210,RT002,200000999,Frutería La Perla 30,registrado
+4210,RT009,200001476,Frutería Los Pinos 70,registrado
+4210,RT012,200001996,Mercadito El Mirador 35,registrado
+4210,RT009,200000254,Super La Unión 24,no registrado
+4210,RT002,200001088,Depósito Santa Cruz 39,registrado
+4210,RT004,200001266,Tienda El Encanto 55,registrado
+4210,RT003,200000742,Tienda El Progreso 61,registrado
+4210,RT014,200000036,Bodega El Roble 56,registrado
+4210,RT021,200000789,Frutería Del Norte 64,registrado
+4210,RT014,200000656,Tienda Santa Fe 67,no registrado
+4210,RT011,200001753,Bodega Los Alamos 34,registrado
+4210,RT015,200000306,Abarrotes La Fortuna 55,registrado
+4210,RT012,200002005,Depósito La Fortuna 23,registrado
+4210,RT017,200001209,Depósito La Fortuna 96,registrado
+4210,RT003,200000878,Tienda El Encanto 6,no registrado
+4210,RT010,200000412,Bodega Santa Fe 39,registrado
+4210,RT008,200001092,Comercial El Trebol 66,registrado
+4210,RT017,200001921,Tienda El Encanto 33,registrado
+4210,RT007,200000231,Frutería La Esperanza 42,registrado
+4210,RT011,200001623,Bodega El Sol 52,no registrado
+4210,RT021,200000934,Mini Market El Encanto 2,registrado
+4210,RT008,200000177,Mercadito Las Flores 26,no registrado
+4210,RT010,200000177,Mercadito Las Flores 26,no registrado
+4210,RT011,200000087,Abarrotes El Roble 10,registrado
+4210,RT018,200000976,Mini Market Santa Fe 45,registrado
+4210,RT011,200000154,Super La Victoria 2,no registrado
+4210,RT017,200000017,Frutería Santa Fe 37,registrado
+4210,RT012,200000949,Tienda Del Norte 58,registrado
+4210,RT013,200001510,Mini Market El Sol 35,no registrado
+4210,RT002,200001002,Mini Market El Sol 95,no registrado
+4210,RT009,200000255,Frutería La Fortuna 65,registrado
+4210,RT014,200001656,Super El Roble 19,registrado
+4210,RT008,200001792,Abarrotes El Mirador 50,no registrado
+4210,RT002,200000532,Mini Market Del Valle 49,registrado
+4210,RT007,200001852,Super El Sol 47,registrado
+4210,RT014,200001508,Frutería El Encanto 36,registrado
+4210,RT003,200001054,Bodega La Fortuna 55,registrado
+4210,RT013,200000982,Abarrotes La Unión 63,no registrado
+4210,RT008,200000896,Super El Encanto 21,registrado
+4210,RT009,200001117,Depósito Los Pinos 44,no registrado
+4210,RT021,200000555,Abarrotes El Trebol 14,no registrado
+4210,RT016,200000748,Tienda El Mirador 92,registrado
+4210,RT013,200000235,Depósito Santa Cruz 90,no registrado
+4210,RT013,200000005,Frutería Las Flores 95,no registrado
+4210,RT021,200001881,Super Los Alamos 73,no registrado
+4210,RT013,200001843,Comercial Los Pinos 85,registrado
+4210,RT018,200002001,Depósito Del Valle 35,no registrado
+4210,RT006,200001949,Bodega San José 6,registrado
+4210,RT009,200001946,Frutería Del Norte 63,no registrado
+4210,RT012,200000880,Minisuper San José 71,registrado
+4210,RT016,200000965,Tienda Santa Fe 90,registrado
+4210,RT018,200002008,Bodega La Esperanza 66,no registrado
+4210,RT007,200000869,Depósito La Unión 23,registrado
+4210,RT009,200001721,Bodega La Fortuna 83,registrado
+4210,RT010,200000983,Abarrotes La Perla 32,registrado
+4210,RT014,200000721,Tienda El Encanto 24,registrado
+4210,RT003,200001050,Minisuper El Mirador 71,registrado
+4210,RT017,200001896,Abarrotes La Victoria 33,no registrado
+4210,RT009,200001577,Minisuper Los Pinos 48,no registrado
+4210,RT018,200001112,Minisuper La Fortuna 41,registrado
+4210,RT015,200000565,Mini Market Los Pinos 2,no registrado
+4210,RT010,200000007,Comercial El Encanto 31,registrado
+4210,RT021,200000153,Tienda Santa Fe 62,no registrado
+4210,RT002,200000648,Frutería El Sol 94,registrado
+4210,RT006,200000453,Super El Trebol 55,registrado
+4210,RT016,200000453,Super El Trebol 55,registrado
+4210,RT010,200000572,Depósito Buena Vista 83,no registrado
+4210,RT019,200000027,Super El Encanto 31,no registrado
+4210,RT016,200001348,Minisuper La Esperanza 32,no registrado
+4210,RT018,200001491,Mini Market Santa Cruz 79,no registrado
+4210,RT018,200000475,Minisuper Los Alamos 58,no registrado
+4210,RT004,200000251,Mini Market El Trebol 80,registrado
+4210,RT009,200000711,Frutería La Unión 62,registrado
+4210,RT001,200001673,Super El Mirador 35,no registrado
+4210,RT018,200001660,Depósito Del Norte 47,registrado
+4210,RT012,200001098,Frutería El Trebol 15,registrado
+4210,RT008,200001141,Super Los Alamos 13,registrado
+4210,RT009,200001539,Bodega El Mirador 65,no registrado
+4210,RT008,200000467,Bodega La Perla 10,no registrado
+4210,RT008,200002010,Mini Market Del Norte 70,registrado
+4210,RT009,200000838,Super El Progreso 77,registrado
+4210,RT017,200001836,Depósito Buena Vista 28,registrado
+4210,RT009,200001589,Mercadito El Trebol 14,registrado
+4210,RT004,200000384,Minisuper San José 42,registrado
+4210,RT003,200000891,Frutería El Sol 88,registrado
+4210,RT011,200000174,Abarrotes Del Norte 36,registrado
+4210,RT017,200000302,Mini Market San José 68,registrado
+4210,RT017,200000389,Super Del Valle 52,registrado
+4210,RT011,200000136,Tienda La Fortuna 97,no registrado
+4210,RT016,200000615,Minisuper El Sol 7,registrado
+4210,RT017,200000487,Depósito San José 79,registrado
+4210,RT011,200000925,Mini Market El Roble 43,registrado
+4210,RT005,200000038,Mini Market La Esperanza 47,registrado
+4210,RT018,200001551,Minisuper Santa Cruz 90,registrado
+4210,RT008,200002000,Mini Market La Esperanza 17,registrado
+4210,RT008,200001780,Mercadito El Sol 41,no registrado
+4210,RT018,200001363,Mercadito Santa Cruz 79,no registrado
+4210,RT018,200001414,Minisuper Santa Cruz 73,registrado
+4210,RT012,200001935,Frutería Los Alamos 12,registrado
+4210,RT002,200000074,Bodega El Trebol 99,no registrado
+4210,RT016,200000617,Frutería Los Pinos 11,no registrado
+4210,RT015,200000996,Abarrotes El Sol 23,no registrado
+4210,RT012,200001933,Abarrotes La Perla 9,registrado
+4210,RT017,200001410,Super El Progreso 69,no registrado
+4210,RT020,200001986,Comercial El Sol 57,registrado
+4210,RT014,200001633,Comercial La Esperanza 6,registrado
+4210,RT008,200001793,Frutería El Sol 55,no registrado
+4210,RT008,200001801,Super Los Pinos 71,registrado
+4210,RT021,200000713,Super El Mirador 73,registrado
+4210,RT014,200001878,Tienda Los Pinos 11,registrado
+4210,RT004,200001600,Tienda El Trebol 58,registrado
+4210,RT004,200000439,Bodega La Victoria 85,no registrado
+4210,RT014,200001368,Mini Market Del Norte 65,registrado
+4210,RT017,200000439,Bodega La Victoria 85,no registrado
+4210,RT008,200001853,Bodega Santa Fe 18,no registrado
+4210,RT008,200001837,Bodega La Fortuna 36,registrado
+4210,RT008,200001776,Frutería El Sol 60,no registrado
+4210,RT021,200001624,Depósito La Perla 5,no registrado
+4210,RT008,200001411,Comercial La Perla 99,registrado
+4210,RT002,200001445,Mini Market Del Norte 12,registrado
+4210,RT017,200002035,Comercial Del Norte 5,registrado
+4210,RT019,200001819,Tienda La Fortuna 56,registrado
+4210,RT008,200001148,Minisuper Los Alamos 18,no registrado
+4210,RT018,200001381,Tienda El Sol 10,no registrado
+4210,RT017,200001557,Minisuper Buena Vista 23,no registrado
+4210,RT002,200001746,Abarrotes La Unión 15,registrado
+4210,RT005,200001675,Depósito Los Alamos 58,registrado
+4210,RT003,200000350,Minisuper Los Pinos 6,no registrado
+4210,RT008,200000697,Minisuper Buena Vista 11,registrado
+4210,RT012,200001532,Super Buena Vista 96,registrado
+4210,RT003,200001945,Abarrotes La Unión 20,registrado
+4210,RT007,200000855,Mercadito El Mirador 5,no registrado
+4210,RT004,200000155,Depósito El Roble 38,registrado
+4210,RT011,200001786,Depósito Las Flores 74,no registrado
+4210,RT008,200001250,Mini Market Los Pinos 70,registrado
+4210,RT022,200000019,Bodega El Progreso 41,no registrado
+4210,RT004,200001450,Super Del Valle 55,registrado
+4210,RT018,200001365,Mercadito Santa Cruz 19,registrado
+4210,RT005,200000156,Abarrotes La Perla 25,registrado
+4210,RT019,200000774,Tienda Los Pinos 11,no registrado
+4210,RT018,200000391,Super San José 41,no registrado
+4210,RT007,200000993,Super La Esperanza 14,no registrado
+4210,RT012,200001506,Tienda El Mirador 59,registrado
+4210,RT002,200001795,Abarrotes San José 91,no registrado
+4210,RT004,200001009,Super Del Norte 87,no registrado
+4210,RT017,200002018,Tienda El Trebol 21,no registrado
+4210,RT011,200000562,Comercial San José 53,registrado
+4210,RT016,200000652,Minisuper La Fortuna 35,registrado
+4210,RT017,200001216,Depósito Santa Fe 30,no registrado
+4210,RT014,200001338,Bodega La Victoria 39,no registrado
+4210,RT013,200000362,Bodega La Unión 40,no registrado
+4210,RT011,200001007,Mercadito El Roble 25,no registrado
+4210,RT008,200001820,Super Del Norte 73,no registrado
+4210,RT008,200001975,Comercial La Fortuna 52,registrado
+4210,RT014,200000676,Super La Esperanza 39,registrado
+4210,RT008,200001987,Super Los Pinos 73,no registrado
+4210,RT017,200001075,Abarrotes Del Valle 46,no registrado
+4210,RT010,200000123,Super Los Alamos 11,no registrado
+4210,RT008,200001797,Mini Market Santa Cruz 12,no registrado
+4210,RT011,200001787,Tienda El Sol 27,registrado
+4210,RT016,200000994,Mercadito Los Pinos 74,registrado
+4210,RT012,200001939,Abarrotes El Encanto 14,registrado
+4210,RT014,200001041,Mini Market Santa Fe 90,no registrado
+4210,RT015,200001344,Mercadito Del Norte 55,no registrado
+4210,RT017,200001024,Comercial Los Alamos 60,no registrado
+4210,RT017,200001220,Frutería El Mirador 92,registrado
+4210,RT004,200000247,Comercial La Unión 18,registrado
+4210,RT006,200000840,Depósito El Mirador 58,registrado
+4210,RT019,200000840,Depósito El Mirador 58,registrado
+4210,RT011,200000370,Mini Market Los Pinos 55,registrado
+4210,RT011,200001040,Bodega El Roble 63,no registrado
+4210,RT011,200001034,Comercial El Mirador 80,registrado
+4210,RT002,200000857,Super El Sol 68,no registrado
+4210,RT018,200001193,Minisuper La Esperanza 83,no registrado
+4210,RT013,200001421,Minisuper El Trebol 10,registrado
+4210,RT015,200000987,Tienda El Trebol 53,no registrado
+4210,RT005,200001074,Comercial Del Valle 95,registrado
+4210,RT002,200000872,Minisuper La Victoria 14,registrado
+4210,RT012,200000588,Depósito El Sol 55,registrado
+4210,RT002,200000884,Mini Market Buena Vista 96,no registrado
+4210,RT021,200001552,Mercadito La Fortuna 79,no registrado
+4210,RT018,200001364,Depósito Los Pinos 66,registrado
+4210,RT017,200001207,Minisuper Las Flores 89,registrado
+4210,RT021,200001217,Comercial Las Flores 13,no registrado
+4210,RT012,200001533,Tienda Buena Vista 92,registrado
+4210,RT017,200001387,Minisuper El Sol 19,no registrado
+4210,RT018,200000497,Frutería Del Valle 71,registrado
+4210,RT018,200001362,Comercial El Sol 14,no registrado
+4210,RT009,200000286,Depósito La Unión 32,no registrado
+4210,RT008,200001408,Mercadito La Perla 58,no registrado
+4210,RT011,200000830,Minisuper La Victoria 72,no registrado
+4210,RT013,200001511,Mini Market Del Norte 18,no registrado
+4210,RT011,200001051,Tienda El Trebol 76,no registrado
+4210,RT017,200001897,Comercial La Esperanza 12,registrado
+4210,RT018,200001300,Minisuper El Mirador 21,registrado
+4210,RT011,200001069,Mini Market La Esperanza 31,no registrado
+4210,RT012,200001069,Mini Market La Esperanza 31,no registrado
+4210,RT014,200000820,Depósito El Sol 81,no registrado
+4210,RT001,200001392,Abarrotes Los Alamos 23,no registrado
+4210,RT007,200000688,Tienda Del Valle 30,no registrado
+4210,RT020,200001990,Minisuper La Esperanza 6,no registrado
+4210,RT020,200000899,Bodega El Roble 85,no registrado
+4210,RT015,200000404,Minisuper Santa Fe 64,no registrado
+4210,RT008,200001814,Minisuper La Esperanza 74,registrado
+4210,RT004,200000618,Frutería El Progreso 1,registrado
+4210,RT001,200000902,Abarrotes El Roble 50,registrado
+4210,RT022,200000929,Bodega Buena Vista 13,registrado
+4210,RT021,200001714,Minisuper El Encanto 43,registrado
+4210,RT016,200000653,Super Buena Vista 79,registrado
+4210,RT014,200001319,Minisuper Buena Vista 31,registrado
+4210,RT016,200001447,Bodega La Unión 54,registrado
+4210,RT015,200000819,Mini Market El Mirador 64,registrado
+4210,RT011,200001670,Bodega Buena Vista 58,registrado
+4210,RT007,200001265,Comercial El Roble 95,registrado
+4210,RT007,200000814,Comercial Santa Cruz 82,no registrado
+4210,RT007,200001103,Frutería Santa Fe 32,no registrado
+4210,RT010,200001080,Super Santa Fe 50,registrado
+4210,RT015,200001320,Frutería La Victoria 21,registrado
+4210,RT010,200001083,Abarrotes La Perla 75,registrado
+4210,RT018,200000926,Mini Market La Unión 9,registrado
+4210,RT014,200000635,Minisuper Los Pinos 27,registrado
+4210,RT008,200000291,Super Del Valle 75,registrado
+4210,RT015,200000973,Super La Unión 27,registrado
+4210,RT016,200001965,Abarrotes La Fortuna 94,registrado
+4210,RT016,200001282,Minisuper Buena Vista 13,no registrado
+4210,RT007,200001783,Bodega El Mirador 31,no registrado
+4210,RT007,200000753,Mercadito Santa Fe 85,registrado
+4210,RT016,200000823,Mini Market El Encanto 80,no registrado
+4210,RT019,200001765,Mercadito Las Flores 93,registrado
+4210,RT005,200000013,Frutería La Esperanza 42,registrado
+4210,RT011,200001181,Mini Market Las Flores 96,no registrado
+4210,RT014,200001085,Super El Mirador 68,registrado
+4210,RT009,200001664,Comercial Las Flores 56,no registrado
+4210,RT004,200000961,Bodega La Victoria 13,registrado
+4210,RT011,200000927,Depósito Del Norte 81,no registrado
+4210,RT021,200000746,Mini Market Las Flores 49,registrado
+4210,RT006,200001701,Abarrotes Los Pinos 24,no registrado
+4210,RT011,200001742,Frutería La Unión 74,no registrado
+4210,RT019,200001980,Super Las Flores 45,no registrado
+4210,RT016,200001226,Abarrotes Del Valle 96,no registrado
+4210,RT020,200001273,Frutería La Fortuna 83,no registrado
+4210,RT007,200000245,Mercadito Santa Fe 26,no registrado
+4210,RT007,200001611,Super La Unión 58,no registrado
+4210,RT009,200001809,Super La Unión 97,no registrado
+4210,RT006,200001206,Mercadito El Sol 80,registrado
+4210,RT019,200001206,Mercadito El Sol 80,registrado
+4210,RT021,200001631,Tienda El Encanto 99,registrado
+4210,RT020,200000689,Minisuper La Fortuna 68,registrado
+4210,RT007,200002026,Comercial El Trebol 92,registrado
+4210,RT009,200002017,Mini Market Del Norte 69,registrado
+4210,RT011,200000431,Frutería San José 73,registrado
+4210,RT011,200001065,Super Buena Vista 21,no registrado
+4210,RT009,200001439,Tienda Del Norte 99,registrado
+4210,RT012,200001487,Minisuper Del Valle 1,registrado
+4210,RT012,200002006,Comercial La Fortuna 38,registrado
+4210,RT003,200000323,Depósito La Unión 60,registrado
+4210,RT021,200000975,Depósito Santa Fe 52,registrado
+4210,RT002,200000119,Bodega Del Valle 58,registrado
+4210,RT004,200001628,Super Los Pinos 37,registrado
+4210,RT012,200000409,Tienda Del Norte 65,registrado
+4210,RT005,200001626,Mercadito Del Valle 97,registrado
+4210,RT022,200000605,Abarrotes El Encanto 36,registrado
+4210,RT021,200001885,Mercadito El Sol 77,no registrado
+4210,RT004,200001514,Frutería San José 80,registrado
+4210,RT014,200000594,Minisuper La Esperanza 14,no registrado
+4210,RT022,200000868,Bodega El Mirador 41,no registrado
+4210,RT022,200000786,Tienda Las Flores 24,registrado
+4210,RT001,200000324,Minisuper La Esperanza 85,registrado
+4210,RT004,200001687,Mini Market La Esperanza 2,no registrado
+4210,RT022,200000980,Tienda La Unión 38,no registrado
+4210,RT012,200000866,Mercadito Los Pinos 84,registrado
+4210,RT020,200000040,Depósito San José 96,registrado
+4210,RT021,200000916,Comercial Los Alamos 3,registrado
+4210,RT012,200001081,Mercadito El Trebol 89,registrado
+4210,RT015,200000729,Depósito El Encanto 98,no registrado
+4210,RT021,200000207,Comercial El Roble 35,no registrado
+4210,RT007,200000755,Mercadito El Trebol 44,registrado
+4210,RT017,200000755,Mercadito El Trebol 44,registrado
+4210,RT012,200000372,Mini Market El Sol 8,registrado
+4210,RT008,200000795,Bodega El Trebol 48,registrado
+4210,RT014,200000892,Minisuper La Victoria 60,registrado
+4210,RT012,200001767,Frutería Del Valle 8,registrado
+4210,RT001,200000018,Abarrotes El Progreso 72,registrado
+4210,RT001,200000803,Bodega El Sol 95,no registrado
+4210,RT012,200001594,Depósito Santa Fe 19,registrado
+4210,RT014,200001521,Depósito Las Flores 91,registrado
+4210,RT020,200001108,Minisuper El Mirador 94,registrado
+4210,RT001,200000613,Depósito La Victoria 37,no registrado
+4210,RT019,200001658,Mini Market Las Flores 28,registrado
+4210,RT010,200000392,Frutería La Esperanza 57,registrado
+4210,RT001,200000142,Mini Market Santa Cruz 99,registrado
+4210,RT015,200001563,Tienda Buena Vista 2,registrado
+4210,RT021,200000812,Abarrotes Los Alamos 40,registrado
+4210,RT016,200000772,Abarrotes El Progreso 66,registrado
+4210,RT006,200001161,Minisuper La Fortuna 30,registrado
+4210,RT012,200000564,Tienda La Victoria 12,registrado
+4210,RT017,200000481,Depósito La Esperanza 33,registrado
+4210,RT004,200001757,Depósito Los Pinos 34,registrado
+4210,RT020,200000073,Depósito Los Alamos 62,registrado
+4210,RT002,200001991,Mercadito La Victoria 30,registrado
+4210,RT018,200000083,Frutería Buena Vista 72,no registrado
+4210,RT013,200001252,Mercadito Del Valle 47,registrado
+4210,RT001,200000785,Bodega Santa Cruz 36,registrado
+4210,RT007,200000393,Mini Market San José 98,no registrado
+4210,RT007,200000287,Super Santa Cruz 98,registrado
+4210,RT021,200001662,Super Los Pinos 47,no registrado
+4210,RT013,200000923,Mini Market Santa Fe 44,registrado
+4210,RT008,200000864,Tienda La Perla 2,registrado
+4210,RT016,200000041,Bodega Las Flores 49,registrado
+4210,RT018,200001105,Minisuper El Roble 90,registrado
+4210,RT010,200000149,Minisuper El Sol 29,no registrado
+4210,RT019,200001417,Mini Market El Progreso 74,registrado
+4210,RT019,200000757,Mercadito El Mirador 64,registrado
+4210,RT017,200000458,Mercadito Del Valle 94,registrado
+4210,RT016,200000921,Super La Victoria 7,registrado
+4210,RT015,200000029,Minisuper La Fortuna 32,registrado
+4210,RT015,200000303,Tienda El Encanto 85,registrado
+4210,RT003,200000102,Bodega El Mirador 16,registrado
+4210,RT007,200000227,Minisuper El Mirador 20,no registrado
+4210,RT016,200000684,Mercadito El Mirador 39,registrado
+4210,RT015,200000101,Abarrotes Los Pinos 53,registrado
+4210,RT011,200000514,Tienda La Victoria 7,no registrado
+4210,RT005,200000236,Depósito El Encanto 2,registrado
+4210,RT011,200000262,Minisuper El Encanto 17,registrado
+4210,RT009,200000504,Minisuper El Mirador 68,no registrado
+4210,RT018,200000758,Mercadito Buena Vista 22,registrado
+4210,RT003,200000539,Mini Market Del Norte 77,registrado
+4210,RT002,200000894,Bodega El Trebol 28,registrado
+4210,RT003,200000759,Comercial El Trebol 35,registrado
+4210,RT018,200001474,Frutería Buena Vista 99,no registrado
+4210,RT012,200001529,Bodega El Progreso 86,registrado
+4210,RT016,200000619,Minisuper La Unión 2,registrado
+4210,RT013,200000012,Tienda El Mirador 99,registrado
+4210,RT011,200000400,Bodega La Perla 44,no registrado
+4210,RT003,200000329,Bodega El Trebol 94,no registrado
+4210,RT015,200001203,Super El Mirador 71,no registrado
+4210,RT019,200000859,Minisuper Del Norte 46,registrado
+4210,RT018,200000825,Comercial La Victoria 55,registrado
+4210,RT015,200000858,Comercial Los Alamos 57,registrado
+4210,RT014,200000817,Mercadito Buena Vista 80,no registrado
+4210,RT003,200001537,Mercadito La Victoria 91,registrado
+4210,RT017,200000850,Mercadito La Esperanza 52,registrado
+4210,RT002,200000882,Frutería El Sol 64,registrado
+4210,RT017,200000520,Abarrotes San José 52,registrado
+4210,RT019,200000544,Mini Market Los Pinos 87,no registrado
+4210,RT018,200001402,Tienda El Progreso 68,registrado
+4210,RT010,200001223,Comercial Del Norte 63,registrado
+4210,RT008,200000886,Minisuper La Victoria 53,no registrado
+4210,RT003,200000259,Minisuper Los Pinos 62,registrado
+4210,RT003,200000876,Mercadito El Progreso 99,registrado
+4210,RT015,200000304,Mini Market La Esperanza 52,registrado
+4210,RT008,200000756,Tienda Las Flores 59,no registrado
+4210,RT020,200000756,Tienda Las Flores 59,no registrado
+4210,RT019,200001277,Minisuper Santa Fe 85,registrado
+4210,RT017,200001104,Frutería La Victoria 91,no registrado
+4210,RT018,200000351,Comercial La Fortuna 68,registrado
+4210,RT010,200001222,Bodega El Encanto 67,no registrado
+4210,RT003,200000199,Comercial San José 46,registrado
+4210,RT007,200000035,Bodega Del Valle 16,registrado
+4210,RT020,200000065,Tienda El Trebol 91,registrado
+4210,RT011,200000831,Tienda El Encanto 56,registrado
+4210,RT017,200000318,Comercial Santa Fe 24,registrado
+4210,RT014,200001785,Mercadito El Encanto 23,no registrado
+4210,RT019,200000379,Bodega Los Alamos 40,registrado
+4210,RT002,200000419,Mercadito San José 9,no registrado
+4210,RT008,200000364,Abarrotes Del Norte 30,no registrado
+4210,RT015,200000556,Minisuper La Unión 86,registrado
+4210,RT007,200000586,Mini Market Buena Vista 62,registrado
+4210,RT009,200000480,Comercial El Sol 15,registrado
+4210,RT002,200000486,Mini Market La Victoria 94,no registrado
+4210,RT017,200001383,Bodega Del Norte 51,registrado
+4210,RT003,200001290,Bodega Buena Vista 68,no registrado
+4210,RT017,200001428,Mercadito La Victoria 13,registrado
+4210,RT007,200000509,Mini Market Los Alamos 83,no registrado
+4210,RT018,200001376,Frutería La Esperanza 82,registrado
+4210,RT017,200000051,Bodega El Mirador 39,registrado
+4210,RT021,200001170,Abarrotes Las Flores 38,registrado
+4210,RT003,200001285,Depósito La Perla 14,registrado
+4210,RT011,200001558,Comercial La Esperanza 56,registrado
+4210,RT015,200001106,Bodega La Perla 73,registrado
+4210,RT004,200000128,Minisuper Los Pinos 91,registrado
+4210,RT006,200001717,Depósito Las Flores 67,registrado
+4210,RT009,200001442,Abarrotes El Sol 3,no registrado
+4210,RT010,200000204,Frutería Santa Cruz 12,no registrado
+4210,RT006,200001750,Depósito La Perla 10,registrado
+4210,RT008,200001016,Comercial El Mirador 57,registrado
+4210,RT004,200001059,Depósito El Roble 19,registrado
+4210,RT002,200000104,Frutería Las Flores 60,registrado
+4210,RT010,200000127,Depósito El Sol 94,registrado
+4210,RT014,200000260,Super La Perla 56,registrado
+4210,RT017,200000096,Minisuper La Victoria 35,registrado
+4210,RT019,200000516,Bodega Las Flores 12,registrado
+4210,RT008,200000063,Depósito El Trebol 51,registrado
+4210,RT006,200001692,Comercial San José 42,no registrado
+4210,RT008,200001378,Bodega El Mirador 10,registrado
+4210,RT006,200001988,Frutería Santa Fe 45,no registrado
+4210,RT008,200000010,Frutería Los Alamos 28,registrado
+4210,RT002,200000162,Abarrotes Los Alamos 74,registrado
+4210,RT004,200000459,Bodega El Roble 54,no registrado
+4210,RT004,200001961,Tienda Los Pinos 35,registrado
+4210,RT021,200000238,Bodega Las Flores 47,no registrado
+4210,RT002,200000552,Abarrotes La Fortuna 27,registrado
+4210,RT018,200000273,Abarrotes Santa Cruz 63,no registrado
+4210,RT011,200000124,Bodega El Encanto 27,registrado
+4210,RT014,200000644,Super El Sol 81,no registrado
+4210,RT003,200000261,Mercadito La Unión 86,no registrado
+4210,RT019,200000307,Minisuper La Fortuna 9,registrado
+4210,RT010,200000377,Abarrotes Los Pinos 96,no registrado
+4210,RT011,200000257,Frutería El Progreso 95,registrado
+4210,RT005,200000021,Tienda El Progreso 19,registrado
+4210,RT008,200000072,Depósito La Esperanza 9,no registrado
+4210,RT018,200001139,Mercadito Del Valle 93,registrado
+4210,RT015,200000071,Frutería La Fortuna 32,registrado
+4210,RT019,200000028,Abarrotes Las Flores 80,registrado
+4210,RT015,200000493,Super Las Flores 66,registrado
+4210,RT011,200001067,Mini Market El Encanto 30,no registrado
+4210,RT018,200001994,Bodega San José 81,registrado
+4210,RT004,200001531,Abarrotes Buena Vista 74,no registrado
+4210,RT021,200000196,Super La Perla 42,registrado
+4210,RT018,200001096,Mercadito La Unión 81,registrado
+4210,RT010,200000390,Comercial La Perla 85,registrado
+4210,RT011,200000495,Bodega La Unión 30,registrado
+4210,RT012,200000495,Bodega La Unión 30,registrado
+4210,RT004,200001262,Frutería El Progreso 99,registrado
+4210,RT011,200001126,Minisuper Del Valle 47,registrado
+4210,RT017,200000551,Frutería La Perla 9,registrado
+4210,RT003,200000250,Tienda Las Flores 59,registrado
+4210,RT003,200000708,Depósito La Unión 92,registrado
+4210,RT018,200001136,Mini Market Buena Vista 58,registrado
+4210,RT020,200000560,Depósito El Sol 72,registrado
+4210,RT021,200000482,Comercial La Fortuna 38,registrado
+4210,RT004,200000108,Abarrotes Santa Fe 4,registrado
+4210,RT016,200000373,Mercadito La Fortuna 59,registrado
+4210,RT012,200000557,Mercadito La Fortuna 8,registrado
+4210,RT017,200000385,Abarrotes El Sol 49,registrado
+4210,RT021,200001332,Mini Market Santa Cruz 96,registrado
+4210,RT016,200001565,Super Santa Cruz 37,registrado
+4210,RT002,200000374,Bodega San José 20,registrado
+4210,RT003,200000055,Frutería Buena Vista 96,registrado
+4210,RT004,200000284,Bodega Los Pinos 24,no registrado
+4210,RT009,200000221,Mini Market Los Pinos 69,registrado
+4210,RT011,200001171,Comercial El Encanto 95,registrado
+4210,RT004,200001011,Mini Market El Sol 3,no registrado
+4210,RT007,200000988,Mini Market Los Pinos 31,no registrado
+4210,RT003,200000743,Tienda El Progreso 91,registrado
+4210,RT006,200001898,Minisuper Las Flores 9,registrado
+4210,RT011,200001164,Tienda La Esperanza 1,registrado
+4210,RT018,200000328,Minisuper El Trebol 28,registrado
+4210,RT013,200001048,Mini Market Buena Vista 23,no registrado
+4210,RT008,200000080,Comercial Los Alamos 6,registrado
+4210,RT021,200000125,Super La Esperanza 67,registrado
+4210,RT004,200000368,Comercial Los Pinos 64,registrado
+4210,RT002,200000762,Minisuper El Trebol 26,no registrado
+4210,RT007,200000241,Frutería El Encanto 63,registrado
+4210,RT018,200001089,Comercial La Unión 6,registrado
+4210,RT002,200001657,Mini Market El Encanto 87,no registrado
+4210,RT002,200001968,Depósito El Mirador 37,registrado
+4210,RT007,200000411,Comercial El Mirador 8,registrado
+4210,RT020,200000264,Comercial Del Norte 77,registrado
+4210,RT004,200000971,Tienda Santa Fe 72,no registrado
+4210,RT003,200001289,Minisuper Del Valle 31,registrado
+4210,RT003,200001342,Mercadito El Roble 60,registrado
+4210,RT018,200000460,Abarrotes Las Flores 50,registrado
+4210,RT019,200001676,Comercial Las Flores 27,registrado
+4210,RT017,200001331,Comercial Las Flores 20,no registrado
+4210,RT003,200000016,Abarrotes El Roble 42,registrado
+4210,RT008,200000009,Frutería El Sol 41,registrado
+4210,RT003,200000281,Abarrotes El Roble 61,no registrado
+4210,RT003,200000357,Comercial El Encanto 72,no registrado
+4210,RT021,200001509,Frutería La Fortuna 43,no registrado
+4210,RT018,200000047,Tienda Del Norte 48,registrado
+4210,RT020,200000347,Tienda San José 7,registrado
+4210,RT004,200001060,Abarrotes El Mirador 30,registrado
+4210,RT015,200001162,Depósito Santa Fe 56,registrado
+4210,RT003,200001052,Tienda Los Pinos 48,registrado
+4210,RT009,200000269,Frutería San José 22,registrado
+4210,RT006,200000584,Minisuper Santa Fe 53,registrado
+4210,RT016,200000584,Minisuper Santa Fe 53,registrado
+4210,RT018,200000380,Comercial El Encanto 12,registrado
+4210,RT022,200000607,Super El Mirador 40,registrado
+4210,RT011,200001451,Abarrotes El Progreso 7,no registrado
+4210,RT015,200000278,Comercial El Mirador 13,registrado
+4210,RT019,200000485,Depósito La Perla 53,no registrado
+4210,RT010,200000042,Mercadito San José 27,registrado
+4210,RT003,200001922,Mini Market San José 31,registrado
+4210,RT017,200001549,Frutería Santa Fe 22,registrado
+4210,RT014,200000660,Comercial La Unión 86,no registrado
+4210,RT014,200000654,Bodega La Unión 94,registrado
+4210,RT004,200001311,Minisuper La Victoria 85,registrado
+4210,RT021,200001407,Abarrotes Buena Vista 48,registrado
+4210,RT011,200000513,Comercial La Victoria 59,registrado
+4210,RT011,200001174,Tienda La Perla 73,no registrado
+4210,RT012,200001620,Tienda La Victoria 13,registrado
+4210,RT011,200001179,Mini Market El Progreso 16,no registrado
+4210,RT015,200000567,Minisuper Santa Fe 82,registrado
+4210,RT003,200000466,Mini Market El Mirador 88,registrado
+4210,RT017,200002037,Super El Encanto 60,registrado
+4210,RT011,200001452,Bodega La Perla 5,no registrado
+4210,RT003,200000354,Mercadito El Trebol 48,registrado
+4210,RT021,200001213,Bodega El Encanto 18,registrado
+4210,RT009,200000985,Depósito El Progreso 24,registrado
+4210,RT017,200000722,Super Santa Fe 93,no registrado
+4210,RT007,200001693,Depósito Los Alamos 92,no registrado
+4210,RT011,200001038,Minisuper Santa Fe 54,no registrado
+4210,RT011,200001175,Super Buena Vista 61,no registrado
+4210,RT006,200001858,Bodega Del Valle 15,registrado
+4210,RT019,200001858,Bodega Del Valle 15,registrado
+4210,RT004,200000930,Bodega San José 35,no registrado
+4210,RT011,200001296,Tienda El Roble 1,no registrado
+4210,RT009,200001957,Tienda El Trebol 8,registrado
+4210,RT017,200000219,Minisuper El Encanto 52,registrado
+4210,RT019,200000070,Tienda Santa Fe 30,registrado
+4210,RT004,200000979,Bodega El Sol 36,registrado
+4210,RT014,200001713,Depósito La Perla 71,no registrado
+4210,RT014,200001522,Frutería Santa Cruz 51,registrado
+4210,RT021,200000371,Minisuper Las Flores 44,registrado
+4210,RT008,200000764,Mercadito Los Alamos 56,registrado
+4210,RT009,200000457,Comercial La Unión 61,registrado
+4210,RT019,200000054,Tienda El Mirador 83,registrado
+4210,RT003,200000488,Minisuper Las Flores 21,registrado
+4210,RT009,200000166,Depósito El Sol 31,no registrado
+4210,RT004,200000202,Bodega El Encanto 65,registrado
+4210,RT010,200000403,Frutería El Mirador 56,registrado
+4210,RT011,200001180,Comercial El Roble 60,no registrado
+4210,RT009,200000210,Minisuper Del Valle 76,registrado
+4210,RT015,200000243,Frutería Los Alamos 39,no registrado
+4210,RT002,200000187,Mercadito Las Flores 37,no registrado
+4210,RT007,200001993,Super Los Pinos 39,no registrado
+4210,RT019,200000322,Tienda Santa Cruz 75,registrado
+4210,RT003,200000525,Abarrotes La Perla 47,no registrado
+4210,RT003,200000310,Bodega La Victoria 69,registrado
+4210,RT019,200001868,Tienda Santa Fe 73,registrado
+4210,RT007,200000423,Comercial La Fortuna 35,no registrado
+4210,RT009,200000745,Mercadito La Fortuna 20,registrado
+4210,RT003,200001542,Minisuper La Unión 7,no registrado
+4210,RT009,200001440,Comercial La Perla 84,registrado
+4210,RT002,200000744,Mercadito El Sol 20,registrado
+4210,RT014,200000669,Mini Market El Roble 70,registrado
+4210,RT003,200001960,Bodega El Mirador 50,registrado
+4210,RT008,200000089,Comercial La Perla 15,registrado
+4210,RT011,200000185,Minisuper El Trebol 35,no registrado
+4210,RT021,200001838,Frutería El Mirador 79,no registrado
+4210,RT016,200001966,Mercadito Santa Cruz 4,registrado
+4210,RT018,200001336,Bodega El Progreso 49,registrado
+4210,RT014,200000606,Mercadito Los Pinos 18,no registrado
+4210,RT005,200000434,Frutería Santa Fe 30,no registrado
+4210,RT014,200000984,Frutería Buena Vista 9,no registrado
+4210,RT016,200001580,Minisuper Las Flores 34,no registrado
+4210,RT014,200001560,Mercadito Del Norte 6,no registrado
+4210,RT016,200002049,Mini Market San José 73,registrado
+4210,RT013,200000075,Minisuper Los Alamos 70,no registrado
+4210,RT013,200000438,Abarrotes Santa Fe 11,no registrado
+4210,RT021,200001736,Minisuper La Perla 15,no registrado
+4210,RT015,200001310,Mini Market Del Valle 44,no registrado
+4210,RT014,200000682,Tienda La Fortuna 72,no registrado
+4210,RT008,200000704,Comercial Los Alamos 22,no registrado
+4210,RT021,200000977,Abarrotes La Victoria 61,no registrado
+4210,RT020,200000541,Mini Market La Unión 10,no registrado
+4210,RT009,200000558,Tienda La Fortuna 96,no registrado
+4210,RT007,200000901,Mini Market Del Norte 81,no registrado
+4210,RT011,200001597,Comercial El Progreso 92,no registrado
+4210,RT017,200001585,Bodega El Trebol 57,no registrado
+4210,RT019,200001291,Super La Unión 22,no registrado
+4210,RT002,200001500,Frutería El Trebol 42,no registrado
+4210,RT005,200000173,Abarrotes La Fortuna 66,no registrado
+4210,RT011,200001495,Mini Market Del Norte 67,no registrado
+4210,RT017,200001910,Depósito La Fortuna 44,registrado
+4210,RT009,200000499,Tienda Las Flores 83,registrado
+4210,RT017,200002050,Frutería Buena Vista 96,registrado
+4210,RT015,200000092,Abarrotes El Sol 64,registrado
+4210,RT015,200000752,Tienda Las Flores 15,registrado
+4210,RT015,200000995,Mercadito El Trebol 79,registrado
+4210,RT019,200001354,Comercial Buena Vista 13,registrado
+4210,RT009,200000964,Mercadito El Mirador 18,registrado
+4210,RT003,200000904,Depósito Las Flores 89,registrado
+4210,RT006,200001899,Bodega Del Valle 76,registrado
+4210,RT006,200001741,Super La Perla 90,registrado
+4210,RT017,200001239,Minisuper El Progreso 75,registrado
+4210,RT017,200001317,Mercadito Los Alamos 56,registrado
+4210,RT021,200001449,Super Las Flores 5,registrado
+4210,RT011,200000464,Depósito Los Alamos 82,registrado
+4210,RT013,200001982,Super Los Pinos 32,no registrado
+4210,RT016,200002032,Depósito La Victoria 91,no registrado
+4210,RT018,200001212,Frutería El Trebol 82,registrado
+4210,RT004,200001352,Mercadito El Encanto 91,no registrado
+4210,RT015,200000699,Mini Market El Mirador 65,registrado
+4210,RT003,200000057,Comercial El Trebol 94,registrado
+4210,RT011,200000962,Super El Sol 12,no registrado
+4210,RT019,200001869,Super Los Pinos 40,registrado
+4210,RT017,200001236,Depósito Del Norte 48,registrado
+4210,RT021,200001263,Bodega Santa Cruz 94,no registrado
+4210,RT004,200000144,Mini Market El Progreso 5,registrado
+4210,RT016,200000673,Super La Fortuna 26,registrado
+4210,RT009,200000317,Comercial La Perla 4,no registrado
+4210,RT008,200000263,Super Del Valle 40,no registrado
+4210,RT006,200001604,Super La Unión 56,registrado
+4210,RT019,200001604,Super La Unión 56,registrado
+4210,RT022,200000045,Depósito La Perla 64,registrado
+4210,RT012,200000283,Mini Market San José 4,registrado
+4210,RT011,200001173,Bodega El Sol 14,registrado
+4210,RT007,200002025,Comercial Del Valle 57,no registrado
+4210,RT021,200000396,Depósito El Roble 3,registrado
+4210,RT012,200001638,Bodega El Encanto 46,registrado
+4210,RT008,200000793,Frutería El Mirador 44,registrado
+4210,RT013,200001349,Super La Unión 26,no registrado
+4210,RT010,200001606,Bodega Los Pinos 76,registrado
+4210,RT008,200001731,Minisuper El Progreso 53,no registrado
+4210,RT017,200001841,Abarrotes El Encanto 48,no registrado
+4210,RT011,200000218,Tienda Del Norte 4,no registrado
+4210,RT002,200001030,Mini Market Las Flores 72,no registrado
+4210,RT010,200001672,Bodega La Victoria 85,no registrado
+4210,RT017,200000410,Super Los Alamos 78,registrado
+4210,RT015,200000344,Comercial El Roble 98,registrado
+4210,RT014,200000645,Mercadito Santa Fe 75,registrado
+4210,RT016,200002046,Bodega San José 58,registrado
+4210,RT001,200001448,Super Los Alamos 15,registrado
+4210,RT022,200000345,Bodega Del Norte 31,no registrado
+4210,RT011,200000289,Bodega Santa Cruz 96,no registrado
+4210,RT019,200001978,Minisuper El Trebol 48,no registrado
+4210,RT021,200001398,Super Los Pinos 68,registrado
+4210,RT003,200000455,Mercadito Los Alamos 72,no registrado
+4210,RT007,200000810,Mercadito Santa Cruz 16,registrado
+4210,RT007,200000705,Super Buena Vista 74,no registrado
+4210,RT015,200000058,Abarrotes La Esperanza 23,no registrado
+4210,RT014,200001353,Super Santa Cruz 32,no registrado
+4210,RT018,200000834,Depósito El Trebol 31,registrado
+4210,RT012,200000197,Comercial Las Flores 93,no registrado
+4210,RT011,200000378,Abarrotes El Progreso 10,registrado
+4210,RT004,200001094,Minisuper El Trebol 50,no registrado
+4210,RT017,200000229,Depósito La Victoria 12,registrado
+4210,RT004,200000620,Abarrotes Las Flores 26,no registrado
+4210,RT017,200000469,Mercadito El Roble 48,registrado
+4210,RT019,200000062,Mercadito El Trebol 17,registrado
+4210,RT013,200000590,Frutería Del Valle 42,no registrado
+4210,RT011,200000200,Mini Market Las Flores 37,registrado
+4210,RT004,200000030,Mini Market Santa Cruz 86,registrado
+4210,RT002,200000433,Super Las Flores 40,registrado
+4210,RT004,200000492,Depósito San José 61,no registrado
+4210,RT011,200000268,Minisuper La Unión 80,no registrado
+4210,RT004,200000483,Comercial La Esperanza 3,registrado
+4210,RT002,200000113,Depósito El Roble 51,registrado
+4210,RT004,200000031,Tienda La Unión 3,registrado
+4210,RT012,200000587,Mini Market El Encanto 3,registrado
+4210,RT017,200001596,Abarrotes Las Flores 57,no registrado
+4210,RT004,200000209,Frutería Santa Cruz 51,registrado
+4210,RT008,200001629,Minisuper La Esperanza 53,registrado
+4210,RT014,200000777,Tienda El Mirador 49,no registrado
+4210,RT016,200000629,Comercial La Esperanza 38,registrado
+4210,RT006,200001888,Frutería Los Alamos 79,registrado
+4210,RT022,200000639,Frutería La Esperanza 26,no registrado
+4210,RT002,200000853,Bodega San José 65,registrado
+4210,RT006,200001388,Depósito La Esperanza 20,registrado
+4210,RT017,200000442,Mini Market La Perla 19,registrado
+4210,RT017,200001235,Mini Market Los Alamos 93,registrado
+4210,RT017,200000851,Super La Fortuna 56,registrado
+4210,RT017,200001351,Frutería El Mirador 44,registrado
+4210,RT014,200000670,Comercial La Perla 30,registrado
+4210,RT016,200000631,Abarrotes El Roble 61,registrado
+4210,RT015,200000399,Tienda El Sol 57,no registrado
+4210,RT011,200000407,Depósito El Mirador 16,registrado
+4210,RT016,200001963,Comercial Los Pinos 42,no registrado
+4210,RT011,200000452,Bodega Santa Fe 78,registrado
+4210,RT021,200001553,Minisuper Buena Vista 22,registrado
+4210,RT011,200000775,Bodega La Esperanza 44,registrado
+4210,RT015,200000090,Super Del Valle 77,registrado
+4210,RT011,200000181,Bodega Santa Fe 71,no registrado
+4210,RT015,200001617,Frutería Buena Vista 17,no registrado
+4210,RT011,200000282,Bodega Los Pinos 52,registrado
+4210,RT014,200001434,Abarrotes Los Pinos 37,registrado
+4210,RT018,200000253,Depósito La Victoria 29,registrado
+4210,RT018,200001359,Tienda La Esperanza 72,registrado
+4210,RT015,200000931,Mini Market El Mirador 74,registrado
+4210,RT019,200000137,Mercadito El Progreso 16,registrado
+4210,RT011,200000285,Bodega El Mirador 61,no registrado
+4210,RT004,200001264,Frutería La Unión 63,no registrado
+4210,RT007,200001659,Tienda Del Valle 28,registrado
+4210,RT012,200001099,Super El Mirador 60,no registrado
+4210,RT017,200001025,Mini Market El Trebol 24,registrado
+4210,RT016,200001862,Bodega El Mirador 35,registrado
+4210,RT008,200001812,Super San José 41,no registrado
+4210,RT006,200001186,Frutería Los Pinos 56,no registrado
+4210,RT004,200000388,Minisuper El Progreso 84,registrado
+4210,RT009,200000522,Minisuper El Sol 45,no registrado
+4210,RT018,200001298,Comercial San José 18,registrado
+4210,RT016,200000626,Super Santa Fe 34,registrado
+4210,RT006,200001821,Minisuper Las Flores 22,registrado
+4210,RT009,200001517,Mercadito Del Norte 69,registrado
+4210,RT004,200000043,Super La Esperanza 70,no registrado
+4210,RT018,200001471,Comercial Santa Cruz 24,registrado
+4210,RT007,200001916,Tienda El Mirador 66,registrado
+4210,RT014,200001039,Mini Market La Victoria 98,registrado
+4210,RT015,200001138,Minisuper El Sol 25,registrado
+4210,RT018,200001370,Frutería El Mirador 16,registrado
+4210,RT007,200001768,Abarrotes Los Pinos 17,no registrado
+4210,RT011,200001036,Abarrotes El Sol 72,registrado
+4210,RT019,200001386,Mini Market Del Valle 6,registrado
+4210,RT013,200001455,Comercial Buena Vista 22,no registrado
+4210,RT002,200001997,Mercadito Los Alamos 4,registrado
+4210,RT007,200001923,Comercial El Mirador 59,no registrado
+4210,RT005,200001983,Minisuper El Encanto 63,registrado
+4210,RT005,200001911,Minisuper Los Alamos 53,registrado
+4210,RT007,200001972,Tienda Buena Vista 17,no registrado
+4210,RT007,200001911,Minisuper Los Alamos 53,registrado
+4210,RT014,200001543,Tienda Los Pinos 37,registrado
+4210,RT011,200000192,Frutería Del Valle 55,no registrado
+4210,RT003,200000249,Super Del Norte 51,no registrado
+4210,RT017,200001185,Abarrotes La Perla 46,registrado
+4210,RT013,200000099,Comercial El Mirador 36,registrado
+4210,RT014,200001453,Abarrotes Del Norte 29,no registrado
+4210,RT020,200000001,Depósito El Roble 98,no registrado
+4210,RT004,200001097,Frutería La Esperanza 38,no registrado
+4210,RT010,200001299,Frutería Las Flores 85,no registrado
+4210,RT013,200001271,Tienda La Fortuna 58,no registrado
+4210,RT010,200001483,Comercial La Fortuna 7,no registrado
+4210,RT004,200001102,Mini Market Los Alamos 88,no registrado
+4210,RT010,200001084,Bodega Santa Cruz 47,no registrado
+4210,RT007,200000150,Mini Market Las Flores 3,registrado
+4210,RT004,200000739,Bodega El Roble 37,no registrado
+4210,RT016,200001859,Mercadito Santa Fe 40,no registrado
+4210,RT004,200000963,Abarrotes El Encanto 92,registrado
+4210,RT021,200001927,Super La Unión 38,registrado
+4210,RT005,200000841,Comercial Santa Fe 49,no registrado
+4210,RT005,200000842,Depósito Las Flores 84,no registrado
+4210,RT004,200001316,Tienda Del Norte 89,registrado
+4210,RT003,200001572,Comercial San José 33,registrado
+4210,RT006,200002004,Abarrotes El Roble 79,registrado
+4210,RT010,200000139,Mercadito Los Alamos 50,registrado
+4210,RT012,200001925,Super La Esperanza 65,registrado
+4210,RT021,200001304,Abarrotes La Fortuna 52,registrado
+4210,RT009,200000184,Depósito Las Flores 54,registrado
+4210,RT013,200001668,Mercadito Santa Cruz 54,registrado
+4210,RT013,200001900,Mini Market Buena Vista 35,registrado
+4210,RT005,200000738,Super Santa Cruz 50,registrado
+4210,RT013,200000294,Minisuper Las Flores 64,registrado
+4210,RT004,200000922,Mercadito Del Norte 85,registrado
+4210,RT017,200001614,Super El Sol 4,registrado
+4210,RT010,200001420,Comercial Los Alamos 87,registrado
+4210,RT009,200000521,Bodega San José 42,no registrado
+4210,RT018,200001870,Depósito El Trebol 95,registrado
+4210,RT010,200001116,Comercial La Esperanza 27,registrado
+4210,RT016,200001567,Mercadito El Encanto 55,no registrado
+4210,RT010,200000190,Mercadito La Unión 84,registrado
+4210,RT015,200000706,Super La Unión 83,registrado
+4210,RT019,200001828,Abarrotes Los Alamos 44,registrado
+4210,RT005,200001970,Minisuper Del Valle 5,registrado
+4210,RT022,200001416,Frutería Del Valle 43,no registrado
+4210,RT022,200001599,Comercial El Sol 52,registrado
+4210,RT001,200000612,Depósito La Fortuna 88,registrado
+4210,RT022,200000608,Depósito El Sol 71,registrado
+4210,RT008,200001790,Bodega Los Alamos 56,registrado
+4210,RT013,200001454,Super La Unión 67,registrado
+4210,RT004,200000355,Super El Mirador 70,registrado
+4210,RT021,200001948,Frutería Buena Vista 64,no registrado
+4210,RT004,200000039,Frutería La Fortuna 83,no registrado
+4210,RT004,200000779,Tienda Santa Fe 76,registrado
+4210,RT015,200000511,Comercial La Esperanza 88,no registrado
+4210,RT016,200001740,Depósito La Fortuna 83,registrado
+4210,RT018,200000233,Bodega El Sol 63,registrado
+4210,RT003,200000093,Depósito Santa Cruz 53,registrado
+4210,RT008,200001729,Minisuper La Perla 27,no registrado
+4210,RT008,200000122,Mercadito Buena Vista 14,no registrado
+4210,RT011,200001043,Mercadito Las Flores 47,registrado
+4210,RT018,200000004,Minisuper La Perla 36,no registrado
+4210,RT014,200000598,Mercadito Santa Cruz 58,no registrado
+4210,RT014,200002023,Depósito Las Flores 89,no registrado
+4210,RT011,200000194,Bodega San José 91,registrado
+4210,RT009,200000954,Bodega Los Pinos 22,registrado
+4210,RT021,200001248,Depósito La Fortuna 28,registrado
+4210,RT008,200001842,Minisuper Los Alamos 13,no registrado
+4210,RT015,200001124,Depósito Los Alamos 61,no registrado
+4210,RT014,200001540,Super El Mirador 67,no registrado
+4210,RT018,200000867,Bodega Santa Cruz 63,registrado
+4210,RT009,200000100,Comercial El Mirador 75,no registrado
+4210,RT016,200000625,Bodega El Trebol 11,registrado
+4210,RT001,200001778,Super La Fortuna 60,no registrado
+4210,RT014,200002015,Frutería El Encanto 73,registrado
+4210,RT012,200001854,Mini Market La Perla 8,registrado
+4210,RT009,200000414,Super El Mirador 38,no registrado
+4210,RT002,200001202,Frutería Santa Fe 7,no registrado
+4210,RT017,200000714,Super La Victoria 49,registrado
+4210,RT002,200001466,Minisuper Buena Vista 92,registrado
+4210,RT019,200000454,Super La Perla 92,no registrado
+4210,RT009,200001541,Depósito El Roble 18,registrado
+4210,RT019,200000968,Mini Market Santa Cruz 9,registrado
+4210,RT003,200000244,Minisuper La Fortuna 23,registrado
+4210,RT021,200000833,Super Santa Cruz 55,no registrado
+4210,RT019,200001172,Tienda Los Pinos 78,registrado
+4210,RT011,200001035,Tienda El Roble 92,no registrado
+4210,RT017,200000465,Bodega La Esperanza 42,registrado
+4210,RT004,200000429,Mini Market La Unión 39,registrado
+4210,RT008,200001090,Mini Market La Victoria 28,registrado
+4210,RT014,200000712,Depósito Santa Fe 71,registrado
+4210,RT018,200001072,Comercial La Perla 70,registrado
+4210,RT018,200001114,Comercial Los Alamos 59,registrado
+4210,RT018,200001091,Bodega El Sol 28,registrado
+4210,RT006,200001183,Minisuper Los Pinos 55,no registrado
+4210,RT019,200001621,Mini Market Los Alamos 37,registrado
+4210,RT020,200000313,Comercial Del Valle 63,no registrado
+4210,RT005,200001004,Abarrotes La Esperanza 27,no registrado
+4210,RT007,200000280,Comercial El Mirador 24,no registrado
+4210,RT002,200001745,Bodega Santa Cruz 50,registrado
+4210,RT008,200001505,Mercadito La Fortuna 1,registrado
+4210,RT008,200001938,Tienda El Sol 84,no registrado
+4210,RT008,200001095,Bodega La Fortuna 61,registrado
+4210,RT013,200000692,Bodega El Progreso 29,no registrado
+4210,RT008,200001215,Comercial La Esperanza 15,no registrado
+4210,RT006,200001955,Comercial El Progreso 3,registrado
+4210,RT010,200000956,Mercadito Santa Cruz 34,registrado
+4210,RT018,200000727,Comercial Santa Fe 37,no registrado
+4210,RT012,200001984,Minisuper Santa Cruz 74,registrado
+4210,RT010,200002014,Frutería La Fortuna 79,registrado
+4210,RT008,200001464,Bodega El Roble 20,registrado
+4210,RT018,200001003,Super El Trebol 62,registrado
+4210,RT018,200001458,Mini Market Buena Vista 6,registrado
+4210,RT018,200001335,Depósito El Sol 91,registrado
+4210,RT004,200001369,Frutería Las Flores 32,registrado
+4210,RT008,200001791,Comercial Las Flores 5,registrado
+4210,RT004,200000408,Abarrotes El Trebol 68,no registrado
+4210,RT017,200000408,Abarrotes El Trebol 68,no registrado
+4210,RT021,200000783,Depósito Las Flores 99,registrado
+4210,RT009,200000936,Bodega Del Valle 62,no registrado
+4210,RT014,200001479,Bodega Las Flores 84,no registrado
+4210,RT014,200001267,Mercadito La Perla 13,registrado
+4210,RT016,200000271,Mercadito El Mirador 2,no registrado
+4210,RT015,200001309,Tienda San José 21,registrado
+4210,RT014,200001145,Tienda El Roble 84,registrado
+4210,RT014,200001699,Super El Progreso 85,registrado
+4210,RT014,200001976,Super La Perla 72,no registrado
+4210,RT001,200001489,Frutería Buena Vista 87,no registrado
+4210,RT022,200001598,Minisuper Del Valle 75,no registrado
+4210,RT001,200000726,Tienda La Esperanza 4,no registrado
+4210,RT022,200000788,Super San José 77,no registrado
+4210,RT022,200000709,Bodega La Esperanza 55,no registrado
+4210,RT001,200000003,Abarrotes Buena Vista 83,no registrado
+4210,RT001,200000569,Depósito Las Flores 44,no registrado
+4210,RT007,200000044,Abarrotes Santa Fe 58,no registrado
+4210,RT022,200000895,Mini Market Del Valle 52,no registrado
+4210,RT016,200001270,Mercadito La Esperanza 37,registrado
+4210,RT022,200000650,Frutería La Victoria 40,registrado
+4210,RT004,200000816,Bodega Santa Cruz 13,no registrado
+4210,RT020,200000366,Tienda El Progreso 21,registrado
+4210,RT016,200001046,Bodega San José 50,registrado
+4210,RT001,200000616,Mercadito Santa Cruz 42,registrado
+4210,RT001,200001733,Frutería Del Norte 70,no registrado
+4210,RT009,200001733,Frutería Del Norte 70,no registrado
+4210,RT021,200001733,Frutería Del Norte 70,no registrado
+4210,RT012,200002011,Super Los Pinos 1,registrado
+4210,RT001,200001917,Depósito El Sol 12,no registrado
+4210,RT007,200000079,Frutería La Perla 4,registrado
+4210,RT022,200000602,Mercadito La Esperanza 29,registrado
+4210,RT010,200000575,Comercial El Roble 20,no registrado
+4210,RT015,200001128,Comercial San José 81,registrado
+4210,RT017,200001026,Tienda La Victoria 34,registrado
+4210,RT003,200000315,Depósito El Encanto 88,no registrado
+4210,RT006,200000944,Mini Market Del Norte 93,registrado
+4210,RT019,200000944,Mini Market Del Norte 93,registrado
+4210,RT002,200001615,Mini Market El Mirador 42,registrado
+4210,RT016,200000763,Minisuper La Perla 40,no registrado
+4210,RT018,200001535,Depósito El Roble 7,registrado
+4210,RT008,200001194,Minisuper Del Valle 28,registrado
+4210,RT008,200001794,Mini Market Los Pinos 17,registrado
+4210,RT010,200000147,Abarrotes Santa Fe 45,no registrado
+4210,RT017,200001924,Minisuper El Mirador 49,registrado
+4210,RT018,200001377,Depósito La Unión 31,registrado
+4210,RT017,200001912,Mercadito Santa Cruz 36,registrado
+4210,RT011,200001037,Minisuper La Esperanza 8,registrado
+4210,RT002,200001295,Abarrotes La Unión 37,registrado
+4210,RT018,200001110,Mercadito San José 17,registrado
+4210,RT009,200000376,Frutería Del Norte 58,no registrado
+4210,RT015,200001159,Tienda La Perla 31,no registrado
+4210,RT008,200001730,Mercadito La Victoria 67,registrado
+4210,RT008,200001735,Frutería El Roble 58,registrado
+4210,RT014,200000478,Mercadito Los Pinos 27,no registrado
+4210,RT001,200001691,Bodega La Perla 43,registrado
+4210,RT017,200000523,Mini Market La Victoria 98,registrado
+4210,RT003,200000050,Mercadito La Perla 75,no registrado
